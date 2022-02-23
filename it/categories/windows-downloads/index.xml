@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tutti I Download Per Windows on FileNUX</title>
+    <link>https://filenux.com/it/categories/windows-downloads/</link>
+    <description>Recent content in Tutti I Download Per Windows on FileNUX</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 18 Feb 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://filenux.com/it/categories/windows-downloads/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Scarica Adlice Diag Anti-malware per Windows (programma di installazione offline)</title>
+      <link>https://filenux.com/it/downloads/adlice-diag-windows/</link>
+      <pubDate>Fri, 18 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://filenux.com/it/downloads/adlice-diag-windows/</guid>
+      <description>Adlice Diag è un software diagnostico completo progettato per aiutare a trovare ed eliminare malware, rootkit e altre minacce da ogni angolo del sistema.</description>
+    </item>
+    
+    <item>
+      <title>Scarica Malwarebytes Anti-Malware per Windows</title>
+      <link>https://filenux.com/it/downloads/malwarebytes-windows/</link>
+      <pubDate>Wed, 12 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://filenux.com/it/downloads/malwarebytes-windows/</guid>
+      <description>Malwarebytes (Anti-Malware) è un programma di sicurezza che aiuta a rilevare e prevenire che virus, spyware e altri malware infettano il tuo computer.</description>
+    </item>
+    
+  </channel>
+</rss>

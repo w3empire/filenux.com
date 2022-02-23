@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>FileNUX - Windows、macOS、Linux用の無料ソフトウェアをダウンロードする on FileNUX</title>
+    <link>https://filenux.com/ja/</link>
+    <description>Recent content in FileNUX - Windows、macOS、Linux用の無料ソフトウェアをダウンロードする on FileNUX</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 18 Feb 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://filenux.com/ja/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Windows用のAdliceDiag Anti-malwareをダウンロードする（オフラインインストーラー）</title>
+      <link>https://filenux.com/ja/downloads/adlice-diag-windows/</link>
+      <pubDate>Fri, 18 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://filenux.com/ja/downloads/adlice-diag-windows/</guid>
+      <description>Adlice Diagは、システムの隅々からマルウェア、ルートキット、およびその他の脅威を見つけて排除するのに役立つように設計されたフルパワーの診断ソフトウェアです。</description>
+    </item>
+    
+    <item>
+      <title>Windows用のMalwarebytes Anti-Malwareをダウンロードする</title>
+      <link>https://filenux.com/ja/downloads/malwarebytes-windows/</link>
+      <pubDate>Wed, 12 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://filenux.com/ja/downloads/malwarebytes-windows/</guid>
+      <description>Malwarebytes（Anti-Malware）は、ウイルス、スパイウェア、およびその他のマルウェアがマシンに感染するのを検出して防止するのに役立つセキュリティプログラムです。</description>
+    </item>
+    
+  </channel>
+</rss>
