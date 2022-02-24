@@ -6,20 +6,11 @@
     <description>Recent content in All Categories on FileNUX</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 18 Feb 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://filenux.com/categories/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Adlice Software</title>
-      <link>https://filenux.com/categories/adlice-software/</link>
-      <pubDate>Fri, 18 Feb 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://filenux.com/categories/adlice-software/</guid>
-      <description></description>
-    </item>
-    
+    <lastBuildDate>Wed, 23 Feb 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://filenux.com/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>All Downloadables for Windows </title>
       <link>https://filenux.com/categories/windows-downloads/</link>
-      <pubDate>Fri, 18 Feb 2022 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 23 Feb 2022 00:00:00 +0000</pubDate>
       
       <guid>https://filenux.com/categories/windows-downloads/</guid>
       <description>Here you&amp;rsquo;ll find drivers, software, and utilities for Windows. Download free and paid software, games, and drivers. All you need for your Windows OS.</description>
@@ -28,7 +19,7 @@
     <item>
       <title>All downloads on FileNUX.com</title>
       <link>https://filenux.com/categories/downloads/</link>
-      <pubDate>Fri, 18 Feb 2022 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 23 Feb 2022 00:00:00 +0000</pubDate>
       
       <guid>https://filenux.com/categories/downloads/</guid>
       <description>List with all downloadables on FileNUX.com</description>
@@ -37,7 +28,7 @@
     <item>
       <title>Download the Best Anti-spyware Software for Windows</title>
       <link>https://filenux.com/categories/windows-anti-spyware-software/</link>
-      <pubDate>Fri, 18 Feb 2022 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 23 Feb 2022 00:00:00 +0000</pubDate>
       
       <guid>https://filenux.com/categories/windows-anti-spyware-software/</guid>
       <description>Spyware can steal your personal information. Download the Best Anti-spyware Softwares for Windows and Protect Your Privacy.</description>
@@ -46,9 +37,18 @@
     <item>
       <title>Malwarebytes</title>
       <link>https://filenux.com/categories/malwarebytes/</link>
-      <pubDate>Wed, 12 Jan 2022 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 23 Feb 2022 00:00:00 +0000</pubDate>
       
       <guid>https://filenux.com/categories/malwarebytes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Adlice Software</title>
+      <link>https://filenux.com/categories/adlice-software/</link>
+      <pubDate>Fri, 18 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://filenux.com/categories/adlice-software/</guid>
       <description></description>
     </item>
     

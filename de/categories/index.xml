@@ -6,20 +6,11 @@
     <description>Recent content in Alle Kategorien on FileNUX</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 18 Feb 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://filenux.com/de/categories/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Adlice Software</title>
-      <link>https://filenux.com/de/categories/adlice-software/</link>
-      <pubDate>Fri, 18 Feb 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://filenux.com/de/categories/adlice-software/</guid>
-      <description></description>
-    </item>
-    
+    <lastBuildDate>Wed, 23 Feb 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://filenux.com/de/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Alle Downloads für Windows</title>
       <link>https://filenux.com/de/categories/windows-downloads/</link>
-      <pubDate>Fri, 18 Feb 2022 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 23 Feb 2022 00:00:00 +0000</pubDate>
       
       <guid>https://filenux.com/de/categories/windows-downloads/</guid>
       <description>Hier finden Sie Treiber, Software und Dienstprogramme für Windows. Laden Sie kostenlose und kostenpflichtige Software, Spiele und Treiber herunter. Alles, was Sie für Ihr Windows-Betriebssystem benötigen.</description>
@@ -28,7 +19,7 @@
     <item>
       <title>Alle herunterladbaren Dateien auf FileNUX.com</title>
       <link>https://filenux.com/de/categories/downloads/</link>
-      <pubDate>Fri, 18 Feb 2022 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 23 Feb 2022 00:00:00 +0000</pubDate>
       
       <guid>https://filenux.com/de/categories/downloads/</guid>
       <description>Liste mit allen herunterladbaren Dateien auf FileNUX.com</description>
@@ -37,7 +28,7 @@
     <item>
       <title>Laden Sie die beste Anti-Spyware-Software für Windows herunter</title>
       <link>https://filenux.com/de/categories/windows-anti-spyware-software/</link>
-      <pubDate>Fri, 18 Feb 2022 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 23 Feb 2022 00:00:00 +0000</pubDate>
       
       <guid>https://filenux.com/de/categories/windows-anti-spyware-software/</guid>
       <description>Spyware kann Ihre persönlichen Daten stehlen. Laden Sie die beste Anti-Spyware-Software für Windows herunter und schützen Sie Ihre Privatsphäre.</description>
@@ -46,9 +37,18 @@
     <item>
       <title>Malwarebytes</title>
       <link>https://filenux.com/de/categories/malwarebytes/</link>
-      <pubDate>Wed, 12 Jan 2022 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 23 Feb 2022 00:00:00 +0000</pubDate>
       
       <guid>https://filenux.com/de/categories/malwarebytes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Adlice Software</title>
+      <link>https://filenux.com/de/categories/adlice-software/</link>
+      <pubDate>Fri, 18 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://filenux.com/de/categories/adlice-software/</guid>
       <description></description>
     </item>
     
