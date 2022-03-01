@@ -6,14 +6,41 @@
     <description>Recent content in 모든 카테고리 on FileNUX</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 23 Feb 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://filenux.com/ko/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 25 Feb 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://filenux.com/ko/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Bitdefender</title>
+      <link>https://filenux.com/ko/categories/bitdefender/</link>
+      <pubDate>Fri, 25 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://filenux.com/ko/categories/bitdefender/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>FileNUX.com에서 모든 다운로드 가능</title>
       <link>https://filenux.com/ko/categories/downloads/</link>
-      <pubDate>Wed, 23 Feb 2022 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 25 Feb 2022 00:00:00 +0000</pubDate>
       
       <guid>https://filenux.com/ko/categories/downloads/</guid>
       <description>FileNUX.com의 모든 다운로드 가능 목록</description>
+    </item>
+    
+    <item>
+      <title>Windows용 모든 다운로드 가능</title>
+      <link>https://filenux.com/ko/categories/windows-downloads/</link>
+      <pubDate>Fri, 25 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://filenux.com/ko/categories/windows-downloads/</guid>
+      <description>여기에서 Windows용 드라이버, 소프트웨어 및 유틸리티를 찾을 수 있습니다. 무료 및 유료 소프트웨어, 게임 및 드라이버를 다운로드하십시오. Windows OS에 필요한 모든 것.</description>
+    </item>
+    
+    <item>
+      <title>Windows용 최고의 방화벽 다운로드</title>
+      <link>https://filenux.com/ko/categories/windows-firewall-and-security-software/</link>
+      <pubDate>Fri, 25 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://filenux.com/ko/categories/windows-firewall-and-security-software/</guid>
+      <description>Windows용 최고의 방화벽을 다운로드하십시오. 필요에 맞는 방화벽을 찾을 수 있도록 Windows에 가장 적합한 방화벽을 나열합니다. 지금 시스템을 보호하십시오!</description>
     </item>
     
     <item>
@@ -23,15 +50,6 @@
       
       <guid>https://filenux.com/ko/categories/malwarebytes/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>Windows용 모든 다운로드 가능</title>
-      <link>https://filenux.com/ko/categories/windows-downloads/</link>
-      <pubDate>Wed, 23 Feb 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://filenux.com/ko/categories/windows-downloads/</guid>
-      <description>여기에서 Windows용 드라이버, 소프트웨어 및 유틸리티를 찾을 수 있습니다. 무료 및 유료 소프트웨어, 게임 및 드라이버를 다운로드하십시오. Windows OS에 필요한 모든 것.</description>
     </item>
     
     <item>
@@ -122,15 +140,6 @@
       
       <guid>https://filenux.com/ko/categories/windows-antivirus-software/</guid>
       <description>최고의 Windows용 바이러스 백신 소프트웨어로 컴퓨터를 안전하게 보호하십시오. 맬웨어 제거 및 사이버 공격으로부터 보호.</description>
-    </item>
-    
-    <item>
-      <title>Windows용 최고의 방화벽 다운로드</title>
-      <link>https://filenux.com/ko/categories/windows-firewall-and-security-software/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://filenux.com/ko/categories/windows-firewall-and-security-software/</guid>
-      <description>Windows용 최고의 방화벽을 다운로드하십시오. 필요에 맞는 방화벽을 찾을 수 있도록 Windows에 가장 적합한 방화벽을 나열합니다. 지금 시스템을 보호하십시오!</description>
     </item>
     
     <item>

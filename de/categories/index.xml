@@ -6,11 +6,11 @@
     <description>Recent content in Alle Kategorien on FileNUX</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 23 Feb 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://filenux.com/de/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 25 Feb 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://filenux.com/de/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Alle Downloads für Windows</title>
       <link>https://filenux.com/de/categories/windows-downloads/</link>
-      <pubDate>Wed, 23 Feb 2022 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 25 Feb 2022 00:00:00 +0000</pubDate>
       
       <guid>https://filenux.com/de/categories/windows-downloads/</guid>
       <description>Hier finden Sie Treiber, Software und Dienstprogramme für Windows. Laden Sie kostenlose und kostenpflichtige Software, Spiele und Treiber herunter. Alles, was Sie für Ihr Windows-Betriebssystem benötigen.</description>
@@ -19,10 +19,28 @@
     <item>
       <title>Alle herunterladbaren Dateien auf FileNUX.com</title>
       <link>https://filenux.com/de/categories/downloads/</link>
-      <pubDate>Wed, 23 Feb 2022 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 25 Feb 2022 00:00:00 +0000</pubDate>
       
       <guid>https://filenux.com/de/categories/downloads/</guid>
       <description>Liste mit allen herunterladbaren Dateien auf FileNUX.com</description>
+    </item>
+    
+    <item>
+      <title>Bitdefender</title>
+      <link>https://filenux.com/de/categories/bitdefender/</link>
+      <pubDate>Fri, 25 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://filenux.com/de/categories/bitdefender/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Laden Sie Die Besten Firewalls Für Windows Herunter</title>
+      <link>https://filenux.com/de/categories/windows-firewall-and-security-software/</link>
+      <pubDate>Fri, 25 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://filenux.com/de/categories/windows-firewall-and-security-software/</guid>
+      <description>Laden Sie die besten Firewalls für Windows herunter. Wir listen die besten Firewalls für Windows auf, damit Sie eine finden, die Ihren Anforderungen entspricht. Schützen Sie Ihr System jetzt!</description>
     </item>
     
     <item>
@@ -158,15 +176,6 @@
       
       <guid>https://filenux.com/de/categories/windows-disk-tools/</guid>
       <description>Laden Sie die besten Festplatten-Tools für Windows herunter, einschließlich kostenloser Festplattenanalyse-, Optimierungs-, Datenwiederherstellungs- und Defragmentierungstools.</description>
-    </item>
-    
-    <item>
-      <title>Laden Sie Die Besten Firewalls Für Windows Herunter</title>
-      <link>https://filenux.com/de/categories/windows-firewall-and-security-software/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://filenux.com/de/categories/windows-firewall-and-security-software/</guid>
-      <description>Laden Sie die besten Firewalls für Windows herunter. Wir listen die besten Firewalls für Windows auf, damit Sie eine finden, die Ihren Anforderungen entspricht. Schützen Sie Ihr System jetzt!</description>
     </item>
     
     <item>

@@ -6,20 +6,20 @@
     <description>Recent content in Все категории on FileNUX</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 23 Feb 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://filenux.com/ru/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 25 Feb 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://filenux.com/ru/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Malwarebytes</title>
-      <link>https://filenux.com/ru/categories/malwarebytes/</link>
-      <pubDate>Wed, 23 Feb 2022 00:00:00 +0000</pubDate>
+      <title>Bitdefender</title>
+      <link>https://filenux.com/ru/categories/bitdefender/</link>
+      <pubDate>Fri, 25 Feb 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://filenux.com/ru/categories/malwarebytes/</guid>
+      <guid>https://filenux.com/ru/categories/bitdefender/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Все Загружаемые Файлы Для Windows</title>
       <link>https://filenux.com/ru/categories/windows-downloads/</link>
-      <pubDate>Wed, 23 Feb 2022 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 25 Feb 2022 00:00:00 +0000</pubDate>
       
       <guid>https://filenux.com/ru/categories/windows-downloads/</guid>
       <description>Здесь вы найдете драйверы, программное обеспечение и утилиты для Windows. Загрузите бесплатное и платное программное обеспечение, игры и драйверы. Все, что вам нужно для вашей ОС Windows.</description>
@@ -28,10 +28,28 @@
     <item>
       <title>Все загружаемые файлы на FileNUX.com</title>
       <link>https://filenux.com/ru/categories/downloads/</link>
-      <pubDate>Wed, 23 Feb 2022 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 25 Feb 2022 00:00:00 +0000</pubDate>
       
       <guid>https://filenux.com/ru/categories/downloads/</guid>
       <description>Список всех загружаемых файлов на FileNUX.com</description>
+    </item>
+    
+    <item>
+      <title>Скачать Лучшие Брандмауэры Для Windows</title>
+      <link>https://filenux.com/ru/categories/windows-firewall-and-security-software/</link>
+      <pubDate>Fri, 25 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://filenux.com/ru/categories/windows-firewall-and-security-software/</guid>
+      <description>Скачайте лучшие брандмауэры для Windows. Мы перечисляем лучшие брандмауэры для Windows, чтобы вы могли найти тот, который соответствует вашим потребностям. Защитите свою систему прямо сейчас!</description>
+    </item>
+    
+    <item>
+      <title>Malwarebytes</title>
+      <link>https://filenux.com/ru/categories/malwarebytes/</link>
+      <pubDate>Wed, 23 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://filenux.com/ru/categories/malwarebytes/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -167,15 +185,6 @@
       
       <guid>https://filenux.com/ru/categories/windows-browsers-and-plugins/</guid>
       <description>Загрузите новейшие и лучшие браузеры для Windows, включая Google Chrome, Microsoft Edge, Mozilla Firefox, Opera и многие другие.</description>
-    </item>
-    
-    <item>
-      <title>Скачать Лучшие Брандмауэры Для Windows</title>
-      <link>https://filenux.com/ru/categories/windows-firewall-and-security-software/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://filenux.com/ru/categories/windows-firewall-and-security-software/</guid>
-      <description>Скачайте лучшие брандмауэры для Windows. Мы перечисляем лучшие брандмауэры для Windows, чтобы вы могли найти тот, который соответствует вашим потребностям. Защитите свою систему прямо сейчас!</description>
     </item>
     
     <item>

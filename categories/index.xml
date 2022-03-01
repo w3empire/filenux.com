@@ -6,11 +6,11 @@
     <description>Recent content in All Categories on FileNUX</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 23 Feb 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://filenux.com/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 25 Feb 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://filenux.com/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>All Downloadables for Windows </title>
       <link>https://filenux.com/categories/windows-downloads/</link>
-      <pubDate>Wed, 23 Feb 2022 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 25 Feb 2022 00:00:00 +0000</pubDate>
       
       <guid>https://filenux.com/categories/windows-downloads/</guid>
       <description>Here you&amp;rsquo;ll find drivers, software, and utilities for Windows. Download free and paid software, games, and drivers. All you need for your Windows OS.</description>
@@ -19,10 +19,28 @@
     <item>
       <title>All downloads on FileNUX.com</title>
       <link>https://filenux.com/categories/downloads/</link>
-      <pubDate>Wed, 23 Feb 2022 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 25 Feb 2022 00:00:00 +0000</pubDate>
       
       <guid>https://filenux.com/categories/downloads/</guid>
       <description>List with all downloadables on FileNUX.com</description>
+    </item>
+    
+    <item>
+      <title>Bitdefender</title>
+      <link>https://filenux.com/categories/bitdefender/</link>
+      <pubDate>Fri, 25 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://filenux.com/categories/bitdefender/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Download The Best Firewalls For Windows</title>
+      <link>https://filenux.com/categories/windows-firewall-and-security-software/</link>
+      <pubDate>Fri, 25 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://filenux.com/categories/windows-firewall-and-security-software/</guid>
+      <description>Download the best firewalls for windows. We list the best firewalls for Windows so you can find one that meets your needs. Protect your system now!</description>
     </item>
     
     <item>
@@ -131,15 +149,6 @@
       
       <guid>https://filenux.com/categories/windows-file-transfer-and-networking-software/</guid>
       <description>Download the best software for file transferring from this page. We have a variety of tools that can help you manage your files.</description>
-    </item>
-    
-    <item>
-      <title>Download The Best Firewalls For Windows</title>
-      <link>https://filenux.com/categories/windows-firewall-and-security-software/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://filenux.com/categories/windows-firewall-and-security-software/</guid>
-      <description>Download the best firewalls for windows. We list the best firewalls for Windows so you can find one that meets your needs. Protect your system now!</description>
     </item>
     
     <item>
