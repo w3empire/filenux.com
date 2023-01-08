@@ -1,64 +1,883 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>All Downloads on FileNUX</title>
+    <title>All downloads on FileNUX.com on FileNUX</title>
     <link>https://filenux.com/downloads/</link>
-    <description>Recent content in All Downloads on FileNUX</description>
+    <description>Recent content in All downloads on FileNUX.com on FileNUX</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 25 Feb 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://filenux.com/downloads/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 08 Jan 2023 18:52:13 -0300</lastBuildDate><atom:link href="https://filenux.com/downloads/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Download Bitdefender Internet Security for Windows 32-bit</title>
-      <link>https://filenux.com/downloads/bitdefender-internet-security-windows-32-bit/</link>
-      <pubDate>Fri, 25 Feb 2022 00:00:00 +0000</pubDate>
+      <title>Comodo Cleaning Essentials</title>
+      <link>https://filenux.com/downloads/comodo-cleaning-essentials-windows-64-bit/</link>
+      <pubDate>Sun, 08 Jan 2023 18:52:13 -0300</pubDate>
       
-      <guid>https://filenux.com/downloads/bitdefender-internet-security-windows-32-bit/</guid>
-      <description>BitDefender Internet Security offers one-click protection against all malware and other cyber threats (viruses, malware, spyware).</description>
+      <guid>https://filenux.com/downloads/comodo-cleaning-essentials-windows-64-bit/</guid>
+      <description>Comodo Cleaning Essentials is a comprehensive security software that allows users to identify and remove malware, rootkits, and other harmful processes from their Windows computers.</description>
     </item>
     
     <item>
-      <title>Download Bitdefender Internet Security for Windows 64-bit</title>
-      <link>https://filenux.com/downloads/bitdefender-internet-security-windows-64-bit/</link>
-      <pubDate>Fri, 25 Feb 2022 00:00:00 +0000</pubDate>
+      <title>Comodo Cleaning Essentials</title>
+      <link>https://filenux.com/downloads/comodo-cleaning-essentials-windows-32-bit/</link>
+      <pubDate>Sun, 08 Jan 2023 18:50:54 -0300</pubDate>
       
-      <guid>https://filenux.com/downloads/bitdefender-internet-security-windows-64-bit/</guid>
-      <description>Bitdefender Internet Security is the ideal shield for your devices. It blocks all online threats and protects you from people who want to steal your personal data.</description>
+      <guid>https://filenux.com/downloads/comodo-cleaning-essentials-windows-32-bit/</guid>
+      <description>Comodo Cleaning Essentials is particularly useful for users who have experienced malware infections on their systems, as it can help to identify and remove malware that may have bypassed traditional security software.</description>
     </item>
     
     <item>
-      <title>Download Bitdefender Anti-Ransomware for Windows</title>
+      <title>Yandex Browser</title>
+      <link>https://filenux.com/downloads/yandex-browser-windows-64-bit/</link>
+      <pubDate>Sun, 08 Jan 2023 18:30:33 -0300</pubDate>
+      
+      <guid>https://filenux.com/downloads/yandex-browser-windows-64-bit/</guid>
+      <description>Yandex Browser is a web browser developed by the Russian technology company Yandex.</description>
+    </item>
+    
+    <item>
+      <title>Yandex Browser</title>
+      <link>https://filenux.com/downloads/yandex-browser-windows-32-bit/</link>
+      <pubDate>Sun, 08 Jan 2023 18:29:13 -0300</pubDate>
+      
+      <guid>https://filenux.com/downloads/yandex-browser-windows-32-bit/</guid>
+      <description>Yandex Browser is a freeware web browser developed by the Russian tech company Yandex.</description>
+    </item>
+    
+    <item>
+      <title>Whale Browser</title>
+      <link>https://filenux.com/downloads/whale-browser-windows/</link>
+      <pubDate>Sun, 08 Jan 2023 18:12:50 -0300</pubDate>
+      
+      <guid>https://filenux.com/downloads/whale-browser-windows/</guid>
+      <description>Whale Browser is a web browser that is designed to be fast, reliable, and customizable.</description>
+    </item>
+    
+    <item>
+      <title>Waterfox Classic</title>
+      <link>https://filenux.com/downloads/waterfox-classic-windows/</link>
+      <pubDate>Sun, 08 Jan 2023 18:00:12 -0300</pubDate>
+      
+      <guid>https://filenux.com/downloads/waterfox-classic-windows/</guid>
+      <description>Waterfox is an open-source web browser for Windows, macOS, and Linux, based on the Mozilla Firefox codebase.</description>
+    </item>
+    
+    <item>
+      <title>Waterfox</title>
+      <link>https://filenux.com/downloads/waterfox-windows/</link>
+      <pubDate>Sun, 08 Jan 2023 17:48:55 -0300</pubDate>
+      
+      <guid>https://filenux.com/downloads/waterfox-windows/</guid>
+      <description>Waterfox is an open-source web browser that was designed specifically for 64-bit systems.</description>
+    </item>
+    
+    <item>
+      <title>Vivaldi</title>
+      <link>https://filenux.com/downloads/vivaldi-windows-64-bit/</link>
+      <pubDate>Sun, 08 Jan 2023 17:39:27 -0300</pubDate>
+      
+      <guid>https://filenux.com/downloads/vivaldi-windows-64-bit/</guid>
+      <description>Vivaldi is a web browser developed by Vivaldi Technologies, a company co-founded by Jon von Tetzchner, the former CEO of Opera Software.</description>
+    </item>
+    
+    <item>
+      <title>Vivaldi</title>
+      <link>https://filenux.com/downloads/vivaldi-windows-32-bit/</link>
+      <pubDate>Sun, 08 Jan 2023 17:25:19 -0300</pubDate>
+      
+      <guid>https://filenux.com/downloads/vivaldi-windows-32-bit/</guid>
+      <description>Vivaldi is a web browser developed by Vivaldi Technologies, a company founded by Jon von Tetzchner, one of the co-founders of Opera Software.</description>
+    </item>
+    
+    <item>
+      <title>Viasat Browser</title>
+      <link>https://filenux.com/downloads/viasat-browser-windows-64-bit/</link>
+      <pubDate>Sun, 08 Jan 2023 17:04:12 -0300</pubDate>
+      
+      <guid>https://filenux.com/downloads/viasat-browser-windows-64-bit/</guid>
+      <description>The Viasat Browser is a lightweight, fast, and secure web browser that has been optimized for use on Viasat&amp;rsquo;s satellite internet network.</description>
+    </item>
+    
+    <item>
+      <title>Viasat Browser</title>
+      <link>https://filenux.com/downloads/viasat-browser-windows-32-bit/</link>
+      <pubDate>Sun, 08 Jan 2023 16:46:07 -0300</pubDate>
+      
+      <guid>https://filenux.com/downloads/viasat-browser-windows-32-bit/</guid>
+      <description>Viasat Browser is a modern web browser that provides users with a fast and secure browsing experience.</description>
+    </item>
+    
+    <item>
+      <title>SRWare Iron Portable</title>
+      <link>https://filenux.com/downloads/srware-iron-portable-windows-64-bit/</link>
+      <pubDate>Sun, 08 Jan 2023 14:37:45 -0300</pubDate>
+      
+      <guid>https://filenux.com/downloads/srware-iron-portable-windows-64-bit/</guid>
+      <description>SRWare Iron is a web browser that focuses on security and privacy.</description>
+    </item>
+    
+    <item>
+      <title>SRWare Iron Portable</title>
+      <link>https://filenux.com/downloads/srware-iron-portable-windows-32-bit/</link>
+      <pubDate>Sun, 08 Jan 2023 14:29:25 -0300</pubDate>
+      
+      <guid>https://filenux.com/downloads/srware-iron-portable-windows-32-bit/</guid>
+      <description>SRWare Iron Portable is a web browser that is based on the open-source Chromium project, which is the same codebase that Google Chrome is built on.</description>
+    </item>
+    
+    <item>
+      <title>SRWare Iron</title>
+      <link>https://filenux.com/downloads/srware-iron-windows-64-bit/</link>
+      <pubDate>Sun, 08 Jan 2023 14:15:08 -0300</pubDate>
+      
+      <guid>https://filenux.com/downloads/srware-iron-windows-64-bit/</guid>
+      <description>SRWare Iron is a web browser developed by a German company called SRWare.</description>
+    </item>
+    
+    <item>
+      <title>SRWare Iron</title>
+      <link>https://filenux.com/downloads/srware-iron-windows-32-bit/</link>
+      <pubDate>Sun, 08 Jan 2023 14:06:20 -0300</pubDate>
+      
+      <guid>https://filenux.com/downloads/srware-iron-windows-32-bit/</guid>
+      <description>SRWare Iron is a web browser that was created as an alternative to Google Chrome.</description>
+    </item>
+    
+    <item>
+      <title>Slimjet Portable</title>
+      <link>https://filenux.com/downloads/slimjet-portable-windows-64-bit/</link>
+      <pubDate>Sun, 08 Jan 2023 10:30:21 -0300</pubDate>
+      
+      <guid>https://filenux.com/downloads/slimjet-portable-windows-64-bit/</guid>
+      <description>The Slimjet web browser was made so that users could browse the web faster, safer, and more to their liking.</description>
+    </item>
+    
+    <item>
+      <title>Slimjet</title>
+      <link>https://filenux.com/downloads/slimjet-windows-64-bit/</link>
+      <pubDate>Sun, 08 Jan 2023 10:27:19 -0300</pubDate>
+      
+      <guid>https://filenux.com/downloads/slimjet-windows-64-bit/</guid>
+      <description>Slimjet is a powerful and feature-rich web browser that offers users a seamless browsing experience.</description>
+    </item>
+    
+    <item>
+      <title>Slimjet Portable</title>
+      <link>https://filenux.com/downloads/slimjet-portable-windows-32-bit/</link>
+      <pubDate>Sun, 08 Jan 2023 10:23:10 -0300</pubDate>
+      
+      <guid>https://filenux.com/downloads/slimjet-portable-windows-32-bit/</guid>
+      <description>Slimjet is a fast and powerful web browser that is designed to enhance your browsing experience.</description>
+    </item>
+    
+    <item>
+      <title>Slimjet</title>
+      <link>https://filenux.com/downloads/slimjet-windows-32-bit/</link>
+      <pubDate>Sun, 08 Jan 2023 10:18:53 -0300</pubDate>
+      
+      <guid>https://filenux.com/downloads/slimjet-windows-32-bit/</guid>
+      <description>Slimjet is a web browser that has been designed to provide users with a fast, efficient, and secure browsing experience.</description>
+    </item>
+    
+    <item>
+      <title>Tor Browser</title>
+      <link>https://filenux.com/downloads/tor-browser-windows-64-bit/</link>
+      <pubDate>Sun, 08 Jan 2023 07:52:16 -0300</pubDate>
+      
+      <guid>https://filenux.com/downloads/tor-browser-windows-64-bit/</guid>
+      <description>Tor Browser is a web browser that is meant to keep users&amp;rsquo; identity and activity private and anonymous.</description>
+    </item>
+    
+    <item>
+      <title>SlimBrowser Portable</title>
+      <link>https://filenux.com/downloads/slimbrowser-portable-windows-64-bit/</link>
+      <pubDate>Sun, 08 Jan 2023 07:36:59 -0300</pubDate>
+      
+      <guid>https://filenux.com/downloads/slimbrowser-portable-windows-64-bit/</guid>
+      <description>SlimBrowser Portable is a web browser that can be easily carried and used on any computer without the need for installation.</description>
+    </item>
+    
+    <item>
+      <title>SlimBrowser Portable</title>
+      <link>https://filenux.com/downloads/slimbrowser-portable-windows-32-bit/</link>
+      <pubDate>Sun, 08 Jan 2023 07:26:43 -0300</pubDate>
+      
+      <guid>https://filenux.com/downloads/slimbrowser-portable-windows-32-bit/</guid>
+      <description>SlimBrowser Portable is a web browser that allows users to surf the internet on the go.</description>
+    </item>
+    
+    <item>
+      <title>Tor Browser</title>
+      <link>https://filenux.com/downloads/tor-browser-windows-32-bit/</link>
+      <pubDate>Sat, 07 Jan 2023 23:14:23 -0300</pubDate>
+      
+      <guid>https://filenux.com/downloads/tor-browser-windows-32-bit/</guid>
+      <description>Tor is a free, open-source web browser that is designed to protect users&amp;rsquo; privacy and anonymity.</description>
+    </item>
+    
+    <item>
+      <title>SlimBrowser</title>
+      <link>https://filenux.com/downloads/slimbrowser-windows-64-bit/</link>
+      <pubDate>Sat, 07 Jan 2023 19:53:41 -0300</pubDate>
+      
+      <guid>https://filenux.com/downloads/slimbrowser-windows-64-bit/</guid>
+      <description>SlimBrowser is a web browser developed by FlashPeak that was released in 2002 and has since become a popular alternative to popular browsers such as Google Chrome, Firefox, and Internet Explorer.</description>
+    </item>
+    
+    <item>
+      <title>SlimBrowser</title>
+      <link>https://filenux.com/downloads/slimbrowser-windows-32-bit/</link>
+      <pubDate>Sat, 07 Jan 2023 19:43:05 -0300</pubDate>
+      
+      <guid>https://filenux.com/downloads/slimbrowser-windows-32-bit/</guid>
+      <description>SlimBrowser is a web browser that was first released in 2002 by FlashPeak, Inc.</description>
+    </item>
+    
+    <item>
+      <title>Sleipnir Browser</title>
+      <link>https://filenux.com/downloads/sleipnir-browser-windows/</link>
+      <pubDate>Sat, 07 Jan 2023 19:26:03 -0300</pubDate>
+      
+      <guid>https://filenux.com/downloads/sleipnir-browser-windows/</guid>
+      <description>Sleipnir is a web browser developed by Fenrir &amp;amp; Co., a Japanese software company.</description>
+    </item>
+    
+    <item>
+      <title>Sidekick</title>
+      <link>https://filenux.com/downloads/sidekick-windows/</link>
+      <pubDate>Sat, 07 Jan 2023 19:09:02 -0300</pubDate>
+      
+      <guid>https://filenux.com/downloads/sidekick-windows/</guid>
+      <description>Sidekick Browser is a browser that is specifically designed for use in a professional setting, where users may need to access a wide range of web tools and collaborate with their team.</description>
+    </item>
+    
+    <item>
+      <title>SeaMonkey</title>
+      <link>https://filenux.com/downloads/seamonkey-windows-64-bit/</link>
+      <pubDate>Sat, 07 Jan 2023 18:54:45 -0300</pubDate>
+      
+      <guid>https://filenux.com/downloads/seamonkey-windows-64-bit/</guid>
+      <description>SeaMonkey is a complete internet application suite that offers a web browser, email and news clients, an IRC chat client, and an HTML editor.</description>
+    </item>
+    
+    <item>
+      <title>SeaMonkey</title>
+      <link>https://filenux.com/downloads/seamonkey-windows-32-bit/</link>
+      <pubDate>Sat, 07 Jan 2023 18:45:39 -0300</pubDate>
+      
+      <guid>https://filenux.com/downloads/seamonkey-windows-32-bit/</guid>
+      <description>SeaMonkey is an all-in-one internet application suite that includes a web browser, email and news client, IRC chat client, and HTML editor.</description>
+    </item>
+    
+    <item>
+      <title>Respondus LockDown Browser</title>
+      <link>https://filenux.com/downloads/respondus-lockdown-browser-windows/</link>
+      <pubDate>Sat, 07 Jan 2023 18:33:11 -0300</pubDate>
+      
+      <guid>https://filenux.com/downloads/respondus-lockdown-browser-windows/</guid>
+      <description>Respondus LockDown Browser is a web browser that is designed to be used specifically for taking online exams.</description>
+    </item>
+    
+    <item>
+      <title>Puffin Browser</title>
+      <link>https://filenux.com/downloads/puffin-browser-windows/</link>
+      <pubDate>Sat, 07 Jan 2023 18:20:59 -0300</pubDate>
+      
+      <guid>https://filenux.com/downloads/puffin-browser-windows/</guid>
+      <description>Puffin Browser is a web browser developed by CloudMosa, Inc. and known for its fast browsing speed and ability to run web pages and applications with lightning speed.</description>
+    </item>
+    
+    <item>
+      <title>Pale Moon Portable</title>
+      <link>https://filenux.com/downloads/pale-moon-portable-windows-64-bit/</link>
+      <pubDate>Sat, 07 Jan 2023 17:48:36 -0300</pubDate>
+      
+      <guid>https://filenux.com/downloads/pale-moon-portable-windows-64-bit/</guid>
+      <description>Pale Moon Portable is a free, open-source web browser for Windows that is based on the Goanna layout engine.</description>
+    </item>
+    
+    <item>
+      <title>Pale Moon Portable</title>
+      <link>https://filenux.com/downloads/pale-moon-portable-windows-32-bit/</link>
+      <pubDate>Sat, 07 Jan 2023 17:40:35 -0300</pubDate>
+      
+      <guid>https://filenux.com/downloads/pale-moon-portable-windows-32-bit/</guid>
+      <description>Pale Moon Portable is a free and open-source web browser that is designed to be lightweight and fast.</description>
+    </item>
+    
+    <item>
+      <title>Pale Moon</title>
+      <link>https://filenux.com/downloads/pale-moon-windows-64-bit/</link>
+      <pubDate>Sat, 07 Jan 2023 17:17:49 -0300</pubDate>
+      
+      <guid>https://filenux.com/downloads/pale-moon-windows-64-bit/</guid>
+      <description>Pale Moon is a free, open-source web browser that is based on the Mozilla Firefox browser and shares many of its features, but with a focus on speed and efficiency.</description>
+    </item>
+    
+    <item>
+      <title>Pale Moon</title>
+      <link>https://filenux.com/downloads/pale-moon-windows-32-bit/</link>
+      <pubDate>Sat, 07 Jan 2023 17:08:29 -0300</pubDate>
+      
+      <guid>https://filenux.com/downloads/pale-moon-windows-32-bit/</guid>
+      <description>Pale Moon is a free and open-source web browser that is developed by Moonchild Productions.</description>
+    </item>
+    
+    <item>
+      <title>Opera Portable</title>
+      <link>https://filenux.com/downloads/opera-portable-windows/</link>
+      <pubDate>Sat, 07 Jan 2023 16:00:18 -0300</pubDate>
+      
+      <guid>https://filenux.com/downloads/opera-portable-windows/</guid>
+      <description>Opera Portable is a version of the Opera web browser that has been designed to be easily portable, meaning it can be run from a removable drive such as a USB stick.</description>
+    </item>
+    
+    <item>
+      <title>Opera Neon</title>
+      <link>https://filenux.com/downloads/opera-neon-windows/</link>
+      <pubDate>Sat, 07 Jan 2023 15:38:01 -0300</pubDate>
+      
+      <guid>https://filenux.com/downloads/opera-neon-windows/</guid>
+      <description>Opera Neon is an experimental web browser designed to provide a more immersive and intuitive browsing experience.</description>
+    </item>
+    
+    <item>
+      <title>Opera GX</title>
+      <link>https://filenux.com/downloads/opera-gx-windows-64-bit/</link>
+      <pubDate>Sat, 07 Jan 2023 15:23:54 -0300</pubDate>
+      
+      <guid>https://filenux.com/downloads/opera-gx-windows-64-bit/</guid>
+      <description>Opera GX is a web browser that is a variation of the popular Opera browser with additional features and tools that are tailored towards the needs of gamers.</description>
+    </item>
+    
+    <item>
+      <title>Opera GX</title>
+      <link>https://filenux.com/downloads/opera-gx-windows-32-bit/</link>
+      <pubDate>Sat, 07 Jan 2023 15:11:52 -0300</pubDate>
+      
+      <guid>https://filenux.com/downloads/opera-gx-windows-32-bit/</guid>
+      <description>Opera GX is a web browser designed specifically for gamers. It is developed by the Norwegian company Opera Software, which is known for its popular Opera web browser that has been around since the 1990s.</description>
+    </item>
+    
+    <item>
+      <title>Opera Crypto Browser</title>
+      <link>https://filenux.com/downloads/opera-crypto-browser-windows/</link>
+      <pubDate>Sat, 07 Jan 2023 14:56:58 -0300</pubDate>
+      
+      <guid>https://filenux.com/downloads/opera-crypto-browser-windows/</guid>
+      <description>Opera Crypto is a web browser developed by Opera Software that integrates cryptocurrency features such as a built-in digital wallet and support for the Ethereum Web3 API.</description>
+    </item>
+    
+    <item>
+      <title>Opera</title>
+      <link>https://filenux.com/downloads/opera-windows-64-bit/</link>
+      <pubDate>Sat, 07 Jan 2023 08:47:39 -0300</pubDate>
+      
+      <guid>https://filenux.com/downloads/opera-windows-64-bit/</guid>
+      <description>Opera is a web browser that is known for its speed, security, and user-friendly features, making it a popular choice for web browsing.</description>
+    </item>
+    
+    <item>
+      <title>Opera</title>
+      <link>https://filenux.com/downloads/opera-windows-32-bit/</link>
+      <pubDate>Sat, 07 Jan 2023 08:39:29 -0300</pubDate>
+      
+      <guid>https://filenux.com/downloads/opera-windows-32-bit/</guid>
+      <description>Opera is a web browser that has a long history of innovation and has consistently been a leader in the web browser market, offering features and tools that are ahead of its competitors.</description>
+    </item>
+    
+    <item>
+      <title>Octo Browser</title>
+      <link>https://filenux.com/downloads/octo-browser-windows/</link>
+      <pubDate>Sat, 07 Jan 2023 08:28:09 -0300</pubDate>
+      
+      <guid>https://filenux.com/downloads/octo-browser-windows/</guid>
+      <description>Octo Browser is a universal, fast, and feature-rich multi-accounting browser suitable for teamwork and effective in any marketing strategy.</description>
+    </item>
+    
+    <item>
+      <title>Microsoft Edge</title>
+      <link>https://filenux.com/downloads/microsoft-edge-windows/</link>
+      <pubDate>Sat, 07 Jan 2023 00:32:05 -0300</pubDate>
+      
+      <guid>https://filenux.com/downloads/microsoft-edge-windows/</guid>
+      <description>Microsoft Edge is a web browser developed by Microsoft that was first released in 2015.</description>
+    </item>
+    
+    <item>
+      <title>Maxthon Portable</title>
+      <link>https://filenux.com/downloads/maxthon-portable-windows-32-bit/</link>
+      <pubDate>Fri, 06 Jan 2023 23:51:26 -0300</pubDate>
+      
+      <guid>https://filenux.com/downloads/maxthon-portable-windows-32-bit/</guid>
+      <description>Maxthon International Limited developed the web browser Maxthon in 2003. It is available on both desktop and mobile devices and has unique features that distinguish it from other web browsers.</description>
+    </item>
+    
+    <item>
+      <title>Maxthon Portable</title>
+      <link>https://filenux.com/downloads/maxthon-portable-windows-64-bit/</link>
+      <pubDate>Fri, 06 Jan 2023 23:51:26 -0300</pubDate>
+      
+      <guid>https://filenux.com/downloads/maxthon-portable-windows-64-bit/</guid>
+      <description>Maxthon Browser Portable is a web browser that allows users to browse the internet on the go.</description>
+    </item>
+    
+    <item>
+      <title>Maxthon</title>
+      <link>https://filenux.com/downloads/maxthon-windows-32-bit/</link>
+      <pubDate>Fri, 06 Jan 2023 20:32:30 -0300</pubDate>
+      
+      <guid>https://filenux.com/downloads/maxthon-windows-32-bit/</guid>
+      <description>Maxthon is a web browser that can be used on various operating systems, including Windows, macOS, Linux, Android, and iOS.</description>
+    </item>
+    
+    <item>
+      <title>Maxthon</title>
+      <link>https://filenux.com/downloads/maxthon-windows-64-bit/</link>
+      <pubDate>Fri, 06 Jan 2023 20:32:30 -0300</pubDate>
+      
+      <guid>https://filenux.com/downloads/maxthon-windows-64-bit/</guid>
+      <description>Maxthon is a web browser that was first developed in 2003 by the Chinese company Maxthon International Limited.</description>
+    </item>
+    
+    <item>
+      <title>Lunascape Browser</title>
+      <link>https://filenux.com/downloads/lunascape-browser-windows/</link>
+      <pubDate>Fri, 06 Jan 2023 20:18:53 -0300</pubDate>
+      
+      <guid>https://filenux.com/downloads/lunascape-browser-windows/</guid>
+      <description>Lunascape is a web browser that was first released in 2003 by Lunascape Corporation, a Japanese software company.</description>
+    </item>
+    
+    <item>
+      <title>K-Meleon Browser</title>
+      <link>https://filenux.com/downloads/k-meleon-browser-windows/</link>
+      <pubDate>Fri, 06 Jan 2023 20:03:10 -0300</pubDate>
+      
+      <guid>https://filenux.com/downloads/k-meleon-browser-windows/</guid>
+      <description>K-Meleon is a web browser that was first released in 2000 and is based on the Gecko layout engine, which is also used by Mozilla Firefox and other browsers.</description>
+    </item>
+    
+    <item>
+      <title>iTop Private Browser</title>
+      <link>https://filenux.com/downloads/itop-private-browser-windows/</link>
+      <pubDate>Fri, 06 Jan 2023 19:53:21 -0300</pubDate>
+      
+      <guid>https://filenux.com/downloads/itop-private-browser-windows/</guid>
+      <description>iTop Private Browser is a browser that provides users with the ability to surf the web privately and securely.</description>
+    </item>
+    
+    <item>
+      <title>Iridium</title>
+      <link>https://filenux.com/downloads/iridium-windows-64-bit/</link>
+      <pubDate>Fri, 06 Jan 2023 19:42:57 -0300</pubDate>
+      
+      <guid>https://filenux.com/downloads/iridium-windows-64-bit/</guid>
+      <description>Iridium is a web browser developed by the Iridium Browser Team, a group of developers who are committed to creating a secure and private browsing experience for users.</description>
+    </item>
+    
+    <item>
+      <title>Iridium</title>
+      <link>https://filenux.com/downloads/iridium-windows-32-bit/</link>
+      <pubDate>Fri, 06 Jan 2023 19:38:30 -0300</pubDate>
+      
+      <guid>https://filenux.com/downloads/iridium-windows-32-bit/</guid>
+      <description>Iridium is a free, open-source web browser that is designed to be secure, fast, and private.</description>
+    </item>
+    
+    <item>
+      <title>Google Chrome Canary</title>
+      <link>https://filenux.com/downloads/google-chrome-canary-windows/</link>
+      <pubDate>Fri, 06 Jan 2023 18:36:31 -0300</pubDate>
+      
+      <guid>https://filenux.com/downloads/google-chrome-canary-windows/</guid>
+      <description>Google Chrome Canary is a version of the Chrome browser that is specifically designed for developers and early adopters.</description>
+    </item>
+    
+    <item>
+      <title>Google Chrome Portable</title>
+      <link>https://filenux.com/downloads/google-chrome-portable-windows-64-bit/</link>
+      <pubDate>Fri, 06 Jan 2023 18:30:29 -0300</pubDate>
+      
+      <guid>https://filenux.com/downloads/google-chrome-portable-windows-64-bit/</guid>
+      <description>Google Chrome Portable is a version of the popular Google Chrome web browser that has been specifically designed for use on portable devices such as USB drives and external hard drives.</description>
+    </item>
+    
+    <item>
+      <title>Google Chrome Portable</title>
+      <link>https://filenux.com/downloads/google-chrome-portable-windows-32-bit/</link>
+      <pubDate>Fri, 06 Jan 2023 18:24:51 -0300</pubDate>
+      
+      <guid>https://filenux.com/downloads/google-chrome-portable-windows-32-bit/</guid>
+      <description>Google Chrome Portable is a portable version of the popular Google Chrome web browser that can be run from a USB drive or other portable device.</description>
+    </item>
+    
+    <item>
+      <title>Google Chrome</title>
+      <link>https://filenux.com/downloads/google-chrome-windows-64-bit/</link>
+      <pubDate>Fri, 06 Jan 2023 18:18:26 -0300</pubDate>
+      
+      <guid>https://filenux.com/downloads/google-chrome-windows-64-bit/</guid>
+      <description>Google Chrome is a web browser developed by Google that is available for use on a variety of devices, including computers, smartphones, and tablets.</description>
+    </item>
+    
+    <item>
+      <title>Google Chrome</title>
+      <link>https://filenux.com/downloads/google-chrome-windows-32-bit/</link>
+      <pubDate>Fri, 06 Jan 2023 18:12:18 -0300</pubDate>
+      
+      <guid>https://filenux.com/downloads/google-chrome-windows-32-bit/</guid>
+      <description>Google Chrome is a web browser developed by Google. It was first released in 2008 and has since become one of the most widely used web browsers in the world.</description>
+    </item>
+    
+    <item>
+      <title>Firefox Developer Edition</title>
+      <link>https://filenux.com/downloads/firefox-developer-edition-windows-64-bit/</link>
+      <pubDate>Fri, 06 Jan 2023 17:53:49 -0300</pubDate>
+      
+      <guid>https://filenux.com/downloads/firefox-developer-edition-windows-64-bit/</guid>
+      <description>Firefox Developer Edition is a specialized version of the popular Firefox web browser, designed specifically for web developers.</description>
+    </item>
+    
+    <item>
+      <title>Firefox Developer Edition</title>
+      <link>https://filenux.com/downloads/firefox-developer-edition-windows-32-bit/</link>
+      <pubDate>Fri, 06 Jan 2023 17:49:04 -0300</pubDate>
+      
+      <guid>https://filenux.com/downloads/firefox-developer-edition-windows-32-bit/</guid>
+      <description>Firefox Developer Edition is a version of the Firefox web browser specifically designed for web developers.</description>
+    </item>
+    
+    <item>
+      <title>Firefox</title>
+      <link>https://filenux.com/downloads/firefox-windows-64-bit/</link>
+      <pubDate>Fri, 06 Jan 2023 17:38:42 -0300</pubDate>
+      
+      <guid>https://filenux.com/downloads/firefox-windows-64-bit/</guid>
+      <description>The Firefox web browser is a free and open-source software program created and maintained by the Mozilla Foundation.</description>
+    </item>
+    
+    <item>
+      <title>Firefox</title>
+      <link>https://filenux.com/downloads/firefox-windows-32-bit/</link>
+      <pubDate>Fri, 06 Jan 2023 17:29:46 -0300</pubDate>
+      
+      <guid>https://filenux.com/downloads/firefox-windows-32-bit/</guid>
+      <description>Firefox is a free and open-source web browser developed by the Mozilla Foundation.</description>
+    </item>
+    
+    <item>
+      <title>Falkon Browser</title>
+      <link>https://filenux.com/downloads/falkon-browser-windows-64-bit/</link>
+      <pubDate>Fri, 06 Jan 2023 17:23:37 -0300</pubDate>
+      
+      <guid>https://filenux.com/downloads/falkon-browser-windows-64-bit/</guid>
+      <description>Falkon is an open-source, cross-platform web browser developed by the Falkon Team.</description>
+    </item>
+    
+    <item>
+      <title>Falkon Browser</title>
+      <link>https://filenux.com/downloads/falkon-browser-windows-32-bit/</link>
+      <pubDate>Fri, 06 Jan 2023 17:15:57 -0300</pubDate>
+      
+      <guid>https://filenux.com/downloads/falkon-browser-windows-32-bit/</guid>
+      <description>Falkon is a free and open-source web browser developed by the Falkon Team.</description>
+    </item>
+    
+    <item>
+      <title>Epic Privacy Browser</title>
+      <link>https://filenux.com/downloads/epic-privacy-browser-windows/</link>
+      <pubDate>Fri, 06 Jan 2023 17:07:45 -0300</pubDate>
+      
+      <guid>https://filenux.com/downloads/epic-privacy-browser-windows/</guid>
+      <description>The Epic Privacy Browser is a privacy-focused web browser developed by Hidden Reflex, a software company based in Redwood City, California.</description>
+    </item>
+    
+    <item>
+      <title>Comodo IceDragon</title>
+      <link>https://filenux.com/downloads/comodo-icedragon-windows/</link>
+      <pubDate>Fri, 06 Jan 2023 16:58:43 -0300</pubDate>
+      
+      <guid>https://filenux.com/downloads/comodo-icedragon-windows/</guid>
+      <description>Comodo IceDragon is a web browser based on Mozilla Firefox that is developed and maintained by Comodo, a cybersecurity and internet security company.</description>
+    </item>
+    
+    <item>
+      <title>Comodo Dragon</title>
+      <link>https://filenux.com/downloads/comodo-dragon-windows-64-bit/</link>
+      <pubDate>Fri, 06 Jan 2023 16:54:14 -0300</pubDate>
+      
+      <guid>https://filenux.com/downloads/comodo-dragon-windows-64-bit/</guid>
+      <description>Comodo Group, Inc., a well-known cybersecurity and infrastructure company, developed Comodo Dragon, a free internet browser that offers enhanced security and privacy features.</description>
+    </item>
+    
+    <item>
+      <title>Comodo Dragon</title>
+      <link>https://filenux.com/downloads/comodo-dragon-windows-32-bit/</link>
+      <pubDate>Fri, 06 Jan 2023 16:46:47 -0300</pubDate>
+      
+      <guid>https://filenux.com/downloads/comodo-dragon-windows-32-bit/</guid>
+      <description>Comodo Dragon is a free, feature-rich Internet browser developed by Comodo Group, Inc.</description>
+    </item>
+    
+    <item>
+      <title>Colibri Browser</title>
+      <link>https://filenux.com/downloads/colibri-browser-windows-64-bit/</link>
+      <pubDate>Fri, 06 Jan 2023 16:39:43 -0300</pubDate>
+      
+      <guid>https://filenux.com/downloads/colibri-browser-windows-64-bit/</guid>
+      <description>Colibri Browser is a web browser that aims to offer a faster, more efficient, and less cluttered browsing experience.</description>
+    </item>
+    
+    <item>
+      <title>Colibri Browser</title>
+      <link>https://filenux.com/downloads/colibri-browser-windows-32-bit/</link>
+      <pubDate>Fri, 06 Jan 2023 16:29:11 -0300</pubDate>
+      
+      <guid>https://filenux.com/downloads/colibri-browser-windows-32-bit/</guid>
+      <description>Colibri Browser is a web browser designed to be fast, efficient, and uncluttered with a unique and compact interface.</description>
+    </item>
+    
+    <item>
+      <title>HitmanPro</title>
+      <link>https://filenux.com/downloads/hitmanpro-windows-64-bit/</link>
+      <pubDate>Thu, 05 Jan 2023 14:45:38 -0300</pubDate>
+      
+      <guid>https://filenux.com/downloads/hitmanpro-windows-64-bit/</guid>
+      <description>HitmanPro is a powerful and effective security tool that is designed to detect and remove malware, viruses, Trojans, and other threats from your computer.</description>
+    </item>
+    
+    <item>
+      <title>HitmanPro</title>
+      <link>https://filenux.com/downloads/hitmanpro-windows-32-bit/</link>
+      <pubDate>Thu, 05 Jan 2023 14:39:12 -0300</pubDate>
+      
+      <guid>https://filenux.com/downloads/hitmanpro-windows-32-bit/</guid>
+      <description>HitmanPro is a software tool designed to assist in the detection and removal of malware and other malicious software from a computer.</description>
+    </item>
+    
+    <item>
+      <title>HijackThis</title>
+      <link>https://filenux.com/downloads/hijackthis-windows/</link>
+      <pubDate>Thu, 05 Jan 2023 14:22:08 -0300</pubDate>
+      
+      <guid>https://filenux.com/downloads/hijackthis-windows/</guid>
+      <description>HijackThis is a free tool that can be used to detect and remove malware from a computer.</description>
+    </item>
+    
+    <item>
+      <title>Heimdal PRO (Thor Free)</title>
+      <link>https://filenux.com/downloads/heimdal-pro-thor-free-windows/</link>
+      <pubDate>Thu, 05 Jan 2023 14:01:48 -0300</pubDate>
+      
+      <guid>https://filenux.com/downloads/heimdal-pro-thor-free-windows/</guid>
+      <description>Heimdal PRO (formerly known as Thor Free) is a cybersecurity software developed by Heimdal Security, a Danish cybersecurity company.</description>
+    </item>
+    
+    <item>
+      <title>GridinSoft Anti-Malware</title>
+      <link>https://filenux.com/downloads/gridinsoft-anti-malware-windows/</link>
+      <pubDate>Thu, 05 Jan 2023 13:46:37 -0300</pubDate>
+      
+      <guid>https://filenux.com/downloads/gridinsoft-anti-malware-windows/</guid>
+      <description>GridinSoft Anti-Malware is a security application that guards against malware and cyber threats.</description>
+    </item>
+    
+    <item>
+      <title>G DATA Clean Up</title>
+      <link>https://filenux.com/downloads/g-data-clean-up-windows/</link>
+      <pubDate>Thu, 05 Jan 2023 13:35:42 -0300</pubDate>
+      
+      <guid>https://filenux.com/downloads/g-data-clean-up-windows/</guid>
+      <description>G DATA Clean Up is a software utility developed by G DATA Software AG, a leading provider of internet security solutions.</description>
+    </item>
+    
+    <item>
+      <title>Ghost Browser</title>
+      <link>https://filenux.com/downloads/ghost-browser-windows/</link>
+      <pubDate>Thu, 05 Jan 2023 11:20:33 -0300</pubDate>
+      
+      <guid>https://filenux.com/downloads/ghost-browser-windows/</guid>
+      <description>Ghost Browser is a privacy-focused web browser that allows users to compartmentalize their online activities and keep their personal and professional lives separate.</description>
+    </item>
+    
+    <item>
+      <title>Coc Coc</title>
+      <link>https://filenux.com/downloads/coc-coc-windows/</link>
+      <pubDate>Thu, 05 Jan 2023 11:11:11 -0300</pubDate>
+      
+      <guid>https://filenux.com/downloads/coc-coc-windows/</guid>
+      <description>Coc Coc is a Vietnamese web browser developed by the Vietnamese company Cốc Cốc.</description>
+    </item>
+    
+    <item>
+      <title>CLIQZ</title>
+      <link>https://filenux.com/downloads/cliqz-windows-64-bit/</link>
+      <pubDate>Thu, 05 Jan 2023 11:04:49 -0300</pubDate>
+      
+      <guid>https://filenux.com/downloads/cliqz-windows-64-bit/</guid>
+      <description>CLIQZ is a web browser based on the open-source Mozilla Firefox browser and includes additional features that are designed to enhance privacy and security for the user.</description>
+    </item>
+    
+    <item>
+      <title>CLIQZ</title>
+      <link>https://filenux.com/downloads/cliqz-windows-32-bit/</link>
+      <pubDate>Thu, 05 Jan 2023 11:01:36 -0300</pubDate>
+      
+      <guid>https://filenux.com/downloads/cliqz-windows-32-bit/</guid>
+      <description>CLIQZ is a web browser that was developed by CLIQZ GmbH, a German software company.</description>
+    </item>
+    
+    <item>
+      <title>Chromodo</title>
+      <link>https://filenux.com/downloads/chromodo-windows/</link>
+      <pubDate>Thu, 05 Jan 2023 10:53:51 -0300</pubDate>
+      
+      <guid>https://filenux.com/downloads/chromodo-windows/</guid>
+      <description>Chromodo is a web browser that is based on the open-source Chromium project and was developed by Comodo, a company that provides internet security solutions.</description>
+    </item>
+    
+    <item>
+      <title>Chromium</title>
+      <link>https://filenux.com/downloads/chromium-windows-64-bit/</link>
+      <pubDate>Thu, 05 Jan 2023 10:48:20 -0300</pubDate>
+      
+      <guid>https://filenux.com/downloads/chromium-windows-64-bit/</guid>
+      <description>Chromium is an open-source web browser that serves as a base for Google Chrome, which is a proprietary web browser developed and maintained by Google.</description>
+    </item>
+    
+    <item>
+      <title>Chromium</title>
+      <link>https://filenux.com/downloads/chromium-windows-32-bit/</link>
+      <pubDate>Thu, 05 Jan 2023 10:46:17 -0300</pubDate>
+      
+      <guid>https://filenux.com/downloads/chromium-windows-32-bit/</guid>
+      <description>Chromium is an open-source web browser project developed by Google. It is the basis for the popular Google Chrome web browser, as well as many other web browsers that are based on Chromium.</description>
+    </item>
+    
+    <item>
+      <title>Chedot Browser</title>
+      <link>https://filenux.com/downloads/chedot-browser-windows/</link>
+      <pubDate>Thu, 05 Jan 2023 10:40:21 -0300</pubDate>
+      
+      <guid>https://filenux.com/downloads/chedot-browser-windows/</guid>
+      <description>Chedot Review Chedot is a web browser known for its lightweight design and fast browsing speed, as well as its ability to block pop-up ads and protect users&amp;rsquo; privacy.</description>
+    </item>
+    
+    <item>
+      <title>Cent Browser</title>
+      <link>https://filenux.com/downloads/cent-browser-windows-64-bit/</link>
+      <pubDate>Thu, 05 Jan 2023 10:27:51 -0300</pubDate>
+      
+      <guid>https://filenux.com/downloads/cent-browser-windows-64-bit/</guid>
+      <description>Cent Browser is a Chromium-based browser, which means that it is built on the open-source Chromium project and shares a lot of its underlying technology with Google Chrome.</description>
+    </item>
+    
+    <item>
+      <title>Cent Browser</title>
+      <link>https://filenux.com/downloads/cent-browser-windows-32-bit/</link>
+      <pubDate>Thu, 05 Jan 2023 10:24:46 -0300</pubDate>
+      
+      <guid>https://filenux.com/downloads/cent-browser-windows-32-bit/</guid>
+      <description>Cent Browser is a web browser developed by Cent Studio, a software company based in China.</description>
+    </item>
+    
+    <item>
+      <title>CCleaner Browser</title>
+      <link>https://filenux.com/downloads/ccleaner-browser-windows/</link>
+      <pubDate>Thu, 05 Jan 2023 09:02:55 -0300</pubDate>
+      
+      <guid>https://filenux.com/downloads/ccleaner-browser-windows/</guid>
+      <description>CCleaner Browser is a web browser developed by Piriform, a company acquired by Avast in 2017.</description>
+    </item>
+    
+    <item>
+      <title>Beaker Browser</title>
+      <link>https://filenux.com/downloads/beaker-browser-windows/</link>
+      <pubDate>Thu, 05 Jan 2023 08:58:25 -0300</pubDate>
+      
+      <guid>https://filenux.com/downloads/beaker-browser-windows/</guid>
+      <description>Beaker Browser is a free and open-source peer-to-peer (P2P) web browser developed by the Beaker Team.</description>
+    </item>
+    
+    <item>
+      <title>Basilisk Browser</title>
+      <link>https://filenux.com/downloads/basilisk-browser-windows-64-bit/</link>
+      <pubDate>Thu, 05 Jan 2023 08:51:54 -0300</pubDate>
+      
+      <guid>https://filenux.com/downloads/basilisk-browser-windows-64-bit/</guid>
+      <description>The Basilisk browser is a free, open-source web browser that is designed to be highly customizable and privacy-oriented.</description>
+    </item>
+    
+    <item>
+      <title>Basilisk Browser</title>
+      <link>https://filenux.com/downloads/basilisk-browser-windows-32-bit/</link>
+      <pubDate>Thu, 05 Jan 2023 08:49:29 -0300</pubDate>
+      
+      <guid>https://filenux.com/downloads/basilisk-browser-windows-32-bit/</guid>
+      <description>Basilisk is a free and open-source web browser developed by the Mozilla Foundation with support from the community.</description>
+    </item>
+    
+    <item>
+      <title>AVG Secure Browser</title>
+      <link>https://filenux.com/downloads/avg-secure-browser-windows/</link>
+      <pubDate>Thu, 05 Jan 2023 08:42:00 -0300</pubDate>
+      
+      <guid>https://filenux.com/downloads/avg-secure-browser-windows/</guid>
+      <description>AVG Secure Browser is a web browser designed with security and privacy in mind.</description>
+    </item>
+    
+    <item>
+      <title>Avast Secure Browser</title>
+      <link>https://filenux.com/downloads/avast-secure-browser-windows/</link>
+      <pubDate>Thu, 05 Jan 2023 08:30:52 -0300</pubDate>
+      
+      <guid>https://filenux.com/downloads/avast-secure-browser-windows/</guid>
+      <description>Avast Secure Browser is a privacy-focused web browser developed by the Czech cybersecurity company Avast.</description>
+    </item>
+    
+    <item>
+      <title>Brave Browser</title>
+      <link>https://filenux.com/downloads/brave-browser-windows-64-bit/</link>
+      <pubDate>Thu, 05 Jan 2023 06:42:16 +0000</pubDate>
+      
+      <guid>https://filenux.com/downloads/brave-browser-windows-64-bit/</guid>
+      <description>Brave is a free and open-source web browser developed by Brave Software, Inc.</description>
+    </item>
+    
+    <item>
+      <title>Bitdefender Anti-Ransomware</title>
       <link>https://filenux.com/downloads/bitdefender-anti-ransomware-windows/</link>
-      <pubDate>Thu, 24 Feb 2022 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 24 Feb 2022 18:32:24 +0000</pubDate>
       
       <guid>https://filenux.com/downloads/bitdefender-anti-ransomware-windows/</guid>
-      <description>Bitdefender Anti-Ransomware is a free program that has the ability to keep you safe from ransomware.</description>
+      <description>Bitdefender Anti-Ransomware is a software designed to protect your computer from ransomware attacks.</description>
     </item>
     
     <item>
-      <title>Download AdwCleaner for Windows</title>
+      <title>AdwCleaner</title>
       <link>https://filenux.com/downloads/adwcleaner-windows/</link>
-      <pubDate>Wed, 23 Feb 2022 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 23 Feb 2022 16:43:33 +0000</pubDate>
       
       <guid>https://filenux.com/downloads/adwcleaner-windows/</guid>
-      <description>This super-simple to use software is designed to remove unwanted toolbars, plug-ins, and other programs that could harm your computer.</description>
+      <description>AdwCleaner is a software developed to help users remove adware, potentially unwanted programs (PUPs), and other malicious or unwanted software from their computers.</description>
     </item>
     
     <item>
-      <title>Download Adlice Diag Anti-Malware for Windows (Offline Installer)</title>
+      <title>Adlice Diag</title>
       <link>https://filenux.com/downloads/adlice-diag-windows/</link>
-      <pubDate>Fri, 18 Feb 2022 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 18 Feb 2022 13:44:23 +0000</pubDate>
       
       <guid>https://filenux.com/downloads/adlice-diag-windows/</guid>
-      <description>Adlice Diag is a full-powered diagnostic software designed to assist in finding and eliminating any malware, rootkits, and other threats from every corner of your system.</description>
+      <description>Adlice Diag is a software designed to detect and diagnose various issues on a computer.</description>
     </item>
     
     <item>
-      <title>Download Malwarebytes Anti-Malware for Windows</title>
+      <title>Malwarebytes Anti-Malware</title>
       <link>https://filenux.com/downloads/malwarebytes-windows/</link>
-      <pubDate>Wed, 12 Jan 2022 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 12 Jan 2022 14:21:12 +0000</pubDate>
       
       <guid>https://filenux.com/downloads/malwarebytes-windows/</guid>
-      <description>Malwarebytes (Anti-Malware) is a security program that helps to detect and prevent viruses, spyware, and other malware from infecting your machine.</description>
+      <description>Malwarebytes Anti-Malware is a software intended to protect computers from malware, which is a type of harmful software that is designed to infiltrate or damage computer systems without the user&amp;rsquo;s knowledge.</description>
     </item>
     
   </channel>

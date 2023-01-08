@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="en-US" dir="auto">
 <head>
     <title>Thank you for downloading... | FileNUX</title><link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -10,16 +10,24 @@
 <meta charset="utf-8"><link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
 <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
 <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
-<link rel="manifest" href="/site.webmanifest"><meta name="keywords" content="Download, Free Software, Download Software for Free, Software for Windows, Software for macOS, Software for Linux, Android APK, FileNUX" /><meta name="description" content="&#43;&#43;&#43;" /><meta itemprop="name" content="Thank you for downloading...">
-<meta itemprop="description" content="The best free software for your operating system. Download your favorite free antivirus, video editing software, word processing software, and more."><meta property="og:title" content="Thank you for downloading..." />
-<meta property="og:description" content="The best free software for your operating system. Download your favorite free antivirus, video editing software, word processing software, and more." />
+<link rel="manifest" href="/site.webmanifest"><meta name="keywords" content="Download, Free Software, Download Software for Free, Software for Windows, Software for macOS, Software for Linux, Android APK, FileNUX" /><meta name="description" content="Is FileNUX safe? When it comes to downloading files from the internet, safety is a top concern for many users." />
+<meta itemprop="description" content="Is FileNUX safe? When it comes to downloading files from the internet, safety is a top concern for many users."><meta itemprop="image" content="https://filenux.com/images/filenux.jpg">
+
+
+<meta itemprop="name" content="Thank you for downloading... | FileNUX">
+
+
+<meta property="og:title" content="Thank you for downloading... | FileNUX" />
+<meta property="og:image" content="https://filenux.com/images/filenux.jpg" />
+<meta property="og:description" content="Is FileNUX safe? When it comes to downloading files from the internet, safety is a top concern for many users." />
 <meta property="og:type" content="website" />
 <meta property="og:url" content="https://filenux.com/download/" />
 
-<meta name="twitter:card" content="summary"/>
-<meta name="twitter:title" content="Thank you for downloading..."/>
-<meta name="twitter:description" content="The best free software for your operating system. Download your favorite free antivirus, video editing software, word processing software, and more."/>
-<link rel="alternate" type="application/rss+xml" href="https://filenux.com/download/index.xml" title="FileNUX" />
+
+<meta name="twitter:card" value="summary">
+<meta name="twitter:title" content="Thank you for downloading... | FileNUX"/>
+<meta name=twitter:image content="https://filenux.com/images/filenux.jpg" />
+<meta name="twitter:description" content="Is FileNUX safe? When it comes to downloading files from the internet, safety is a top concern for many users."/><link rel="alternate" type="application/rss+xml" href="https://filenux.com/download/index.xml" title="FileNUX" />
 
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-RCRPKH1J8D"></script>
 <script>
@@ -33,9 +41,10 @@
 </script>
 
 
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-3427355473051563" crossorigin="anonymous"></script><link href="https://fonts.googleapis.com/css2?family=Roboto+Condensed&display=swap" rel="stylesheet">
-
-<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/fomantic-ui@2.8.6/dist/semantic.min.css"><link rel="stylesheet" href="https://filenux.com/css/main.min.855507bd54268f90989228975435b9250f5a265dc3c3570bf0e5ccc39ec65c58.css" integrity="sha256-hVUHvVQmj5CYkiiXVDW5JQ9aJl3Dw1cL8OXMw57GXFg=" crossorigin="anonymous">
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-3427355473051563" crossorigin="anonymous"></script>
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="dns-prefetch" href="//fonts.googleapis.com">
+<link rel="dns-prefetch" href="//fonts.gstatic.com"><link href="https://fonts.googleapis.com/css2?family=Mukta:wght@400;700;800&display=swap" rel="stylesheet"><link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/fomantic-ui@2.8.6/dist/semantic.min.css"><link rel="stylesheet" href="https://filenux.com/css/main.min.cff9b2cbd30d24ed4f967ea58e6d6fadbb12cc450fd5378dc2581963848c6845.css" integrity="sha256-z/myy9MNJO1Pln6ljm1vrbsSzEUP1TeNwlgZY4SMaEU=" crossorigin="anonymous">
 <style type="text/css">
     body {
         background-color: #f5f5f5;
@@ -54,7 +63,7 @@
         flex-direction: row!important;
     }
 
-    #external-site__container, #force-download__container, #external-site-msg {
+    #external-site__container, #force-download__container, #external-site-msg, #start-download__container {
         display: none;
     }
 </style>
@@ -62,7 +71,7 @@
 <script>
     const queryString = window.location.search;
     const urlParams = new URLSearchParams(queryString);
-    var url = decodeURIComponent(urlParams.has("url") ? urlParams.get("url") : "/");
+    var url = urlParams.has("url") ? urlParams.get("url") : "/";
     var token = decodeURIComponent(urlParams.has("token") ? urlParams.get("token") : "\/");
     var title = decodeURIComponent(urlParams.has("id") ? urlParams.get("id") : "Thank you for downloading......");
     var download_type = urlParams.has("type") ? urlParams.get("type") : "direct"
@@ -77,45 +86,47 @@
     window.history.replaceState({}, document.title, newUrl);
 </script>
 </head>
-<body><div class="ui left demo vertical inverted sidebar menu">
-    <div class="ui vertical inverted fluid accordion huge text menu">
+<body>
+    <div class="ui left demo vertical inverted sidebar huge accordion menu">
         <div class="item">
             <a href="https://filenux.com/" class="item" title="Back to home page">
                 <span class="flex-center site-name">
-                    File<span style="color: #fff;">NUX</span>
+                    
+                    <img src="/images/filenux-logo.png" style="height: 36px;">
                 </span>
             </a>
         </div><div class="item">
-            <a class="title">
-                <i class="dropdown icon" tabindex="0">
-                    <div class="menu" tabindex="0"></div>
-                </i>
-                <b>Windows downloads</b>
-            </a>
-            <div class="content menu">
-                <div class="ui inverted big link list"><a class="item" href="https://filenux.com/categories/windows-downloads/">All Downloads</a><a class="item" href="https://filenux.com/categories/windows-anti-spyware-software/">Anti-Spyware</a></div>
-            </div>
-        </div></div>
-</div><div class="pusher">
+                <a class="title">
+                    <i class="dropdown icon" tabindex="0">
+                        <div class="menu" tabindex="0"></div>
+                    </i>
+                    <b>Windows downloads</b>
+                </a>
+                <div class="content menu">
+                    <div class="ui inverted big link list"><a class="item" href="https://filenux.com/categories/windows-anti-spyware-software/">Anti-Spyware</a><a class="item" href="https://filenux.com/categories/windows-browsers-and-plugins/">Browsers and Plugins</a></div>
+                </div>
+            </div></div>
+<div class="pusher">
         
-        <span id="back-to-top" class="box-shadow" title="{% str_back_to_top %}">
+        <span id="back-to-top" class="box-shadow" title="Back to the top">
             <i class="ui large text up arrow icon m-0"></i>
         </span>
 
 
 
 
-<div class="ui inverted secondary blue menu mb-0 mt-0 flex-center br-0" style="height: 54px;">
+
+<div class="ui inverted secondary blue menu mb-0 mt-0 flex-center br-0">
     <div class="ui container">
 
         
         <a class="item" id="open-sidebar"><i class="large bars icon"></i></a>
 
-        <a href="https://filenux.com/" class="active item pv-0 hide-mobile" title="Back to home page">
+        <a href="https://filenux.com/" class="item pv-0 hide-mobile" title="Back to home page">
             <span class="flex-center site-name">
+                <img src="/images/filenux-logo.png" style="height: 36px;">
                 
                 
-                File<span style="color: #cce4ff;">NUX</span>
             </span>
         </a>
 
@@ -133,18 +144,28 @@
 </div><div class="ui fluid container">
     <div class="ui mini message text-center br-0" style="padding-top: 6px;padding-bottom: 6px;">
         <div class="content">
-            <i class="info circle icon"></i>
-            FileNUX can be rewarded with a small affiliate fee (at no additional cost to you) if you purchase any of the products presented here. <a class="legacy-link" href="https://support.filenux.com/en/institutional/affiliate-disclosure/" target="_blank" rel="noopener">Learn more</a>
+            
+            FileNUX is user funded. When possible, we use affiliate links. <a class="legacy-link" href="https://support.filenux.com/en/institutional/affiliate-disclosure/" target="_blank" rel="noopener">Learn more</a>
         </div>
     </div>
-</div><div class="ui container">
-        <div class="ui breadcrumb" style="margin-top: 1rem;margin-bottom: 1rem;">
-    <a href="https://filenux.com/" class="section">Home
-    </a><i class="angle double right icon divider"></i>
-    <div class="active section">
-        Downloading...
-    </div></div>
+</div>
+
+        
+
+
+
+<div class="ui container">
+    <div class="ui breadcrumb" id="breadcrumb" style="margin-top: 2rem;margin-bottom: 1.5rem;">
+        Loading...
     </div>
+</div>
+<script>
+    var breadcrumbs = document.getElementById("breadcrumb");
+    var breadcrumbsHTML = sessionStorage.getItem("filenux_breadcrumbs");
+    breadcrumbs.innerHTML = breadcrumbsHTML + "<i class=\"angle double right icon divider\"></i><div class=\"active section\">Downloading...</div>";
+</script>
+
+
 
 
 <div class="ui container">
@@ -161,17 +182,26 @@
                                     <h1 class="ui header" id="software-id">Thank you for downloading......</h1>
                                     <p>
                                         <span id="downloading-message">
-                                            Your download will start in a moment — <strong><span id="seconds-left">10</span></strong>
+                                            Your download will be ready in a moment — <strong><span id="seconds-left">10</span></strong>
                                         </span>
                                     </p>
-                                    <p id="force-download__container" class="mt-0">
-                                       <a href="#" class="legacy-link amzn" target="_blank" id="force-download">If the download doesn&#39;t start automatically, click here.</a>
-                                    </p>
+
                                     <p id="external-site__container" class="mt-0">
                                         <a href="#" id="external-site" class="ui primary button" target="_blank" rel="nofollow noopener">
                                             <i class="external alternate icon"></i>
                                             Click here to visit the site
                                         </a>
+                                    </p>
+
+                                    <p id="start-download__container" class="mt-0">
+                                        <a href="#" id="start-download" class="ui big primary button" rel="nofollow">
+                                            <i class="arrow down icon"></i>
+                                            Download Now
+                                        </a>
+                                    </p>
+
+                                    <p id="force-download__container" class="mt-0">
+                                       <a href="#" class="legacy-link amzn" target="_blank" id="force-download">If the download doesn&#39;t start automatically, click here.</a>
                                     </p>
 
                                     <div class="ui tiny warning message mt-0" id="external-site-msg">
@@ -205,7 +235,7 @@
                                                 <div class="header">Don&#39;t be a Victim of Cyber Crime</div>
                                                 <div class="description">
                                                     <p>With <strong>NordVPN</strong>, your <span class="spotlight">browsing data stays protected</span> from hackers and you can enjoy <span class="spotlight">fast speeds for a low price</span>.</p>
-                                                    <p><a class="ui big primary button" href="https://www.anrdoezrs.net/click-100465397-14010115?url=https%3A%2F%2Fnordvpn.com%2F" target="_blank" rel="noopener nofollow"><i class="check icon"></i>Get special deal</a></p>
+                                                    <p><a class="ui big basic primary button" href="https://www.anrdoezrs.net/click-100465397-14010115?url=https%3A%2F%2Fnordvpn.com%2F" target="_blank" rel="noopener nofollow"><i class="check icon"></i>Get special deal</a></p>
                                                 </div>
                                             </div>
                                         </div>
@@ -243,6 +273,297 @@
             
 
         </div> 
+
+        
+        <div class="eleven wide computer fourteen wide tablet sixteen wide mobile column">
+            <div class="ui vertical padded raised segment bg-white">
+                <div class="ui basic padded segment">
+                    <h2 id="is-filenux-safe">Is FileNUX safe?</h2>
+<p>When it comes to downloading files from the internet, safety is a top concern for many users. At FileNUX, we understand the importance of providing a secure platform for our users to download files from. That&rsquo;s why we&rsquo;ve taken a number of steps to ensure that our site is safe to use.</p>
+<p>First and foremost, we prioritize providing direct downloads whenever possible. This means that we work closely with developers to provide users with access to the files they need directly from the source. This helps to ensure that the files you&rsquo;re downloading are authentic and haven&rsquo;t been tampered with in any way.</p>
+<p>In addition to direct downloads, we also take the extra step of having all of our downloads checked by over 65 antivirus applications. This thorough scanning process helps identify any potential threats and ensures that the files you&rsquo;re downloading are safe to use.</p>
+<p>Another important aspect of our safety efforts is the maintenance of the integrity of the files we offer for download. We do not change any of the downloads in any way, meaning you can trust that you&rsquo;re getting the file in its original format. This is especially important for those who rely on specific file formats for their work.</p>
+<p>Finally, we always make sure to serve the latest download updates. This means that you&rsquo;ll always have access to the latest released version of the files you&rsquo;re interested in. This is crucial for software and other types of files that are regularly updated with new features and bug fixes.</p>
+<p>In summary, FileNUX is a safe and reliable platform for downloading a wide range of files. With direct downloads from developers, rigorous antivirus scanning, a commitment to maintaining the integrity of the files we offer, and access to the latest updates, you can trust that you&rsquo;re getting safe and reliable downloads every time.</p>
+<h2 id="how-to-install-an-apk-file">How to install an APK file</h2>
+<p>An APK (Android Package Kit) file is an app installation file specifically designed for Android devices. If you have an APK file that you want to install on your device, there are a few different ways you can go about it. Here is a step-by-step guide on how to install an APK file on an Android device:</p>
+<p>First, make sure you have enabled the option to allow the installation of apps from unknown sources. This can usually be found in your device&rsquo;s &ldquo;Security&rdquo; or &ldquo;Privacy&rdquo; settings.</p>
+<p>Download the APK file you want to install on your device. This can usually be done using a web browser or by transferring the file from your computer to your device using a USB cable.</p>
+<p>Once the download is complete, locate the APK file on your device. This will typically be in the &ldquo;Downloads&rdquo; folder, but it may also be in a folder associated with the app you are trying to install (e.g., &ldquo;Amazon&rdquo; or &ldquo;Dropbox&rdquo;).</p>
+<p>Tap on the APK file to begin the installation process. You may see a warning message asking if you are sure you want to install the app. Tap &ldquo;Yes&rdquo; to continue.</p>
+<p>Follow the prompts to complete the installation. This may include agreeing to any permissions the app requires.</p>
+<p>Once the installation is complete, the app will appear in your device&rsquo;s app drawer (or on your home screen, depending on your device&rsquo;s settings). You can then tap the app&rsquo;s icon to launch it.</p>
+<p>It is important to note that not all APK files can be installed on all Android devices. Some apps may be designed specifically for certain versions of Android or may require specific hardware or software features that your device does not have.</p>
+<p>In these cases, the installation may fail or the app may not function properly. Additionally, be aware that downloading and installing apps from unknown sources can be risky, as these apps may not have been through the same vetting process as apps found on the FileNUX website or in the Google Play Store.</p>
+<p>As such, it is always a good idea to be cautious when installing apps from outside of the FileNUX or Google Play Store and to make sure you trust the source of the APK file.</p>
+
+                </div>
+            </div>
+        </div>
+        
+
+        
+        <div class="five wide computer fourteen wide tablet sixteen wide mobile column">
+
+
+
+<div class="ui vertical fitted raised segment bg-white sidebar-widget">
+    <div class="ui basic segment">
+        <h2 class="ui small header">New Downloads</h2>
+
+        <div class="ui pointing secondary small menu scroll-menu"><a class="active item" data-tab="windows-new">
+                <div class="ui tiny header">
+                    <i class="windows icon"></i>
+                    <div class="content">Windows</div>
+                </div>
+            </a></div>
+
+
+        <div class="ui active tab basic fitted segment" data-tab="windows-new">
+            <table class="ui small unstackable table">
+                <tbody><tr class="break-word">
+                        <td>
+                            <a class="ui small header download-list-item" href="/downloads/comodo-cleaning-essentials-windows-64-bit/"><div class="download-icon-list__container">
+                                    <img class="ui rounded centered image download-icon-list lazy-img" data-src="https://filenux.com/images/white-bg_huc7a918c5fe36b19d823f67833421804a_3506_b646c352c11c9978dce35852c99af2ea.png" alt="Comodo Cleaning Essentials (64-bit)" title="Comodo Cleaning Essentials (64-bit)" width="46" height="46">
+                                </div>
+
+
+                                <div class="content" style="flex: 1;">
+                                    <span class="legacy-link" >Comodo Cleaning Essentials (64-bit)</span>
+                                    <div class="sub header">
+                                        <div class="ui horizontal middle aligned celled list"><div class="item">
+                                                <div class="content">v10.0.0.6111</div>
+                                            </div><div class="item">
+                                                <div class="content">
+                                                    <span class="license-freeware">Free</span>
+                                                </div>
+                                            </div><div class="item">
+                                                <div class="content">Windows</div>
+                                            </div></div> 
+                                    </div> 
+                                </div> 
+                            </a> 
+                        </td>
+                    </tr><tr class="break-word">
+                        <td>
+                            <a class="ui small header download-list-item" href="/downloads/comodo-cleaning-essentials-windows-32-bit/"><div class="download-icon-list__container">
+                                    <img class="ui rounded centered image download-icon-list lazy-img" data-src="https://filenux.com/images/white-bg_huc7a918c5fe36b19d823f67833421804a_3506_27463d2f0562de073336b47e1750e8c9.png" alt="Comodo Cleaning Essentials (32-bit)" title="Comodo Cleaning Essentials (32-bit)" width="46" height="46">
+                                </div>
+
+
+                                <div class="content" style="flex: 1;">
+                                    <span class="legacy-link" >Comodo Cleaning Essentials (32-bit)</span>
+                                    <div class="sub header">
+                                        <div class="ui horizontal middle aligned celled list"><div class="item">
+                                                <div class="content">v10.0.0.6111</div>
+                                            </div><div class="item">
+                                                <div class="content">
+                                                    <span class="license-freeware">Free</span>
+                                                </div>
+                                            </div><div class="item">
+                                                <div class="content">Windows</div>
+                                            </div></div> 
+                                    </div> 
+                                </div> 
+                            </a> 
+                        </td>
+                    </tr><tr class="break-word">
+                        <td>
+                            <a class="ui small header download-list-item" href="/downloads/yandex-browser-windows-64-bit/"><div class="download-icon-list__container">
+                                    <img class="ui rounded centered image download-icon-list lazy-img" data-src="https://filenux.com/images/white-bg_huc7a918c5fe36b19d823f67833421804a_3506_907c79198338276589b114199520a31d.png" alt="Yandex Browser (64-bit)" title="Yandex Browser (64-bit)" width="46" height="46">
+                                </div>
+
+
+                                <div class="content" style="flex: 1;">
+                                    <span class="legacy-link" >Yandex Browser (64-bit)</span>
+                                    <div class="sub header">
+                                        <div class="ui horizontal middle aligned celled list"><div class="item">
+                                                <div class="content">v22.11.5</div>
+                                            </div><div class="item">
+                                                <div class="content">
+                                                    <span class="license-freeware">Free</span>
+                                                </div>
+                                            </div><div class="item">
+                                                <div class="content">Windows</div>
+                                            </div></div> 
+                                    </div> 
+                                </div> 
+                            </a> 
+                        </td>
+                    </tr><tr class="break-word">
+                        <td>
+                            <a class="ui small header download-list-item" href="/downloads/yandex-browser-windows-32-bit/"><div class="download-icon-list__container">
+                                    <img class="ui rounded centered image download-icon-list lazy-img" data-src="https://filenux.com/images/white-bg_huc7a918c5fe36b19d823f67833421804a_3506_bc2f59bda28e876e3c0256308cb14477.png" alt="Yandex Browser (32-bit)" title="Yandex Browser (32-bit)" width="46" height="46">
+                                </div>
+
+
+                                <div class="content" style="flex: 1;">
+                                    <span class="legacy-link" >Yandex Browser (32-bit)</span>
+                                    <div class="sub header">
+                                        <div class="ui horizontal middle aligned celled list"><div class="item">
+                                                <div class="content">v22.11.5</div>
+                                            </div><div class="item">
+                                                <div class="content">
+                                                    <span class="license-freeware">Free</span>
+                                                </div>
+                                            </div><div class="item">
+                                                <div class="content">Windows</div>
+                                            </div></div> 
+                                    </div> 
+                                </div> 
+                            </a> 
+                        </td>
+                    </tr><tr class="break-word">
+                        <td>
+                            <a class="ui small header download-list-item" href="/downloads/whale-browser-windows/"><div class="download-icon-list__container">
+                                    <img class="ui rounded centered image download-icon-list lazy-img" data-src="https://filenux.com/images/white-bg_huc7a918c5fe36b19d823f67833421804a_3506_6fd8461551bb1f7a31fe9b110061e23e.png" alt="Whale Browser" title="Whale Browser" width="46" height="46">
+                                </div>
+
+
+                                <div class="content" style="flex: 1;">
+                                    <span class="legacy-link" >Whale Browser</span>
+                                    <div class="sub header">
+                                        <div class="ui horizontal middle aligned celled list"><div class="item">
+                                                <div class="content">v3.18.154.7</div>
+                                            </div><div class="item">
+                                                <div class="content">
+                                                    <span class="license-freeware">Free</span>
+                                                </div>
+                                            </div><div class="item">
+                                                <div class="content">Windows</div>
+                                            </div></div> 
+                                    </div> 
+                                </div> 
+                            </a> 
+                        </td>
+                    </tr><tr class="break-word">
+                        <td>
+                            <a class="ui small header download-list-item" href="/downloads/waterfox-classic-windows/"><div class="download-icon-list__container">
+                                    <img class="ui rounded centered image download-icon-list lazy-img" data-src="https://filenux.com/images/white-bg_huc7a918c5fe36b19d823f67833421804a_3506_957e2225b35df1dd0f9fcf5ed275abba.png" alt="Waterfox Classic" title="Waterfox Classic" width="46" height="46">
+                                </div>
+
+
+                                <div class="content" style="flex: 1;">
+                                    <span class="legacy-link" >Waterfox Classic</span>
+                                    <div class="sub header">
+                                        <div class="ui horizontal middle aligned celled list"><div class="item">
+                                                <div class="content">v2022.11</div>
+                                            </div><div class="item">
+                                                <div class="content">
+                                                    <span class="license-open_source">Open Source</span>
+                                                </div>
+                                            </div><div class="item">
+                                                <div class="content">Windows</div>
+                                            </div></div> 
+                                    </div> 
+                                </div> 
+                            </a> 
+                        </td>
+                    </tr><tr class="break-word">
+                        <td>
+                            <a class="ui small header download-list-item" href="/downloads/waterfox-windows/"><div class="download-icon-list__container">
+                                    <img class="ui rounded centered image download-icon-list lazy-img" data-src="https://filenux.com/images/white-bg_huc7a918c5fe36b19d823f67833421804a_3506_6539e9562f5109913d5eae6d906b0bb1.png" alt="Waterfox" title="Waterfox" width="46" height="46">
+                                </div>
+
+
+                                <div class="content" style="flex: 1;">
+                                    <span class="legacy-link" >Waterfox</span>
+                                    <div class="sub header">
+                                        <div class="ui horizontal middle aligned celled list"><div class="item">
+                                                <div class="content">vG5.1.1</div>
+                                            </div><div class="item">
+                                                <div class="content">
+                                                    <span class="license-open_source">Open Source</span>
+                                                </div>
+                                            </div><div class="item">
+                                                <div class="content">Windows</div>
+                                            </div></div> 
+                                    </div> 
+                                </div> 
+                            </a> 
+                        </td>
+                    </tr><tr class="break-word">
+                        <td>
+                            <a class="ui small header download-list-item" href="/downloads/vivaldi-windows-64-bit/"><div class="download-icon-list__container">
+                                    <img class="ui rounded centered image download-icon-list lazy-img" data-src="https://filenux.com/images/white-bg_huc7a918c5fe36b19d823f67833421804a_3506_89d82985e44f9daf9d140196580b74c1.png" alt="Vivaldi (64-bit)" title="Vivaldi (64-bit)" width="46" height="46">
+                                </div>
+
+
+                                <div class="content" style="flex: 1;">
+                                    <span class="legacy-link" >Vivaldi (64-bit)</span>
+                                    <div class="sub header">
+                                        <div class="ui horizontal middle aligned celled list"><div class="item">
+                                                <div class="content">v5.6.2867.50</div>
+                                            </div><div class="item">
+                                                <div class="content">
+                                                    <span class="license-freeware">Free</span>
+                                                </div>
+                                            </div><div class="item">
+                                                <div class="content">Windows</div>
+                                            </div></div> 
+                                    </div> 
+                                </div> 
+                            </a> 
+                        </td>
+                    </tr><tr class="break-word">
+                        <td>
+                            <a class="ui small header download-list-item" href="/downloads/vivaldi-windows-32-bit/"><div class="download-icon-list__container">
+                                    <img class="ui rounded centered image download-icon-list lazy-img" data-src="https://filenux.com/images/white-bg_huc7a918c5fe36b19d823f67833421804a_3506_48ecfd7420cb8f92db336d5e2052e922.png" alt="Vivaldi (32-bit)" title="Vivaldi (32-bit)" width="46" height="46">
+                                </div>
+
+
+                                <div class="content" style="flex: 1;">
+                                    <span class="legacy-link" >Vivaldi (32-bit)</span>
+                                    <div class="sub header">
+                                        <div class="ui horizontal middle aligned celled list"><div class="item">
+                                                <div class="content">v5.6.2867.50</div>
+                                            </div><div class="item">
+                                                <div class="content">
+                                                    <span class="license-freeware">Free</span>
+                                                </div>
+                                            </div><div class="item">
+                                                <div class="content">Windows</div>
+                                            </div></div> 
+                                    </div> 
+                                </div> 
+                            </a> 
+                        </td>
+                    </tr><tr class="break-word">
+                        <td>
+                            <a class="ui small header download-list-item" href="/downloads/viasat-browser-windows-64-bit/"><div class="download-icon-list__container">
+                                    <img class="ui rounded centered image download-icon-list lazy-img" data-src="https://filenux.com/images/white-bg_huc7a918c5fe36b19d823f67833421804a_3506_f34a0a3077cfe0606d37caaf0fadfbb2.png" alt="Viasat Browser (64-bit)" title="Viasat Browser (64-bit)" width="46" height="46">
+                                </div>
+
+
+                                <div class="content" style="flex: 1;">
+                                    <span class="legacy-link" >Viasat Browser (64-bit)</span>
+                                    <div class="sub header">
+                                        <div class="ui horizontal middle aligned celled list"><div class="item">
+                                                <div class="content">v94.0.406.31339</div>
+                                            </div><div class="item">
+                                                <div class="content">
+                                                    <span class="license-freeware">Free</span>
+                                                </div>
+                                            </div><div class="item">
+                                                <div class="content">Windows</div>
+                                            </div></div> 
+                                    </div> 
+                                </div> 
+                            </a> 
+                        </td>
+                    </tr></tbody>
+            </table>
+        </div></div>
+</div>
+
+    
+
+    
+    
+
+    
+</div>
+        
 
         
 
@@ -306,29 +627,66 @@
 </div>
 
 
-        
-        
 
         <div class="ui inverted vertical footer segment" style="padding: 70px 0;">
     <div class="ui container">
         <div class="ui inverted divided equal height stackable grid">
-            <div class="seven wide column">
-    <div class="ui inverted header">
-        <i class="red heart icon"></i>
-        <div class="content">Our mission</div>
-    </div>
+            <div class="four wide column">
+    
 
-    <p>To be the most <strong>reliable and up-to-date</strong> download source on the Internet. Provide our users with the <strong>best downloadable programs</strong> that can meet their needs.</p>
+    <a href="https://filenux.com/" class="item" title="Back to home page">
+        <span class="site-name">
+            
+            <img src="/images/filenux-logo.png" style="height: 36px;margin-bottom: 10px;">
+        </span>
+    </a>
 
-</div><div class="three wide column"><div class="ui inverted small header">Platforms</div>
-                    <div class="ui inverted very relaxed link list"><a  href="/categories/windows-downloads/" class="item"><i class="windows icon"></i><div class="content">Windows</div>
-                        </a></div></div><div class="three wide column"><div class="ui inverted small header">Institutional</div>
-                    <div class="ui inverted very relaxed link list"><a  href="https://support.filenux.com/en/institutional/about/" target="_blank" rel="noopener noreferrer" class="item"><div class="content">About us</div>
-                        </a><a  href="https://support.filenux.com/en/institutional/privacy-policy/" target="_blank" rel="noopener noreferrer" class="item"><div class="content">Privacy policy</div>
-                        </a><a  href="https://support.filenux.com/en/institutional/terms/" target="_blank" rel="noopener noreferrer" class="item"><div class="content">Terms of use</div>
-                        </a><a  href="https://support.filenux.com/en/institutional/cookie-policy/" target="_blank" rel="noopener noreferrer" class="item"><div class="content">Cookie policy</div>
-                        </a><a  href="https://support.filenux.com/en/institutional/affiliate-disclosure/" target="_blank" rel="noopener noreferrer" class="item"><div class="content">Affiliate disclosure</div>
-                        </a></div></div><div class="three wide column">
+    <p>We are the most reliable and up-to-date download source on the Internet. We offer our users the best downloadable software available on the market. No matter what operating system you are using, we have the software you need.</p>
+
+</div><div class="three wide column"><div class="ui inverted small header">Browse by</div>
+                    <div class="ui inverted very relaxed link list"><div class="item"><div class="content">
+                                <a href="https://filenux.com/authors/" class="amzn inverted_footer__link">
+                                    Authors
+                                </a>
+                            </div>
+                        </div><div class="item"><div class="content">
+                                <a href="https://filenux.com/categories/" class="amzn inverted_footer__link">
+                                    Categories
+                                </a>
+                            </div>
+                        </div></div></div><div class="three wide column"><div class="ui inverted small header">Operating systems</div>
+                    <div class="ui inverted very relaxed link list"><div class="item"><i class="windows icon"></i><div class="content">
+                                <a href="https://filenux.com/systems/windows/" class="amzn inverted_footer__link">
+                                    Windows
+                                </a>
+                            </div>
+                        </div></div></div><div class="three wide column"><div class="ui inverted small header">Institutional</div>
+                    <div class="ui inverted very relaxed link list"><div class="item"><div class="content">
+                                <a href="https://support.filenux.com/en/institutional/about/" target="_blank" rel="noopener noreferrer" class="amzn inverted_footer__link">
+                                    About us
+                                </a>
+                            </div>
+                        </div><div class="item"><div class="content">
+                                <a href="https://support.filenux.com/en/institutional/privacy-policy/" target="_blank" rel="noopener noreferrer" class="amzn inverted_footer__link">
+                                    Privacy policy
+                                </a>
+                            </div>
+                        </div><div class="item"><div class="content">
+                                <a href="https://support.filenux.com/en/institutional/terms/" target="_blank" rel="noopener noreferrer" class="amzn inverted_footer__link">
+                                    Terms of use
+                                </a>
+                            </div>
+                        </div><div class="item"><div class="content">
+                                <a href="https://support.filenux.com/en/institutional/cookie-policy/" target="_blank" rel="noopener noreferrer" class="amzn inverted_footer__link">
+                                    Cookie policy
+                                </a>
+                            </div>
+                        </div><div class="item"><div class="content">
+                                <a href="https://support.filenux.com/en/institutional/affiliate-disclosure/" target="_blank" rel="noopener noreferrer" class="amzn inverted_footer__link">
+                                    Affiliate disclosure
+                                </a>
+                            </div>
+                        </div></div></div><div class="three wide column">
                 
 
                 <div class="ui inverted small header">Connect with us</div>
@@ -345,7 +703,7 @@
             <div class="ui grid">
                 <div class="row">
                     <div class="column center aligned">
-                        <small style="text-transform: uppercase;">&copy; COPYRIGHT W3EMPIRE 2021 - All rights reserved</small>
+                        <small style="text-transform: uppercase;">&copy; 2021 - 2023 FileNUX, a W3EMPIRE property  - All rights reserved</small>
                     </div>
                 </div>
             </div>
@@ -460,7 +818,15 @@
     
     
 
+    var downloadingMsgLabel = document.getElementById("downloading-message");
+    var forceDownloadContainer = document.getElementById("force-download__container");
+    var forceDownload = document.getElementById("force-download");
+    var startDownload = document.getElementById("start-download");
+    var startDownloadContainer = document.getElementById("start-download__container");
+
     var countDown = null;
+    var stillCounting = true;
+    var restoreCounter = null;
     countDown = setInterval(function() {
         updateCountDown();
     }, 1000);
@@ -476,14 +842,19 @@
     }
 
     function decrypt(ps_content) {
-        var lva_chars = ps_content.split("");
-
+        var counter = ps_content.length - 1
         var lvs_unencryptedURL = "";
-        lva_chars.forEach(function(char) {
-            lvs_unencryptedURL += String.fromCharCode(char.charCodeAt(0) - 5);
-        });
+        while (counter != -1) {
+            lvs_unencryptedURL += ps_content[counter]
+            counter--;
+        }
 
-        return lvs_unencryptedURL;
+        
+        
+        
+        
+        
+        return decodeURIComponent(lvs_unencryptedURL);
     }
 
     function updateCountDown() {
@@ -497,20 +868,29 @@
             secondsLeftElement.textContent = secondsLeft;
         } else {
             clearInterval(countDown);
-            var downloadingMsgLabel = document.getElementById("downloading-message");
+            stillCounting = false;
             if (download_type === "direct") {
-                downloadingMsgLabel.textContent = "Downloading...";
+                downloadingMsgLabel.textContent = "All set. Click the button below to start the download.";
+                
 
-                var forceDownload = document.getElementById("force-download");
                 forceDownload.setAttribute("href", decrypt(url))
+                startDownload.setAttribute("href", decrypt(url))
+                startDownloadContainer.style.display = "inline-block";
 
-                var forceDownloadContainer = document.getElementById("force-download__container");
-                forceDownloadContainer.style.display = "inline-block";
-                download();
+                startDownload.addEventListener("click", () => {
+                    startDownload.classList.add("loading", "disabled");
+                    downloadingMsgLabel.textContent = "Downloading...";
+                    forceDownloadContainer.style.display = "inline-block";
+
+                    restoreCounter = setInterval(function() {
+                        restoreDownloadButton();
+                    }, 30000);
+                });
+                
             } else {
                 downloadingMsgLabel.style.display = "none";
                 var externalSiteEl = document.getElementById("external-site");
-                externalSiteEl.setAttribute("href", decrypt(url))
+                externalSiteEl.setAttribute("href", decrypt(url));
 
                 var externalSiteContainer = document.getElementById("external-site__container");
                 externalSiteContainer.style.display = "inline-block";
@@ -519,6 +899,11 @@
                 externalSiteMsgEl.style.display = "block";
             }
         }
+    }
+
+    function restoreDownloadButton() {
+        clearInterval(restoreCounter);
+        startDownload.classList.remove("loading", "disabled");
     }
 
     function download() {
@@ -535,9 +920,11 @@
     });
     
     window.addEventListener('focus', function() {
-        countDown = setInterval(function() {
-            updateCountDown();
-        }, 1000);
+        if (stillCounting) {
+            countDown = setInterval(function() {
+                updateCountDown();
+            }, 1000);
+        }
     });
 </script></body>
 </html>
