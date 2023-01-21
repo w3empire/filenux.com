@@ -2,11 +2,11 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://filenux.com/authors/richard-scott/</loc>
-    <lastmod>2023-01-20T18:11:44-03:00</lastmod>
+    <loc>https://filenux.com/authors/bruno-souza/</loc>
+    <lastmod>2023-01-21T18:51:54-03:00</lastmod>
   </url><url>
     <loc>https://filenux.com/categories/</loc>
-    <lastmod>2023-01-20T18:17:06-03:00</lastmod>
+    <lastmod>2023-01-21T18:51:54-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
@@ -19,10 +19,10 @@
                 />
   </url><url>
     <loc>https://filenux.com/downloads/</loc>
-    <lastmod>2023-01-20T18:17:06-03:00</lastmod>
+    <lastmod>2023-01-21T18:51:54-03:00</lastmod>
   </url><url>
     <loc>https://filenux.com/systems/</loc>
-    <lastmod>2023-01-20T18:17:06-03:00</lastmod>
+    <lastmod>2023-01-21T18:51:54-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
@@ -35,13 +35,13 @@
                 />
   </url><url>
     <loc>https://filenux.com/categories/windows-antimalware-software/</loc>
-    <lastmod>2023-01-20T17:58:15-03:00</lastmod>
+    <lastmod>2023-01-21T18:51:54-03:00</lastmod>
   </url><url>
     <loc>https://filenux.com/systems/windows/</loc>
-    <lastmod>2023-01-20T18:17:06-03:00</lastmod>
+    <lastmod>2023-01-21T18:51:54-03:00</lastmod>
   </url><url>
     <loc>https://filenux.com/</loc>
-    <lastmod>2023-01-20T18:17:06-03:00</lastmod>
+    <lastmod>2023-01-21T18:51:54-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
@@ -54,7 +54,7 @@
                 />
   </url><url>
     <loc>https://filenux.com/authors/</loc>
-    <lastmod>2023-01-20T18:17:06-03:00</lastmod>
+    <lastmod>2023-01-21T18:51:54-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
@@ -66,17 +66,44 @@
                 href="https://filenux.com/authors/"
                 />
   </url><url>
+    <loc>https://filenux.com/downloads/stopzilla-antimalware-windows-64-bit/</loc>
+    <lastmod>2023-01-21T18:51:54-03:00</lastmod>
+  </url><url>
+    <loc>https://filenux.com/authors/richard-scott/</loc>
+    <lastmod>2023-01-21T18:22:03-03:00</lastmod>
+  </url><url>
+    <loc>https://filenux.com/downloads/stopzilla-antimalware-windows-32-bit/</loc>
+    <lastmod>2023-01-21T18:22:03-03:00</lastmod>
+  </url><url>
+    <loc>https://filenux.com/downloads/spywareblaster-windows-64-bit/</loc>
+    <lastmod>2023-01-21T13:34:25-03:00</lastmod>
+  </url><url>
+    <loc>https://filenux.com/authors/akira-osawa/</loc>
+    <lastmod>2023-01-21T13:11:54-03:00</lastmod>
+  </url><url>
+    <loc>https://filenux.com/downloads/spywareblaster-windows-32-bit/</loc>
+    <lastmod>2023-01-21T13:11:54-03:00</lastmod>
+  </url><url>
+    <loc>https://filenux.com/downloads/spyshelter-free-windows/</loc>
+    <lastmod>2023-01-21T12:41:38-03:00</lastmod>
+  </url><url>
+    <loc>https://filenux.com/downloads/spyshelter-premium-windows/</loc>
+    <lastmod>2023-01-21T10:20:35-03:00</lastmod>
+  </url><url>
+    <loc>https://filenux.com/downloads/spyshelter-silent-windows/</loc>
+    <lastmod>2023-01-21T09:54:59-03:00</lastmod>
+  </url><url>
+    <loc>https://filenux.com/downloads/spyhunter-windows/</loc>
+    <lastmod>2023-01-21T09:13:41-03:00</lastmod>
+  </url><url>
+    <loc>https://filenux.com/downloads/spybot-windows/</loc>
+    <lastmod>2023-01-21T08:22:18-03:00</lastmod>
+  </url><url>
     <loc>https://filenux.com/downloads/roguekiller-portable-windows-64-bit/</loc>
     <lastmod>2023-01-20T17:58:15-03:00</lastmod>
   </url><url>
-    <loc>https://filenux.com/authors/bruno-souza/</loc>
-    <lastmod>2023-01-20T18:17:06-03:00</lastmod>
-  </url><url>
     <loc>https://filenux.com/downloads/roguekiller-portable-windows-32-bit/</loc>
     <lastmod>2023-01-20T17:48:42-03:00</lastmod>
-  </url><url>
-    <loc>https://filenux.com/authors/akira-osawa/</loc>
-    <lastmod>2023-01-20T18:14:17-03:00</lastmod>
   </url><url>
     <loc>https://filenux.com/downloads/roguekiller-windows/</loc>
     <lastmod>2023-01-20T17:38:48-03:00</lastmod>
