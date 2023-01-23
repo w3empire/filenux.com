@@ -6,32 +6,32 @@
     <description>Recent content in List of all FileNUX authors on FileNUX</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 21 Jan 2023 18:51:54 -0300</lastBuildDate><atom:link href="https://filenux.com/authors/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 22 Jan 2023 14:20:11 -0300</lastBuildDate><atom:link href="https://filenux.com/authors/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>All articles by Bruno Souza on FileNUX</title>
       <link>https://filenux.com/authors/bruno-souza/</link>
-      <pubDate>Sat, 21 Jan 2023 18:51:54 -0300</pubDate>
+      <pubDate>Sun, 22 Jan 2023 14:20:11 -0300</pubDate>
       
       <guid>https://filenux.com/authors/bruno-souza/</guid>
       <description>Technical Writer and Editor</description>
     </item>
     
     <item>
-      <title>All Articles by Richard Scott on FileNUX</title>
-      <link>https://filenux.com/authors/richard-scott/</link>
-      <pubDate>Sat, 21 Jan 2023 18:22:03 -0300</pubDate>
-      
-      <guid>https://filenux.com/authors/richard-scott/</guid>
-      <description>Technical Writer</description>
-    </item>
-    
-    <item>
       <title>All articles by Akira Osawa on FileNUX</title>
       <link>https://filenux.com/authors/akira-osawa/</link>
-      <pubDate>Sat, 21 Jan 2023 13:11:54 -0300</pubDate>
+      <pubDate>Sun, 22 Jan 2023 14:08:18 -0300</pubDate>
       
       <guid>https://filenux.com/authors/akira-osawa/</guid>
       <description>Technical Writer and Editor</description>
+    </item>
+    
+    <item>
+      <title>All Articles by Richard Scott on FileNUX</title>
+      <link>https://filenux.com/authors/richard-scott/</link>
+      <pubDate>Sun, 22 Jan 2023 12:56:38 -0300</pubDate>
+      
+      <guid>https://filenux.com/authors/richard-scott/</guid>
+      <description>Technical Writer</description>
     </item>
     
   </channel>

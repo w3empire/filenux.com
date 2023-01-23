@@ -3,10 +3,10 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://filenux.com/authors/bruno-souza/</loc>
-    <lastmod>2023-01-21T18:51:54-03:00</lastmod>
+    <lastmod>2023-01-22T20:34:41-03:00</lastmod>
   </url><url>
     <loc>https://filenux.com/categories/</loc>
-    <lastmod>2023-01-21T18:51:54-03:00</lastmod>
+    <lastmod>2023-01-22T20:34:41-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
@@ -19,10 +19,10 @@
                 />
   </url><url>
     <loc>https://filenux.com/downloads/</loc>
-    <lastmod>2023-01-21T18:51:54-03:00</lastmod>
+    <lastmod>2023-01-22T20:34:41-03:00</lastmod>
   </url><url>
     <loc>https://filenux.com/systems/</loc>
-    <lastmod>2023-01-21T18:51:54-03:00</lastmod>
+    <lastmod>2023-01-22T20:34:41-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
@@ -35,13 +35,13 @@
                 />
   </url><url>
     <loc>https://filenux.com/categories/windows-antimalware-software/</loc>
-    <lastmod>2023-01-21T18:51:54-03:00</lastmod>
+    <lastmod>2023-01-22T20:34:41-03:00</lastmod>
   </url><url>
     <loc>https://filenux.com/systems/windows/</loc>
-    <lastmod>2023-01-21T18:51:54-03:00</lastmod>
+    <lastmod>2023-01-22T20:34:41-03:00</lastmod>
   </url><url>
     <loc>https://filenux.com/</loc>
-    <lastmod>2023-01-21T18:51:54-03:00</lastmod>
+    <lastmod>2023-01-22T20:34:41-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
@@ -54,7 +54,7 @@
                 />
   </url><url>
     <loc>https://filenux.com/authors/</loc>
-    <lastmod>2023-01-21T18:51:54-03:00</lastmod>
+    <lastmod>2023-01-22T20:34:41-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
@@ -66,20 +66,29 @@
                 href="https://filenux.com/authors/"
                 />
   </url><url>
-    <loc>https://filenux.com/downloads/stopzilla-antimalware-windows-64-bit/</loc>
-    <lastmod>2023-01-21T18:51:54-03:00</lastmod>
+    <loc>https://filenux.com/downloads/trojan-killer-windows/</loc>
+    <lastmod>2023-01-22T14:20:11-03:00</lastmod>
+  </url><url>
+    <loc>https://filenux.com/authors/akira-osawa/</loc>
+    <lastmod>2023-01-22T20:32:12-03:00</lastmod>
+  </url><url>
+    <loc>https://filenux.com/downloads/superantispyware-professional-x-windows/</loc>
+    <lastmod>2023-01-22T14:08:18-03:00</lastmod>
   </url><url>
     <loc>https://filenux.com/authors/richard-scott/</loc>
-    <lastmod>2023-01-21T18:22:03-03:00</lastmod>
+    <lastmod>2023-01-22T12:56:38-03:00</lastmod>
+  </url><url>
+    <loc>https://filenux.com/downloads/superantispyware-windows/</loc>
+    <lastmod>2023-01-22T12:56:38-03:00</lastmod>
+  </url><url>
+    <loc>https://filenux.com/downloads/stopzilla-antimalware-windows-64-bit/</loc>
+    <lastmod>2023-01-21T18:51:54-03:00</lastmod>
   </url><url>
     <loc>https://filenux.com/downloads/stopzilla-antimalware-windows-32-bit/</loc>
     <lastmod>2023-01-21T18:22:03-03:00</lastmod>
   </url><url>
     <loc>https://filenux.com/downloads/spywareblaster-windows-64-bit/</loc>
     <lastmod>2023-01-21T13:34:25-03:00</lastmod>
-  </url><url>
-    <loc>https://filenux.com/authors/akira-osawa/</loc>
-    <lastmod>2023-01-21T13:11:54-03:00</lastmod>
   </url><url>
     <loc>https://filenux.com/downloads/spywareblaster-windows-32-bit/</loc>
     <lastmod>2023-01-21T13:11:54-03:00</lastmod>
@@ -124,13 +133,13 @@
     <lastmod>2023-01-19T20:41:36-03:00</lastmod>
   </url><url>
     <loc>https://filenux.com/downloads/mcafee-stinger-portable-windows/</loc>
-    <lastmod>2023-01-19T20:15:57-03:00</lastmod>
+    <lastmod>2023-01-22T20:34:41-03:00</lastmod>
   </url><url>
     <loc>https://filenux.com/downloads/mcafee-stinger-windows-64-bit/</loc>
-    <lastmod>2023-01-19T19:53:20-03:00</lastmod>
+    <lastmod>2023-01-22T20:32:12-03:00</lastmod>
   </url><url>
     <loc>https://filenux.com/downloads/mcafee-stinger-windows-32-bit/</loc>
-    <lastmod>2023-01-19T15:23:45-03:00</lastmod>
+    <lastmod>2023-01-22T20:31:38-03:00</lastmod>
   </url><url>
     <loc>https://filenux.com/downloads/malwarefox-antimalware-windows/</loc>
     <lastmod>2023-01-19T14:59:44-03:00</lastmod>
