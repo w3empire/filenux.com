@@ -3,10 +3,10 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://filenux.com/authors/bruno-souza/</loc>
-    <lastmod>2023-01-22T20:34:41-03:00</lastmod>
+    <lastmod>2023-02-01T22:43:12-03:00</lastmod>
   </url><url>
     <loc>https://filenux.com/categories/</loc>
-    <lastmod>2023-01-22T20:34:41-03:00</lastmod>
+    <lastmod>2023-02-01T22:45:55-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
@@ -19,10 +19,10 @@
                 />
   </url><url>
     <loc>https://filenux.com/downloads/</loc>
-    <lastmod>2023-01-22T20:34:41-03:00</lastmod>
+    <lastmod>2023-02-01T22:45:55-03:00</lastmod>
   </url><url>
     <loc>https://filenux.com/systems/</loc>
-    <lastmod>2023-01-22T20:34:41-03:00</lastmod>
+    <lastmod>2023-02-01T22:45:55-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
@@ -35,13 +35,16 @@
                 />
   </url><url>
     <loc>https://filenux.com/categories/windows-antimalware-software/</loc>
-    <lastmod>2023-01-22T20:34:41-03:00</lastmod>
+    <lastmod>2023-02-01T22:43:56-03:00</lastmod>
   </url><url>
     <loc>https://filenux.com/systems/windows/</loc>
-    <lastmod>2023-01-22T20:34:41-03:00</lastmod>
+    <lastmod>2023-02-01T22:45:55-03:00</lastmod>
+  </url><url>
+    <loc>https://filenux.com/downloads/emsisoft-commandline-scanner-windows-64-bit/</loc>
+    <lastmod>2023-02-01T22:04:43-03:00</lastmod>
   </url><url>
     <loc>https://filenux.com/</loc>
-    <lastmod>2023-01-22T20:34:41-03:00</lastmod>
+    <lastmod>2023-02-01T22:45:55-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
@@ -54,7 +57,7 @@
                 />
   </url><url>
     <loc>https://filenux.com/authors/</loc>
-    <lastmod>2023-01-22T20:34:41-03:00</lastmod>
+    <lastmod>2023-02-01T22:45:55-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
@@ -66,17 +69,35 @@
                 href="https://filenux.com/authors/"
                 />
   </url><url>
+    <loc>https://filenux.com/authors/marc-alfano/</loc>
+    <lastmod>2023-02-01T21:54:29-03:00</lastmod>
+  </url><url>
+    <loc>https://filenux.com/downloads/emsisoft-commandline-scanner-windows-32-bit/</loc>
+    <lastmod>2023-02-01T21:54:29-03:00</lastmod>
+  </url><url>
+    <loc>https://filenux.com/authors/ernest-costa/</loc>
+    <lastmod>2023-02-01T21:17:45-03:00</lastmod>
+  </url><url>
+    <loc>https://filenux.com/downloads/emsisoft-anti-malware-windows/</loc>
+    <lastmod>2023-02-01T21:17:45-03:00</lastmod>
+  </url><url>
+    <loc>https://filenux.com/authors/richard-scott/</loc>
+    <lastmod>2023-02-01T22:44:31-03:00</lastmod>
+  </url><url>
+    <loc>https://filenux.com/downloads/ultra-adware-killer-windows/</loc>
+    <lastmod>2023-01-23T21:46:31-03:00</lastmod>
+  </url><url>
+    <loc>https://filenux.com/authors/akira-osawa/</loc>
+    <lastmod>2023-02-01T22:45:55-03:00</lastmod>
+  </url><url>
+    <loc>https://filenux.com/downloads/trojan-remover-windows/</loc>
+    <lastmod>2023-01-22T17:16:26-03:00</lastmod>
+  </url><url>
     <loc>https://filenux.com/downloads/trojan-killer-windows/</loc>
     <lastmod>2023-01-22T14:20:11-03:00</lastmod>
   </url><url>
-    <loc>https://filenux.com/authors/akira-osawa/</loc>
-    <lastmod>2023-01-22T20:32:12-03:00</lastmod>
-  </url><url>
     <loc>https://filenux.com/downloads/superantispyware-professional-x-windows/</loc>
     <lastmod>2023-01-22T14:08:18-03:00</lastmod>
-  </url><url>
-    <loc>https://filenux.com/authors/richard-scott/</loc>
-    <lastmod>2023-01-22T12:56:38-03:00</lastmod>
   </url><url>
     <loc>https://filenux.com/downloads/superantispyware-windows/</loc>
     <lastmod>2023-01-22T12:56:38-03:00</lastmod>
@@ -109,13 +130,13 @@
     <lastmod>2023-01-21T08:22:18-03:00</lastmod>
   </url><url>
     <loc>https://filenux.com/downloads/roguekiller-portable-windows-64-bit/</loc>
-    <lastmod>2023-01-20T17:58:15-03:00</lastmod>
+    <lastmod>2023-02-01T22:43:37-03:00</lastmod>
   </url><url>
     <loc>https://filenux.com/downloads/roguekiller-portable-windows-32-bit/</loc>
-    <lastmod>2023-01-20T17:48:42-03:00</lastmod>
+    <lastmod>2023-02-01T22:43:12-03:00</lastmod>
   </url><url>
     <loc>https://filenux.com/downloads/roguekiller-windows/</loc>
-    <lastmod>2023-01-20T17:38:48-03:00</lastmod>
+    <lastmod>2023-02-01T22:43:56-03:00</lastmod>
   </url><url>
     <loc>https://filenux.com/downloads/reason-core-security-windows/</loc>
     <lastmod>2023-01-20T17:09:06-03:00</lastmod>
@@ -136,10 +157,10 @@
     <lastmod>2023-01-22T20:34:41-03:00</lastmod>
   </url><url>
     <loc>https://filenux.com/downloads/mcafee-stinger-windows-64-bit/</loc>
-    <lastmod>2023-01-22T20:32:12-03:00</lastmod>
+    <lastmod>2023-01-24T06:34:11-03:00</lastmod>
   </url><url>
     <loc>https://filenux.com/downloads/mcafee-stinger-windows-32-bit/</loc>
-    <lastmod>2023-01-22T20:31:38-03:00</lastmod>
+    <lastmod>2023-01-24T06:34:04-03:00</lastmod>
   </url><url>
     <loc>https://filenux.com/downloads/malwarefox-antimalware-windows/</loc>
     <lastmod>2023-01-19T14:59:44-03:00</lastmod>
@@ -148,13 +169,13 @@
     <lastmod>2023-01-19T14:36:28-03:00</lastmod>
   </url><url>
     <loc>https://filenux.com/downloads/malwarebytes-anti-exploit-windows/</loc>
-    <lastmod>2023-01-16T19:58:52-03:00</lastmod>
+    <lastmod>2023-02-01T22:40:36-03:00</lastmod>
   </url><url>
     <loc>https://filenux.com/downloads/malware-hunter-windows/</loc>
     <lastmod>2023-01-16T15:31:01-03:00</lastmod>
   </url><url>
     <loc>https://filenux.com/downloads/loaris-trojan-remover-windows/</loc>
-    <lastmod>2023-01-16T06:00:14-03:00</lastmod>
+    <lastmod>2023-02-01T22:40:02-03:00</lastmod>
   </url><url>
     <loc>https://filenux.com/downloads/keyscrambler-professional-windows/</loc>
     <lastmod>2023-01-10T09:35:52-03:00</lastmod>
@@ -181,13 +202,13 @@
     <lastmod>2023-01-08T18:50:54-03:00</lastmod>
   </url><url>
     <loc>https://filenux.com/categories/windows-browsers-and-plugins/</loc>
-    <lastmod>2023-01-20T18:17:06-03:00</lastmod>
+    <lastmod>2023-02-01T22:45:55-03:00</lastmod>
   </url><url>
     <loc>https://filenux.com/downloads/yandex-browser-windows-64-bit/</loc>
-    <lastmod>2023-01-15T04:28:43-03:00</lastmod>
+    <lastmod>2023-01-24T06:51:12-03:00</lastmod>
   </url><url>
     <loc>https://filenux.com/downloads/yandex-browser-windows-32-bit/</loc>
-    <lastmod>2023-01-16T00:57:38-03:00</lastmod>
+    <lastmod>2023-01-24T06:50:49-03:00</lastmod>
   </url><url>
     <loc>https://filenux.com/downloads/whale-browser-windows/</loc>
     <lastmod>2023-01-19T21:51:01-03:00</lastmod>
@@ -199,10 +220,10 @@
     <lastmod>2023-01-19T21:50:41-03:00</lastmod>
   </url><url>
     <loc>https://filenux.com/downloads/vivaldi-windows-64-bit/</loc>
-    <lastmod>2023-01-16T00:57:18-03:00</lastmod>
+    <lastmod>2023-02-01T22:45:55-03:00</lastmod>
   </url><url>
     <loc>https://filenux.com/downloads/vivaldi-windows-32-bit/</loc>
-    <lastmod>2023-01-16T00:56:56-03:00</lastmod>
+    <lastmod>2023-02-01T22:45:37-03:00</lastmod>
   </url><url>
     <loc>https://filenux.com/downloads/viasat-browser-windows-64-bit/</loc>
     <lastmod>2023-01-08T17:04:12-03:00</lastmod>
@@ -226,13 +247,13 @@
     <lastmod>2023-01-08T10:30:21-03:00</lastmod>
   </url><url>
     <loc>https://filenux.com/downloads/slimjet-windows-64-bit/</loc>
-    <lastmod>2023-01-08T10:27:19-03:00</lastmod>
+    <lastmod>2023-02-01T22:44:48-03:00</lastmod>
   </url><url>
     <loc>https://filenux.com/downloads/slimjet-portable-windows-32-bit/</loc>
     <lastmod>2023-01-08T10:23:10-03:00</lastmod>
   </url><url>
     <loc>https://filenux.com/downloads/slimjet-windows-32-bit/</loc>
-    <lastmod>2023-01-08T10:18:53-03:00</lastmod>
+    <lastmod>2023-02-01T22:44:31-03:00</lastmod>
   </url><url>
     <loc>https://filenux.com/downloads/tor-browser-windows-64-bit/</loc>
     <lastmod>2023-01-19T21:50:14-03:00</lastmod>
@@ -256,7 +277,7 @@
     <lastmod>2023-01-07T19:26:03-03:00</lastmod>
   </url><url>
     <loc>https://filenux.com/downloads/sidekick-windows/</loc>
-    <lastmod>2023-01-17T17:01:17-03:00</lastmod>
+    <lastmod>2023-01-24T06:50:11-03:00</lastmod>
   </url><url>
     <loc>https://filenux.com/downloads/seamonkey-windows-64-bit/</loc>
     <lastmod>2023-01-20T18:17:06-03:00</lastmod>
@@ -277,10 +298,10 @@
     <lastmod>2023-01-07T17:40:35-03:00</lastmod>
   </url><url>
     <loc>https://filenux.com/downloads/pale-moon-windows-64-bit/</loc>
-    <lastmod>2023-01-07T17:17:49-03:00</lastmod>
+    <lastmod>2023-02-01T22:42:36-03:00</lastmod>
   </url><url>
     <loc>https://filenux.com/downloads/pale-moon-windows-32-bit/</loc>
-    <lastmod>2023-01-07T17:08:29-03:00</lastmod>
+    <lastmod>2023-02-01T22:42:27-03:00</lastmod>
   </url><url>
     <loc>https://filenux.com/downloads/opera-portable-windows/</loc>
     <lastmod>2023-01-20T18:12:45-03:00</lastmod>
@@ -289,10 +310,10 @@
     <lastmod>2023-01-07T15:38:01-03:00</lastmod>
   </url><url>
     <loc>https://filenux.com/downloads/opera-gx-windows-64-bit/</loc>
-    <lastmod>2023-01-16T00:55:18-03:00</lastmod>
+    <lastmod>2023-01-24T06:49:50-03:00</lastmod>
   </url><url>
     <loc>https://filenux.com/downloads/opera-gx-windows-32-bit/</loc>
-    <lastmod>2023-01-16T00:54:57-03:00</lastmod>
+    <lastmod>2023-01-24T06:49:36-03:00</lastmod>
   </url><url>
     <loc>https://filenux.com/downloads/opera-crypto-browser-windows/</loc>
     <lastmod>2023-01-07T14:56:58-03:00</lastmod>
@@ -307,7 +328,7 @@
     <lastmod>2023-01-07T08:28:09-03:00</lastmod>
   </url><url>
     <loc>https://filenux.com/downloads/microsoft-edge-windows/</loc>
-    <lastmod>2023-01-16T00:54:23-03:00</lastmod>
+    <lastmod>2023-02-01T22:41:50-03:00</lastmod>
   </url><url>
     <loc>https://filenux.com/downloads/maxthon-portable-windows-32-bit/</loc>
     <lastmod>2023-01-06T23:51:31-03:00</lastmod>
@@ -319,7 +340,7 @@
     <lastmod>2023-01-06T20:32:30-03:00</lastmod>
   </url><url>
     <loc>https://filenux.com/downloads/maxthon-windows-64-bit/</loc>
-    <lastmod>2023-01-06T20:32:30-03:00</lastmod>
+    <lastmod>2023-02-01T22:41:15-03:00</lastmod>
   </url><url>
     <loc>https://filenux.com/downloads/lunascape-browser-windows/</loc>
     <lastmod>2023-01-06T20:18:53-03:00</lastmod>
@@ -340,28 +361,28 @@
     <lastmod>2023-01-06T18:36:31-03:00</lastmod>
   </url><url>
     <loc>https://filenux.com/downloads/google-chrome-portable-windows-64-bit/</loc>
-    <lastmod>2023-01-16T00:51:15-03:00</lastmod>
+    <lastmod>2023-02-01T22:38:38-03:00</lastmod>
   </url><url>
     <loc>https://filenux.com/downloads/google-chrome-portable-windows-32-bit/</loc>
-    <lastmod>2023-01-16T00:51:07-03:00</lastmod>
+    <lastmod>2023-02-01T22:38:30-03:00</lastmod>
   </url><url>
     <loc>https://filenux.com/downloads/google-chrome-windows-64-bit/</loc>
-    <lastmod>2023-01-11T18:27:52-03:00</lastmod>
+    <lastmod>2023-02-01T22:39:10-03:00</lastmod>
   </url><url>
     <loc>https://filenux.com/downloads/google-chrome-windows-32-bit/</loc>
-    <lastmod>2023-01-11T18:28:04-03:00</lastmod>
+    <lastmod>2023-02-01T22:39:01-03:00</lastmod>
   </url><url>
     <loc>https://filenux.com/downloads/firefox-developer-edition-windows-64-bit/</loc>
-    <lastmod>2023-01-20T18:11:44-03:00</lastmod>
+    <lastmod>2023-02-01T22:37:37-03:00</lastmod>
   </url><url>
     <loc>https://filenux.com/downloads/firefox-developer-edition-windows-32-bit/</loc>
-    <lastmod>2023-01-20T18:11:24-03:00</lastmod>
+    <lastmod>2023-02-01T22:37:25-03:00</lastmod>
   </url><url>
     <loc>https://filenux.com/downloads/firefox-windows-64-bit/</loc>
-    <lastmod>2023-01-16T20:23:55-03:00</lastmod>
+    <lastmod>2023-02-01T22:38:01-03:00</lastmod>
   </url><url>
     <loc>https://filenux.com/downloads/firefox-windows-32-bit/</loc>
-    <lastmod>2023-01-16T20:23:13-03:00</lastmod>
+    <lastmod>2023-02-01T22:37:52-03:00</lastmod>
   </url><url>
     <loc>https://filenux.com/downloads/falkon-browser-windows-64-bit/</loc>
     <lastmod>2023-01-06T17:23:37-03:00</lastmod>
@@ -376,10 +397,10 @@
     <lastmod>2023-01-06T16:58:43-03:00</lastmod>
   </url><url>
     <loc>https://filenux.com/downloads/comodo-dragon-windows-64-bit/</loc>
-    <lastmod>2023-01-06T16:54:14-03:00</lastmod>
+    <lastmod>2023-02-01T22:37:07-03:00</lastmod>
   </url><url>
     <loc>https://filenux.com/downloads/comodo-dragon-windows-32-bit/</loc>
-    <lastmod>2023-01-06T16:46:47-03:00</lastmod>
+    <lastmod>2023-02-01T22:36:56-03:00</lastmod>
   </url><url>
     <loc>https://filenux.com/downloads/colibri-browser-windows-64-bit/</loc>
     <lastmod>2023-01-06T16:39:43-03:00</lastmod>
@@ -400,7 +421,7 @@
     <lastmod>2023-01-05T14:01:48-03:00</lastmod>
   </url><url>
     <loc>https://filenux.com/downloads/gridinsoft-anti-malware-windows/</loc>
-    <lastmod>2023-01-05T13:46:37-03:00</lastmod>
+    <lastmod>2023-02-01T22:39:41-03:00</lastmod>
   </url><url>
     <loc>https://filenux.com/downloads/g-data-clean-up-windows/</loc>
     <lastmod>2023-01-05T13:35:42-03:00</lastmod>
@@ -421,10 +442,10 @@
     <lastmod>2023-01-05T10:53:51-03:00</lastmod>
   </url><url>
     <loc>https://filenux.com/downloads/chromium-windows-64-bit/</loc>
-    <lastmod>2023-01-16T00:49:34-03:00</lastmod>
+    <lastmod>2023-02-01T22:36:27-03:00</lastmod>
   </url><url>
     <loc>https://filenux.com/downloads/chromium-windows-32-bit/</loc>
-    <lastmod>2023-01-16T00:49:10-03:00</lastmod>
+    <lastmod>2023-02-01T22:36:10-03:00</lastmod>
   </url><url>
     <loc>https://filenux.com/downloads/chedot-browser-windows/</loc>
     <lastmod>2023-01-05T10:40:21-03:00</lastmod>
@@ -442,10 +463,10 @@
     <lastmod>2023-01-05T08:58:25-03:00</lastmod>
   </url><url>
     <loc>https://filenux.com/downloads/basilisk-browser-windows-64-bit/</loc>
-    <lastmod>2023-01-15T03:58:10-03:00</lastmod>
+    <lastmod>2023-02-01T22:35:15-03:00</lastmod>
   </url><url>
     <loc>https://filenux.com/downloads/basilisk-browser-windows-32-bit/</loc>
-    <lastmod>2023-01-15T03:55:48-03:00</lastmod>
+    <lastmod>2023-02-01T22:35:01-03:00</lastmod>
   </url><url>
     <loc>https://filenux.com/downloads/avg-secure-browser-windows/</loc>
     <lastmod>2023-01-05T08:42:00-03:00</lastmod>
@@ -454,7 +475,7 @@
     <lastmod>2023-01-05T08:30:52-03:00</lastmod>
   </url><url>
     <loc>https://filenux.com/downloads/brave-browser-windows-64-bit/</loc>
-    <lastmod>2023-01-16T00:48:38-03:00</lastmod>
+    <lastmod>2023-02-01T22:35:31-03:00</lastmod>
   </url><url>
     <loc>https://filenux.com/downloads/bitdefender-anti-ransomware-windows/</loc>
     <lastmod>2022-02-24T18:32:24+00:00</lastmod>
@@ -463,7 +484,7 @@
     <lastmod>2023-01-15T04:03:43-03:00</lastmod>
   </url><url>
     <loc>https://filenux.com/downloads/adlice-diag-windows/</loc>
-    <lastmod>2023-01-17T16:58:25-03:00</lastmod>
+    <lastmod>2023-02-01T22:34:17-03:00</lastmod>
   </url><url>
     <loc>https://filenux.com/downloads/malwarebytes-windows/</loc>
     <lastmod>2023-01-16T00:36:13-03:00</lastmod>
