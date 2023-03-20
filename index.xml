@@ -6,7 +6,61 @@
     <description>Recent content in FileNUX - Download Software for Windows, macOS and Android on FileNUX</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 01 Feb 2023 22:04:43 -0300</lastBuildDate><atom:link href="https://filenux.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 19 Mar 2023 18:40:04 -0300</lastBuildDate><atom:link href="https://filenux.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Watchdog Anti-Malware</title>
+      <link>https://filenux.com/downloads/watchdog-anti-malware-windows/</link>
+      <pubDate>Sun, 19 Mar 2023 18:40:04 -0300</pubDate>
+      
+      <guid>https://filenux.com/downloads/watchdog-anti-malware-windows/</guid>
+      <description>Watchdog Anti-Malware is a powerful software that provides real-time protection against various types of malware, including viruses, spyware, trojans, worms, and ransomware.</description>
+    </item>
+    
+    <item>
+      <title>Zemana AntiLogger</title>
+      <link>https://filenux.com/downloads/zemana-antilogger-windows/</link>
+      <pubDate>Sun, 19 Mar 2023 18:30:09 -0300</pubDate>
+      
+      <guid>https://filenux.com/downloads/zemana-antilogger-windows/</guid>
+      <description>Zemana AntiLogger is a security software designed to protect your computer from online threats.</description>
+    </item>
+    
+    <item>
+      <title>Zemana AntiMalware</title>
+      <link>https://filenux.com/downloads/zemana-antimalware-windows/</link>
+      <pubDate>Sun, 19 Mar 2023 18:18:55 -0300</pubDate>
+      
+      <guid>https://filenux.com/downloads/zemana-antimalware-windows/</guid>
+      <description>Zemana AntiMalware is a powerful and effective software designed to protect your computer from various types of malware, spyware, viruses, and other security threats.</description>
+    </item>
+    
+    <item>
+      <title>ZoneAlarm Anti-Ransomware</title>
+      <link>https://filenux.com/downloads/zonealarm-anti-ransomware-windows/</link>
+      <pubDate>Sun, 19 Mar 2023 18:05:37 -0300</pubDate>
+      
+      <guid>https://filenux.com/downloads/zonealarm-anti-ransomware-windows/</guid>
+      <description>ZoneAlarm Anti-Ransomware is a powerful software tool that provides comprehensive protection against ransomware attacks.</description>
+    </item>
+    
+    <item>
+      <title>ClamWin Antivirus</title>
+      <link>https://filenux.com/downloads/clamwin-antivirus-windows/</link>
+      <pubDate>Sun, 19 Mar 2023 16:06:58 -0300</pubDate>
+      
+      <guid>https://filenux.com/downloads/clamwin-antivirus-windows/</guid>
+      <description>In today&amp;rsquo;s digital world, malware threats have become increasingly sophisticated and prevalent.</description>
+    </item>
+    
+    <item>
+      <title>UnHackMe</title>
+      <link>https://filenux.com/downloads/unhackme-windows/</link>
+      <pubDate>Sun, 19 Mar 2023 15:50:58 -0300</pubDate>
+      
+      <guid>https://filenux.com/downloads/unhackme-windows/</guid>
+      <description>UnHackMe is a powerful anti-malware and anti-rootkit software that is designed to protect your computer from various types of malicious software.</description>
+    </item>
+    
     <item>
       <title>Emsisoft Commandline Scanner</title>
       <link>https://filenux.com/downloads/emsisoft-commandline-scanner-windows-64-bit/</link>
