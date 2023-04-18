@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Lista de todos os autores do FileNUX on FileNUX</title>
+    <link>https://filenux.com/pt-br/authors/</link>
+    <description>Recent content in Lista de todos os autores do FileNUX on FileNUX</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 30 Mar 2023 20:00:37 -0300</lastBuildDate><atom:link href="https://filenux.com/pt-br/authors/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Todas as análises de software por Marc Alfano no FileNUX</title>
+      <link>https://filenux.com/pt-br/authors/marc-alfano/</link>
+      <pubDate>Thu, 30 Mar 2023 20:00:37 -0300</pubDate>
+      
+      <guid>https://filenux.com/pt-br/authors/marc-alfano/</guid>
+      <description>Escritor técnico</description>
+    </item>
+    
+    <item>
+      <title>Todas as análises de software por Richard Scott no FileNUX</title>
+      <link>https://filenux.com/pt-br/authors/richard-scott/</link>
+      <pubDate>Thu, 30 Mar 2023 19:46:32 -0300</pubDate>
+      
+      <guid>https://filenux.com/pt-br/authors/richard-scott/</guid>
+      <description>Escritor técnico</description>
+    </item>
+    
+    <item>
+      <title>Todas as revisões de software por Bruno Souza no FileNUX</title>
+      <link>https://filenux.com/pt-br/authors/bruno-souza/</link>
+      <pubDate>Thu, 30 Mar 2023 19:38:52 -0300</pubDate>
+      
+      <guid>https://filenux.com/pt-br/authors/bruno-souza/</guid>
+      <description>Redator e Editor Técnico</description>
+    </item>
+    
+    <item>
+      <title>Todas as análises de software por Akira Osawa no FileNUX</title>
+      <link>https://filenux.com/pt-br/authors/akira-osawa/</link>
+      <pubDate>Thu, 23 Mar 2023 10:47:22 -0300</pubDate>
+      
+      <guid>https://filenux.com/pt-br/authors/akira-osawa/</guid>
+      <description>Redator e Editor Técnico</description>
+    </item>
+    
+    <item>
+      <title>Todas as análises de software por Ernest Costa no FileNUX</title>
+      <link>https://filenux.com/pt-br/authors/ernest-costa/</link>
+      <pubDate>Thu, 23 Mar 2023 10:32:08 -0300</pubDate>
+      
+      <guid>https://filenux.com/pt-br/authors/ernest-costa/</guid>
+      <description>Escritor técnico</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Все обзоры программного обеспечения от Эрнеста Коста на FileNUX on FileNUX</title>
+    <link>https://filenux.com/ru/authors/ernest-costa/</link>
+    <description>Recent content in Все обзоры программного обеспечения от Эрнеста Коста на FileNUX on FileNUX</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 23 Mar 2023 10:32:08 -0300</lastBuildDate><atom:link href="https://filenux.com/ru/authors/ernest-costa/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>USB Disk Security</title>
+      <link>https://filenux.com/ru/downloads/usb-disk-security-windows/</link>
+      <pubDate>Thu, 23 Mar 2023 10:32:08 -0300</pubDate>
+      
+      <guid>https://filenux.com/ru/downloads/usb-disk-security-windows/</guid>
+      <description>USB Disk Security — это программа, разработанная Zbshareware, которая обеспечивает защиту вашего компьютера от вирусов, вредоносных программ и других вредоносных угроз, которые могут исходить от внешних запоминающих устройств, таких как USB-накопители, внешние жесткие диски и карты памяти.</description>
+    </item>
+    
+    <item>
+      <title>UnHackMe</title>
+      <link>https://filenux.com/ru/downloads/unhackme-windows/</link>
+      <pubDate>Sun, 19 Mar 2023 15:50:58 -0300</pubDate>
+      
+      <guid>https://filenux.com/ru/downloads/unhackme-windows/</guid>
+      <description>UnHackMe — это мощная программа для защиты от вредоносных программ и руткитов, предназначенная для защиты вашего компьютера от различных типов вредоносных программ.</description>
+    </item>
+    
+    <item>
+      <title>Emsisoft Anti-Malware</title>
+      <link>https://filenux.com/ru/downloads/emsisoft-anti-malware-windows/</link>
+      <pubDate>Wed, 01 Feb 2023 21:17:45 -0300</pubDate>
+      
+      <guid>https://filenux.com/ru/downloads/emsisoft-anti-malware-windows/</guid>
+      <description>Emsisoft Anti-Malware — это сложное программное обеспечение для обеспечения безопасности , предназначенное для обеспечения комплексной защиты от различных видов вредоносных программ, включая вирусы, трояны, шпионское ПО и многое другое.</description>
+    </item>
+    
+  </channel>
+</rss>

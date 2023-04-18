@@ -1,12 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>All articles by Bruno Souza on FileNUX on FileNUX</title>
+    <title>All Software Reviews by Bruno Souza on FileNUX on FileNUX</title>
     <link>https://filenux.com/authors/bruno-souza/</link>
-    <description>Recent content in All articles by Bruno Souza on FileNUX on FileNUX</description>
+    <description>Recent content in All Software Reviews by Bruno Souza on FileNUX on FileNUX</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 23 Mar 2023 10:17:27 -0300</lastBuildDate><atom:link href="https://filenux.com/authors/bruno-souza/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 30 Mar 2023 19:38:52 -0300</lastBuildDate><atom:link href="https://filenux.com/authors/bruno-souza/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Zillya! Antivirus</title>
+      <link>https://filenux.com/downloads/zillya-antivirus-windows/</link>
+      <pubDate>Thu, 30 Mar 2023 19:38:52 -0300</pubDate>
+      
+      <guid>https://filenux.com/downloads/zillya-antivirus-windows/</guid>
+      <description>Zillya Antivirus is a software program that helps protect your computer from viruses, malware, spyware, and other types of malicious software that can harm your computer or steal your personal information.</description>
+    </item>
+    
     <item>
       <title>UVK Ultra Virus Killer Portable</title>
       <link>https://filenux.com/downloads/uvk-ultra-virus-killer-portable-windows/</link>

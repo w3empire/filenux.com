@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ernest Costa 在 FileNUX 上的所有软件评论 on FileNUX</title>
+    <link>https://filenux.com/zh-cn/authors/ernest-costa/</link>
+    <description>Recent content in Ernest Costa 在 FileNUX 上的所有软件评论 on FileNUX</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 23 Mar 2023 10:32:08 -0300</lastBuildDate><atom:link href="https://filenux.com/zh-cn/authors/ernest-costa/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>USB Disk Security</title>
+      <link>https://filenux.com/zh-cn/downloads/usb-disk-security-windows/</link>
+      <pubDate>Thu, 23 Mar 2023 10:32:08 -0300</pubDate>
+      
+      <guid>https://filenux.com/zh-cn/downloads/usb-disk-security-windows/</guid>
+      <description>USB Disk Security 是由 Zbshareware 开发的一</description>
+    </item>
+    
+    <item>
+      <title>UnHackMe</title>
+      <link>https://filenux.com/zh-cn/downloads/unhackme-windows/</link>
+      <pubDate>Sun, 19 Mar 2023 15:50:58 -0300</pubDate>
+      
+      <guid>https://filenux.com/zh-cn/downloads/unhackme-windows/</guid>
+      <description>UnHackMe 是一款功能强大的反</description>
+    </item>
+    
+    <item>
+      <title>Emsisoft Anti-Malware</title>
+      <link>https://filenux.com/zh-cn/downloads/emsisoft-anti-malware-windows/</link>
+      <pubDate>Wed, 01 Feb 2023 21:17:45 -0300</pubDate>
+      
+      <guid>https://filenux.com/zh-cn/downloads/emsisoft-anti-malware-windows/</guid>
+      <description>Emsisoft Anti-Malware 是一款复杂的安全</description>
+    </item>
+    
+  </channel>
+</rss>

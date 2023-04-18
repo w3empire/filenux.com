@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Systems on FileNUX</title>
+    <title>Durchsuchen Sie Downloads nach Betriebssystemen on FileNUX</title>
     <link>https://filenux.com/de/systems/</link>
-    <description>Recent content in Systems on FileNUX</description>
+    <description>Recent content in Durchsuchen Sie Downloads nach Betriebssystemen on FileNUX</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="https://filenux.com/de/systems/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language>
+    <lastBuildDate>Thu, 30 Mar 2023 20:00:37 -0300</lastBuildDate><atom:link href="https://filenux.com/de/systems/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Laden Sie die beste Windows-Software kostenlos herunter</title>
+      <link>https://filenux.com/de/systems/windows/</link>
+      <pubDate>Thu, 30 Mar 2023 20:00:37 -0300</pubDate>
+      
+      <guid>https://filenux.com/de/systems/windows/</guid>
+      <description>Hier finden Sie Treiber, Software und Dienstprogramme für Windows. Laden Sie kostenlose und kostenpflichtige Software, Spiele und Treiber herunter. Alles, was Sie für Ihr Windows-Betriebssystem benötigen.</description>
+    </item>
+    
   </channel>
 </rss>

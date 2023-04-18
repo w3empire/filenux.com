@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>すべてのFileNUX作成者のリスト on FileNUX</title>
+    <link>https://filenux.com/ja/authors/</link>
+    <description>Recent content in すべてのFileNUX作成者のリスト on FileNUX</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 30 Mar 2023 20:00:37 -0300</lastBuildDate><atom:link href="https://filenux.com/ja/authors/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>FileNUX の Marc Alfano によるすべてのソフトウェア レビュー</title>
+      <link>https://filenux.com/ja/authors/marc-alfano/</link>
+      <pubDate>Thu, 30 Mar 2023 20:00:37 -0300</pubDate>
+      
+      <guid>https://filenux.com/ja/authors/marc-alfano/</guid>
+      <description>テクニカルライター</description>
+    </item>
+    
+    <item>
+      <title>FileNUX の Richard Scott によるすべてのソフトウェアレビュー</title>
+      <link>https://filenux.com/ja/authors/richard-scott/</link>
+      <pubDate>Thu, 30 Mar 2023 19:46:32 -0300</pubDate>
+      
+      <guid>https://filenux.com/ja/authors/richard-scott/</guid>
+      <description>テクニカルライター</description>
+    </item>
+    
+    <item>
+      <title>FileNUX の Bruno Souza によるすべてのソフトウェア レビュー</title>
+      <link>https://filenux.com/ja/authors/bruno-souza/</link>
+      <pubDate>Thu, 30 Mar 2023 19:38:52 -0300</pubDate>
+      
+      <guid>https://filenux.com/ja/authors/bruno-souza/</guid>
+      <description>テクニカルライター兼編集者</description>
+    </item>
+    
+    <item>
+      <title>FileNUX の大澤章によるすべてのソフトウェアレビュー</title>
+      <link>https://filenux.com/ja/authors/akira-osawa/</link>
+      <pubDate>Thu, 23 Mar 2023 10:47:22 -0300</pubDate>
+      
+      <guid>https://filenux.com/ja/authors/akira-osawa/</guid>
+      <description>テクニカルライター兼編集者</description>
+    </item>
+    
+    <item>
+      <title>FileNUX の Ernest Costa によるすべてのソフトウェア レビュー</title>
+      <link>https://filenux.com/ja/authors/ernest-costa/</link>
+      <pubDate>Thu, 23 Mar 2023 10:32:08 -0300</pubDate>
+      
+      <guid>https://filenux.com/ja/authors/ernest-costa/</guid>
+      <description>テクニカルライター</description>
+    </item>
+    
+  </channel>
+</rss>

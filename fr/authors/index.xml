@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Liste de tous les auteurs FileNUX on FileNUX</title>
+    <link>https://filenux.com/fr/authors/</link>
+    <description>Recent content in Liste de tous les auteurs FileNUX on FileNUX</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 30 Mar 2023 20:00:37 -0300</lastBuildDate><atom:link href="https://filenux.com/fr/authors/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Toutes les revues de logiciels par Marc Alfano sur FileNUX</title>
+      <link>https://filenux.com/fr/authors/marc-alfano/</link>
+      <pubDate>Thu, 30 Mar 2023 20:00:37 -0300</pubDate>
+      
+      <guid>https://filenux.com/fr/authors/marc-alfano/</guid>
+      <description>Rédacteur technique</description>
+    </item>
+    
+    <item>
+      <title>Toutes les revues de logiciels par Richard Scott sur FileNUX</title>
+      <link>https://filenux.com/fr/authors/richard-scott/</link>
+      <pubDate>Thu, 30 Mar 2023 19:46:32 -0300</pubDate>
+      
+      <guid>https://filenux.com/fr/authors/richard-scott/</guid>
+      <description>Rédacteur technique</description>
+    </item>
+    
+    <item>
+      <title>Toutes les revues de logiciels par Bruno Souza sur FileNUX</title>
+      <link>https://filenux.com/fr/authors/bruno-souza/</link>
+      <pubDate>Thu, 30 Mar 2023 19:38:52 -0300</pubDate>
+      
+      <guid>https://filenux.com/fr/authors/bruno-souza/</guid>
+      <description>Rédacteur technique et éditeur</description>
+    </item>
+    
+    <item>
+      <title>Toutes les revues de logiciels par Akira Osawa sur FileNUX</title>
+      <link>https://filenux.com/fr/authors/akira-osawa/</link>
+      <pubDate>Thu, 23 Mar 2023 10:47:22 -0300</pubDate>
+      
+      <guid>https://filenux.com/fr/authors/akira-osawa/</guid>
+      <description>Rédacteur technique et éditeur</description>
+    </item>
+    
+    <item>
+      <title>Toutes les revues de logiciels par Ernest Costa sur FileNUX</title>
+      <link>https://filenux.com/fr/authors/ernest-costa/</link>
+      <pubDate>Thu, 23 Mar 2023 10:32:08 -0300</pubDate>
+      
+      <guid>https://filenux.com/fr/authors/ernest-costa/</guid>
+      <description>Rédacteur technique</description>
+    </item>
+    
+  </channel>
+</rss>

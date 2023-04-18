@@ -6,18 +6,36 @@
     <description>Recent content in List of all FileNUX authors on FileNUX</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 23 Mar 2023 11:00:53 -0300</lastBuildDate><atom:link href="https://filenux.com/authors/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 30 Mar 2023 20:00:37 -0300</lastBuildDate><atom:link href="https://filenux.com/authors/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>All Articles by Richard Scott on FileNUX</title>
+      <title>All Software Reviews by Marc Alfano on FileNUX</title>
+      <link>https://filenux.com/authors/marc-alfano/</link>
+      <pubDate>Thu, 30 Mar 2023 20:00:37 -0300</pubDate>
+      
+      <guid>https://filenux.com/authors/marc-alfano/</guid>
+      <description>Technical Writer</description>
+    </item>
+    
+    <item>
+      <title>All Software Reviews by Richard Scott on FileNUX</title>
       <link>https://filenux.com/authors/richard-scott/</link>
-      <pubDate>Thu, 23 Mar 2023 11:00:53 -0300</pubDate>
+      <pubDate>Thu, 30 Mar 2023 19:46:32 -0300</pubDate>
       
       <guid>https://filenux.com/authors/richard-scott/</guid>
       <description>Technical Writer</description>
     </item>
     
     <item>
-      <title>All articles by Akira Osawa on FileNUX</title>
+      <title>All Software Reviews by Bruno Souza on FileNUX</title>
+      <link>https://filenux.com/authors/bruno-souza/</link>
+      <pubDate>Thu, 30 Mar 2023 19:38:52 -0300</pubDate>
+      
+      <guid>https://filenux.com/authors/bruno-souza/</guid>
+      <description>Technical Writer and Editor</description>
+    </item>
+    
+    <item>
+      <title>All Software Reviews by Akira Osawa on FileNUX</title>
       <link>https://filenux.com/authors/akira-osawa/</link>
       <pubDate>Thu, 23 Mar 2023 10:47:22 -0300</pubDate>
       
@@ -31,24 +49,6 @@
       <pubDate>Thu, 23 Mar 2023 10:32:08 -0300</pubDate>
       
       <guid>https://filenux.com/authors/ernest-costa/</guid>
-      <description>Technical Writer</description>
-    </item>
-    
-    <item>
-      <title>All articles by Bruno Souza on FileNUX</title>
-      <link>https://filenux.com/authors/bruno-souza/</link>
-      <pubDate>Thu, 23 Mar 2023 10:17:27 -0300</pubDate>
-      
-      <guid>https://filenux.com/authors/bruno-souza/</guid>
-      <description>Technical Writer and Editor</description>
-    </item>
-    
-    <item>
-      <title>All Software Reviews by Marc Alfano on FileNUX</title>
-      <link>https://filenux.com/authors/marc-alfano/</link>
-      <pubDate>Mon, 20 Mar 2023 13:46:34 -0300</pubDate>
-      
-      <guid>https://filenux.com/authors/marc-alfano/</guid>
       <description>Technical Writer</description>
     </item>
     
