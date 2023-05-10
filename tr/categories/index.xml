@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Windows, Mac ve Android için En İyi Yazılım Kategorilerini Keşfedin on FileNUX</title>
+    <link>https://filenux.com/tr/categories/</link>
+    <description>Recent content in Windows, Mac ve Android için En İyi Yazılım Kategorilerini Keşfedin on FileNUX</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 30 Mar 2023 20:00:37 -0300</lastBuildDate><atom:link href="https://filenux.com/tr/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Windows için En İyi Antivirüs Yazılımlarını İndirin</title>
+      <link>https://filenux.com/tr/categories/windows-antivirus-software/</link>
+      <pubDate>Thu, 30 Mar 2023 20:00:37 -0300</pubDate>
+      
+      <guid>https://filenux.com/tr/categories/windows-antivirus-software/</guid>
+      <description>Windows için en iyi antivirüs ile bilgisayarınızı ve verilerinizi güvende tutun. Virüs taraması, kötü amaçlı yazılım temizleme ve en son siber saldırılara karşı koruma.</description>
+    </item>
+    
+    <item>
+      <title>Windows için En İyi Kötü Amaçlı Yazılımdan Koruma Yazılımlarını İndirin</title>
+      <link>https://filenux.com/tr/categories/windows-antimalware-software/</link>
+      <pubDate>Thu, 23 Mar 2023 11:00:53 -0300</pubDate>
+      
+      <guid>https://filenux.com/tr/categories/windows-antimalware-software/</guid>
+      <description>Kötü amaçlı yazılımdan koruma yazılımı, kötü amaçlı yazılım olarak da bilinen kötü amaçlı yazılımları önlemek, tespit etmek ve kaldırmak için tasarlanmış bir bilgisayar programı türüdür.</description>
+    </item>
+    
+    <item>
+      <title>Windows için En İyi Tarayıcıları ve Eklentileri İndirin</title>
+      <link>https://filenux.com/tr/categories/windows-browsers-and-plugins/</link>
+      <pubDate>Sun, 08 Jan 2023 18:30:33 -0300</pubDate>
+      
+      <guid>https://filenux.com/tr/categories/windows-browsers-and-plugins/</guid>
+      <description>Google Chrome, Microsoft Edge, Mozilla Firefox, Opera ve çok daha fazlası dahil olmak üzere Windows için en son ve en iyi tarayıcıları indirin.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>All Categories on FileNUX</title>
+    <title>Explore the Best Software Categories for Windows, Mac and Android on FileNUX</title>
     <link>https://filenux.com/categories/</link>
-    <description>Recent content in All Categories on FileNUX</description>
+    <description>Recent content in Explore the Best Software Categories for Windows, Mac and Android on FileNUX</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Thu, 30 Mar 2023 20:00:37 -0300</lastBuildDate><atom:link href="https://filenux.com/categories/index.xml" rel="self" type="application/rss+xml" />
@@ -31,7 +31,7 @@
       <pubDate>Sun, 08 Jan 2023 18:30:33 -0300</pubDate>
       
       <guid>https://filenux.com/categories/windows-browsers-and-plugins/</guid>
-      <description>Download the latest and greatest browsers for Windows, including Google Chrome, Microsoft Edge, Mozilla Firefox, Opera and much more.</description>
+      <description>Download the latest and greatest browsers for Windows, including Google Chrome, Microsoft Edge, Mozilla Firefox, Opera, and much more.</description>
     </item>
     
   </channel>

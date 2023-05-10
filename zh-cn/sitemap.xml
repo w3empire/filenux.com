@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://filenux.com/zh-cn/</loc>
-    <lastmod>2023-03-30T20:00:37-03:00</lastmod>
+    <lastmod>2023-05-04T20:17:20-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -51,61 +51,23 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="tr"
+                href="https://filenux.com/tr/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="id"
+                href="https://filenux.com/id/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi"
+                href="https://filenux.com/vi/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="zh-cn"
                 href="https://filenux.com/zh-cn/"
-                />
-  </url><url>
-    <loc>https://filenux.com/zh-cn/downloads/</loc>
-    <lastmod>2023-03-30T20:00:37-03:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://filenux.com/downloads/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt-br"
-                href="https://filenux.com/pt-br/downloads/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://filenux.com/es/downloads/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru"
-                href="https://filenux.com/ru/downloads/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja"
-                href="https://filenux.com/ja/downloads/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://filenux.com/de/downloads/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ko"
-                href="https://filenux.com/ko/downloads/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://filenux.com/fr/downloads/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="it"
-                href="https://filenux.com/it/downloads/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-cn"
-                href="https://filenux.com/zh-cn/downloads/"
                 />
   </url><url>
     <loc>https://filenux.com/zh-cn/authors/marc-alfano/</loc>
@@ -154,6 +116,21 @@
                 rel="alternate"
                 hreflang="it"
                 href="https://filenux.com/it/authors/marc-alfano/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="tr"
+                href="https://filenux.com/tr/authors/marc-alfano/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="id"
+                href="https://filenux.com/id/authors/marc-alfano/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi"
+                href="https://filenux.com/vi/authors/marc-alfano/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -210,8 +187,91 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="tr"
+                href="https://filenux.com/tr/downloads/zonealarm-free-antivirus-windows/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="id"
+                href="https://filenux.com/id/downloads/zonealarm-free-antivirus-windows/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi"
+                href="https://filenux.com/vi/downloads/zonealarm-free-antivirus-windows/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="zh-cn"
                 href="https://filenux.com/zh-cn/downloads/zonealarm-free-antivirus-windows/"
+                />
+  </url><url>
+    <loc>https://filenux.com/zh-cn/systems/windows/</loc>
+    <lastmod>2023-05-04T20:17:20-03:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://filenux.com/systems/windows/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-br"
+                href="https://filenux.com/pt-br/systems/windows/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://filenux.com/es/systems/windows/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://filenux.com/ru/systems/windows/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://filenux.com/ja/systems/windows/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://filenux.com/de/systems/windows/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://filenux.com/ko/systems/windows/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://filenux.com/fr/systems/windows/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="it"
+                href="https://filenux.com/it/systems/windows/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="tr"
+                href="https://filenux.com/tr/systems/windows/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="id"
+                href="https://filenux.com/id/systems/windows/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi"
+                href="https://filenux.com/vi/systems/windows/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="https://filenux.com/zh-cn/systems/windows/"
                 />
   </url><url>
     <loc>https://filenux.com/zh-cn/categories/windows-antivirus-software/</loc>
@@ -263,65 +323,95 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="tr"
+                href="https://filenux.com/tr/categories/windows-antivirus-software/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="id"
+                href="https://filenux.com/id/categories/windows-antivirus-software/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi"
+                href="https://filenux.com/vi/categories/windows-antivirus-software/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="zh-cn"
                 href="https://filenux.com/zh-cn/categories/windows-antivirus-software/"
                 />
   </url><url>
-    <loc>https://filenux.com/zh-cn/systems/windows/</loc>
-    <lastmod>2023-03-30T20:00:37-03:00</lastmod>
+    <loc>https://filenux.com/zh-cn/downloads/</loc>
+    <lastmod>2023-05-04T20:17:20-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://filenux.com/systems/windows/"
+                href="https://filenux.com/downloads/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="https://filenux.com/pt-br/systems/windows/"
+                href="https://filenux.com/pt-br/downloads/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://filenux.com/es/systems/windows/"
+                href="https://filenux.com/es/downloads/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="https://filenux.com/ru/systems/windows/"
+                href="https://filenux.com/ru/downloads/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="https://filenux.com/ja/systems/windows/"
+                href="https://filenux.com/ja/downloads/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://filenux.com/de/systems/windows/"
+                href="https://filenux.com/de/downloads/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ko"
-                href="https://filenux.com/ko/systems/windows/"
+                href="https://filenux.com/ko/downloads/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://filenux.com/fr/systems/windows/"
+                href="https://filenux.com/fr/downloads/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="it"
-                href="https://filenux.com/it/systems/windows/"
+                href="https://filenux.com/it/downloads/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="tr"
+                href="https://filenux.com/tr/downloads/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="id"
+                href="https://filenux.com/id/downloads/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi"
+                href="https://filenux.com/vi/downloads/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://filenux.com/zh-cn/systems/windows/"
+                href="https://filenux.com/zh-cn/downloads/"
                 />
   </url><url>
     <loc>https://filenux.com/zh-cn/authors/</loc>
-    <lastmod>2023-03-30T20:00:37-03:00</lastmod>
+    <lastmod>2023-05-04T20:17:20-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -369,65 +459,27 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="tr"
+                href="https://filenux.com/tr/authors/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="id"
+                href="https://filenux.com/id/authors/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi"
+                href="https://filenux.com/vi/authors/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="zh-cn"
                 href="https://filenux.com/zh-cn/authors/"
                 />
   </url><url>
-    <loc>https://filenux.com/zh-cn/categories/</loc>
-    <lastmod>2023-03-30T20:00:37-03:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://filenux.com/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt-br"
-                href="https://filenux.com/pt-br/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://filenux.com/es/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru"
-                href="https://filenux.com/ru/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja"
-                href="https://filenux.com/ja/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://filenux.com/de/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ko"
-                href="https://filenux.com/ko/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://filenux.com/fr/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="it"
-                href="https://filenux.com/it/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-cn"
-                href="https://filenux.com/zh-cn/categories/"
-                />
-  </url><url>
     <loc>https://filenux.com/zh-cn/systems/</loc>
-    <lastmod>2023-03-30T20:00:37-03:00</lastmod>
+    <lastmod>2023-05-04T20:17:20-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -475,12 +527,95 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="tr"
+                href="https://filenux.com/tr/systems/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="id"
+                href="https://filenux.com/id/systems/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi"
+                href="https://filenux.com/vi/systems/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="zh-cn"
                 href="https://filenux.com/zh-cn/systems/"
                 />
   </url><url>
+    <loc>https://filenux.com/zh-cn/categories/</loc>
+    <lastmod>2023-05-04T20:17:20-03:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://filenux.com/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-br"
+                href="https://filenux.com/pt-br/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://filenux.com/es/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://filenux.com/ru/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://filenux.com/ja/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://filenux.com/de/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://filenux.com/ko/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://filenux.com/fr/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="it"
+                href="https://filenux.com/it/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="tr"
+                href="https://filenux.com/tr/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="id"
+                href="https://filenux.com/id/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi"
+                href="https://filenux.com/vi/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="https://filenux.com/zh-cn/categories/"
+                />
+  </url><url>
     <loc>https://filenux.com/zh-cn/authors/richard-scott/</loc>
-    <lastmod>2023-03-30T19:46:32-03:00</lastmod>
+    <lastmod>2023-05-04T20:17:08-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -525,6 +660,21 @@
                 rel="alternate"
                 hreflang="it"
                 href="https://filenux.com/it/authors/richard-scott/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="tr"
+                href="https://filenux.com/tr/authors/richard-scott/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="id"
+                href="https://filenux.com/id/authors/richard-scott/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi"
+                href="https://filenux.com/vi/authors/richard-scott/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -581,12 +731,27 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="tr"
+                href="https://filenux.com/tr/downloads/zonealarm-pro-antivirus-firewall-windows/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="id"
+                href="https://filenux.com/id/downloads/zonealarm-pro-antivirus-firewall-windows/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi"
+                href="https://filenux.com/vi/downloads/zonealarm-pro-antivirus-firewall-windows/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="zh-cn"
                 href="https://filenux.com/zh-cn/downloads/zonealarm-pro-antivirus-firewall-windows/"
                 />
   </url><url>
     <loc>https://filenux.com/zh-cn/authors/bruno-souza/</loc>
-    <lastmod>2023-03-30T19:38:52-03:00</lastmod>
+    <lastmod>2023-05-04T20:15:25-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -631,6 +796,21 @@
                 rel="alternate"
                 hreflang="it"
                 href="https://filenux.com/it/authors/bruno-souza/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="tr"
+                href="https://filenux.com/tr/authors/bruno-souza/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="id"
+                href="https://filenux.com/id/authors/bruno-souza/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi"
+                href="https://filenux.com/vi/authors/bruno-souza/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -687,6 +867,21 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="tr"
+                href="https://filenux.com/tr/downloads/zillya-antivirus-windows/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="id"
+                href="https://filenux.com/id/downloads/zillya-antivirus-windows/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi"
+                href="https://filenux.com/vi/downloads/zillya-antivirus-windows/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="zh-cn"
                 href="https://filenux.com/zh-cn/downloads/zillya-antivirus-windows/"
                 />
@@ -737,6 +932,21 @@
                 rel="alternate"
                 hreflang="it"
                 href="https://filenux.com/it/downloads/escan-anti-virus-windows/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="tr"
+                href="https://filenux.com/tr/downloads/escan-anti-virus-windows/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="id"
+                href="https://filenux.com/id/downloads/escan-anti-virus-windows/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi"
+                href="https://filenux.com/vi/downloads/escan-anti-virus-windows/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -793,6 +1003,21 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="tr"
+                href="https://filenux.com/tr/downloads/comodo-cloud-antivirus-windows/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="id"
+                href="https://filenux.com/id/downloads/comodo-cloud-antivirus-windows/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi"
+                href="https://filenux.com/vi/downloads/comodo-cloud-antivirus-windows/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="zh-cn"
                 href="https://filenux.com/zh-cn/downloads/comodo-cloud-antivirus-windows/"
                 />
@@ -843,6 +1068,21 @@
                 rel="alternate"
                 hreflang="it"
                 href="https://filenux.com/it/downloads/comodo-antivirus-windows/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="tr"
+                href="https://filenux.com/tr/downloads/comodo-antivirus-windows/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="id"
+                href="https://filenux.com/id/downloads/comodo-antivirus-windows/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi"
+                href="https://filenux.com/vi/downloads/comodo-antivirus-windows/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -899,12 +1139,27 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="tr"
+                href="https://filenux.com/tr/downloads/dr-web-cureit-windows/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="id"
+                href="https://filenux.com/id/downloads/dr-web-cureit-windows/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi"
+                href="https://filenux.com/vi/downloads/dr-web-cureit-windows/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="zh-cn"
                 href="https://filenux.com/zh-cn/downloads/dr-web-cureit-windows/"
                 />
   </url><url>
     <loc>https://filenux.com/zh-cn/categories/windows-antimalware-software/</loc>
-    <lastmod>2023-03-23T11:00:53-03:00</lastmod>
+    <lastmod>2023-05-04T20:15:25-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -952,12 +1207,27 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="tr"
+                href="https://filenux.com/tr/categories/windows-antimalware-software/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="id"
+                href="https://filenux.com/id/categories/windows-antimalware-software/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi"
+                href="https://filenux.com/vi/categories/windows-antimalware-software/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="zh-cn"
                 href="https://filenux.com/zh-cn/categories/windows-antimalware-software/"
                 />
   </url><url>
     <loc>https://filenux.com/zh-cn/authors/akira-osawa/</loc>
-    <lastmod>2023-03-23T10:47:22-03:00</lastmod>
+    <lastmod>2023-05-04T20:17:20-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -1002,6 +1272,21 @@
                 rel="alternate"
                 hreflang="it"
                 href="https://filenux.com/it/authors/akira-osawa/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="tr"
+                href="https://filenux.com/tr/authors/akira-osawa/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="id"
+                href="https://filenux.com/id/authors/akira-osawa/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi"
+                href="https://filenux.com/vi/authors/akira-osawa/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -1058,12 +1343,27 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="tr"
+                href="https://filenux.com/tr/downloads/dr-web-katana-windows/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="id"
+                href="https://filenux.com/id/downloads/dr-web-katana-windows/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi"
+                href="https://filenux.com/vi/downloads/dr-web-katana-windows/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="zh-cn"
                 href="https://filenux.com/zh-cn/downloads/dr-web-katana-windows/"
                 />
   </url><url>
     <loc>https://filenux.com/zh-cn/authors/ernest-costa/</loc>
-    <lastmod>2023-03-23T10:32:08-03:00</lastmod>
+    <lastmod>2023-05-04T20:14:56-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -1108,6 +1408,21 @@
                 rel="alternate"
                 hreflang="it"
                 href="https://filenux.com/it/authors/ernest-costa/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="tr"
+                href="https://filenux.com/tr/authors/ernest-costa/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="id"
+                href="https://filenux.com/id/authors/ernest-costa/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi"
+                href="https://filenux.com/vi/authors/ernest-costa/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -1164,6 +1479,21 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="tr"
+                href="https://filenux.com/tr/downloads/usb-disk-security-windows/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="id"
+                href="https://filenux.com/id/downloads/usb-disk-security-windows/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi"
+                href="https://filenux.com/vi/downloads/usb-disk-security-windows/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="zh-cn"
                 href="https://filenux.com/zh-cn/downloads/usb-disk-security-windows/"
                 />
@@ -1217,12 +1547,27 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="tr"
+                href="https://filenux.com/tr/downloads/usb-security-suite-windows/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="id"
+                href="https://filenux.com/id/downloads/usb-security-suite-windows/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi"
+                href="https://filenux.com/vi/downloads/usb-security-suite-windows/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="zh-cn"
                 href="https://filenux.com/zh-cn/downloads/usb-security-suite-windows/"
                 />
   </url><url>
     <loc>https://filenux.com/zh-cn/downloads/uvk-ultra-virus-killer-portable-windows/</loc>
-    <lastmod>2023-03-23T10:17:27-03:00</lastmod>
+    <lastmod>2023-05-04T20:15:13-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -1270,12 +1615,27 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="tr"
+                href="https://filenux.com/tr/downloads/uvk-ultra-virus-killer-portable-windows/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="id"
+                href="https://filenux.com/id/downloads/uvk-ultra-virus-killer-portable-windows/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi"
+                href="https://filenux.com/vi/downloads/uvk-ultra-virus-killer-portable-windows/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="zh-cn"
                 href="https://filenux.com/zh-cn/downloads/uvk-ultra-virus-killer-portable-windows/"
                 />
   </url><url>
     <loc>https://filenux.com/zh-cn/downloads/uvk-ultra-virus-killer-windows/</loc>
-    <lastmod>2023-03-23T10:09:50-03:00</lastmod>
+    <lastmod>2023-05-04T20:15:25-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -1320,6 +1680,21 @@
                 rel="alternate"
                 hreflang="it"
                 href="https://filenux.com/it/downloads/uvk-ultra-virus-killer-windows/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="tr"
+                href="https://filenux.com/tr/downloads/uvk-ultra-virus-killer-windows/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="id"
+                href="https://filenux.com/id/downloads/uvk-ultra-virus-killer-windows/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi"
+                href="https://filenux.com/vi/downloads/uvk-ultra-virus-killer-windows/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -1376,6 +1751,21 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="tr"
+                href="https://filenux.com/tr/downloads/adaware-antivirus-free-windows/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="id"
+                href="https://filenux.com/id/downloads/adaware-antivirus-free-windows/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi"
+                href="https://filenux.com/vi/downloads/adaware-antivirus-free-windows/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="zh-cn"
                 href="https://filenux.com/zh-cn/downloads/adaware-antivirus-free-windows/"
                 />
@@ -1426,6 +1816,21 @@
                 rel="alternate"
                 hreflang="it"
                 href="https://filenux.com/it/downloads/watchdog-anti-malware-windows/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="tr"
+                href="https://filenux.com/tr/downloads/watchdog-anti-malware-windows/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="id"
+                href="https://filenux.com/id/downloads/watchdog-anti-malware-windows/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi"
+                href="https://filenux.com/vi/downloads/watchdog-anti-malware-windows/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -1482,6 +1887,21 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="tr"
+                href="https://filenux.com/tr/downloads/zemana-antilogger-windows/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="id"
+                href="https://filenux.com/id/downloads/zemana-antilogger-windows/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi"
+                href="https://filenux.com/vi/downloads/zemana-antilogger-windows/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="zh-cn"
                 href="https://filenux.com/zh-cn/downloads/zemana-antilogger-windows/"
                 />
@@ -1532,6 +1952,21 @@
                 rel="alternate"
                 hreflang="it"
                 href="https://filenux.com/it/downloads/zemana-antimalware-windows/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="tr"
+                href="https://filenux.com/tr/downloads/zemana-antimalware-windows/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="id"
+                href="https://filenux.com/id/downloads/zemana-antimalware-windows/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi"
+                href="https://filenux.com/vi/downloads/zemana-antimalware-windows/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -1588,6 +2023,21 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="tr"
+                href="https://filenux.com/tr/downloads/zonealarm-anti-ransomware-windows/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="id"
+                href="https://filenux.com/id/downloads/zonealarm-anti-ransomware-windows/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi"
+                href="https://filenux.com/vi/downloads/zonealarm-anti-ransomware-windows/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="zh-cn"
                 href="https://filenux.com/zh-cn/downloads/zonealarm-anti-ransomware-windows/"
                 />
@@ -1641,12 +2091,27 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="tr"
+                href="https://filenux.com/tr/downloads/clamwin-antivirus-windows/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="id"
+                href="https://filenux.com/id/downloads/clamwin-antivirus-windows/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi"
+                href="https://filenux.com/vi/downloads/clamwin-antivirus-windows/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="zh-cn"
                 href="https://filenux.com/zh-cn/downloads/clamwin-antivirus-windows/"
                 />
   </url><url>
     <loc>https://filenux.com/zh-cn/downloads/unhackme-windows/</loc>
-    <lastmod>2023-03-19T15:50:58-03:00</lastmod>
+    <lastmod>2023-05-04T20:14:56-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -1691,6 +2156,21 @@
                 rel="alternate"
                 hreflang="it"
                 href="https://filenux.com/it/downloads/unhackme-windows/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="tr"
+                href="https://filenux.com/tr/downloads/unhackme-windows/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="id"
+                href="https://filenux.com/id/downloads/unhackme-windows/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi"
+                href="https://filenux.com/vi/downloads/unhackme-windows/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -1747,6 +2227,21 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="tr"
+                href="https://filenux.com/tr/downloads/emsisoft-commandline-scanner-windows-64-bit/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="id"
+                href="https://filenux.com/id/downloads/emsisoft-commandline-scanner-windows-64-bit/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi"
+                href="https://filenux.com/vi/downloads/emsisoft-commandline-scanner-windows-64-bit/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="zh-cn"
                 href="https://filenux.com/zh-cn/downloads/emsisoft-commandline-scanner-windows-64-bit/"
                 />
@@ -1800,12 +2295,27 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="tr"
+                href="https://filenux.com/tr/downloads/emsisoft-commandline-scanner-windows-32-bit/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="id"
+                href="https://filenux.com/id/downloads/emsisoft-commandline-scanner-windows-32-bit/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi"
+                href="https://filenux.com/vi/downloads/emsisoft-commandline-scanner-windows-32-bit/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="zh-cn"
                 href="https://filenux.com/zh-cn/downloads/emsisoft-commandline-scanner-windows-32-bit/"
                 />
   </url><url>
     <loc>https://filenux.com/zh-cn/downloads/emsisoft-anti-malware-windows/</loc>
-    <lastmod>2023-03-20T15:27:28-03:00</lastmod>
+    <lastmod>2023-05-04T19:35:23-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -1853,12 +2363,27 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="tr"
+                href="https://filenux.com/tr/downloads/emsisoft-anti-malware-windows/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="id"
+                href="https://filenux.com/id/downloads/emsisoft-anti-malware-windows/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi"
+                href="https://filenux.com/vi/downloads/emsisoft-anti-malware-windows/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="zh-cn"
                 href="https://filenux.com/zh-cn/downloads/emsisoft-anti-malware-windows/"
                 />
   </url><url>
     <loc>https://filenux.com/zh-cn/downloads/ultra-adware-killer-windows/</loc>
-    <lastmod>2023-03-20T15:52:44-03:00</lastmod>
+    <lastmod>2023-05-04T20:14:40-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -1903,6 +2428,21 @@
                 rel="alternate"
                 hreflang="it"
                 href="https://filenux.com/it/downloads/ultra-adware-killer-windows/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="tr"
+                href="https://filenux.com/tr/downloads/ultra-adware-killer-windows/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="id"
+                href="https://filenux.com/id/downloads/ultra-adware-killer-windows/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi"
+                href="https://filenux.com/vi/downloads/ultra-adware-killer-windows/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -1959,6 +2499,21 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="tr"
+                href="https://filenux.com/tr/downloads/trojan-remover-windows/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="id"
+                href="https://filenux.com/id/downloads/trojan-remover-windows/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi"
+                href="https://filenux.com/vi/downloads/trojan-remover-windows/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="zh-cn"
                 href="https://filenux.com/zh-cn/downloads/trojan-remover-windows/"
                 />
@@ -2012,12 +2567,27 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="tr"
+                href="https://filenux.com/tr/downloads/trojan-killer-windows/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="id"
+                href="https://filenux.com/id/downloads/trojan-killer-windows/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi"
+                href="https://filenux.com/vi/downloads/trojan-killer-windows/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="zh-cn"
                 href="https://filenux.com/zh-cn/downloads/trojan-killer-windows/"
                 />
   </url><url>
     <loc>https://filenux.com/zh-cn/downloads/superantispyware-professional-x-windows/</loc>
-    <lastmod>2023-03-20T15:51:04-03:00</lastmod>
+    <lastmod>2023-05-04T20:12:36-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -2065,12 +2635,27 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="tr"
+                href="https://filenux.com/tr/downloads/superantispyware-professional-x-windows/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="id"
+                href="https://filenux.com/id/downloads/superantispyware-professional-x-windows/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi"
+                href="https://filenux.com/vi/downloads/superantispyware-professional-x-windows/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="zh-cn"
                 href="https://filenux.com/zh-cn/downloads/superantispyware-professional-x-windows/"
                 />
   </url><url>
     <loc>https://filenux.com/zh-cn/downloads/superantispyware-windows/</loc>
-    <lastmod>2023-03-20T15:51:21-03:00</lastmod>
+    <lastmod>2023-05-04T20:12:51-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -2115,6 +2700,21 @@
                 rel="alternate"
                 hreflang="it"
                 href="https://filenux.com/it/downloads/superantispyware-windows/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="tr"
+                href="https://filenux.com/tr/downloads/superantispyware-windows/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="id"
+                href="https://filenux.com/id/downloads/superantispyware-windows/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi"
+                href="https://filenux.com/vi/downloads/superantispyware-windows/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -2171,6 +2771,21 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="tr"
+                href="https://filenux.com/tr/downloads/stopzilla-antimalware-windows-64-bit/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="id"
+                href="https://filenux.com/id/downloads/stopzilla-antimalware-windows-64-bit/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi"
+                href="https://filenux.com/vi/downloads/stopzilla-antimalware-windows-64-bit/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="zh-cn"
                 href="https://filenux.com/zh-cn/downloads/stopzilla-antimalware-windows-64-bit/"
                 />
@@ -2221,6 +2836,21 @@
                 rel="alternate"
                 hreflang="it"
                 href="https://filenux.com/it/downloads/stopzilla-antimalware-windows-32-bit/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="tr"
+                href="https://filenux.com/tr/downloads/stopzilla-antimalware-windows-32-bit/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="id"
+                href="https://filenux.com/id/downloads/stopzilla-antimalware-windows-32-bit/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi"
+                href="https://filenux.com/vi/downloads/stopzilla-antimalware-windows-32-bit/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -2277,6 +2907,21 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="tr"
+                href="https://filenux.com/tr/downloads/spywareblaster-windows-64-bit/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="id"
+                href="https://filenux.com/id/downloads/spywareblaster-windows-64-bit/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi"
+                href="https://filenux.com/vi/downloads/spywareblaster-windows-64-bit/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="zh-cn"
                 href="https://filenux.com/zh-cn/downloads/spywareblaster-windows-64-bit/"
                 />
@@ -2327,6 +2972,21 @@
                 rel="alternate"
                 hreflang="it"
                 href="https://filenux.com/it/downloads/spywareblaster-windows-32-bit/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="tr"
+                href="https://filenux.com/tr/downloads/spywareblaster-windows-32-bit/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="id"
+                href="https://filenux.com/id/downloads/spywareblaster-windows-32-bit/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi"
+                href="https://filenux.com/vi/downloads/spywareblaster-windows-32-bit/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -2383,6 +3043,21 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="tr"
+                href="https://filenux.com/tr/downloads/spyshelter-free-windows/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="id"
+                href="https://filenux.com/id/downloads/spyshelter-free-windows/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi"
+                href="https://filenux.com/vi/downloads/spyshelter-free-windows/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="zh-cn"
                 href="https://filenux.com/zh-cn/downloads/spyshelter-free-windows/"
                 />
@@ -2433,6 +3108,21 @@
                 rel="alternate"
                 hreflang="it"
                 href="https://filenux.com/it/downloads/spyshelter-premium-windows/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="tr"
+                href="https://filenux.com/tr/downloads/spyshelter-premium-windows/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="id"
+                href="https://filenux.com/id/downloads/spyshelter-premium-windows/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi"
+                href="https://filenux.com/vi/downloads/spyshelter-premium-windows/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -2489,6 +3179,21 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="tr"
+                href="https://filenux.com/tr/downloads/spyshelter-silent-windows/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="id"
+                href="https://filenux.com/id/downloads/spyshelter-silent-windows/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi"
+                href="https://filenux.com/vi/downloads/spyshelter-silent-windows/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="zh-cn"
                 href="https://filenux.com/zh-cn/downloads/spyshelter-silent-windows/"
                 />
@@ -2539,6 +3244,21 @@
                 rel="alternate"
                 hreflang="it"
                 href="https://filenux.com/it/downloads/spyhunter-windows/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="tr"
+                href="https://filenux.com/tr/downloads/spyhunter-windows/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="id"
+                href="https://filenux.com/id/downloads/spyhunter-windows/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi"
+                href="https://filenux.com/vi/downloads/spyhunter-windows/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -2595,12 +3315,27 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="tr"
+                href="https://filenux.com/tr/downloads/spybot-windows/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="id"
+                href="https://filenux.com/id/downloads/spybot-windows/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi"
+                href="https://filenux.com/vi/downloads/spybot-windows/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="zh-cn"
                 href="https://filenux.com/zh-cn/downloads/spybot-windows/"
                 />
   </url><url>
     <loc>https://filenux.com/zh-cn/downloads/roguekiller-portable-windows-64-bit/</loc>
-    <lastmod>2023-03-20T15:43:16-03:00</lastmod>
+    <lastmod>2023-05-04T19:56:58-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -2648,12 +3383,27 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="tr"
+                href="https://filenux.com/tr/downloads/roguekiller-portable-windows-64-bit/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="id"
+                href="https://filenux.com/id/downloads/roguekiller-portable-windows-64-bit/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi"
+                href="https://filenux.com/vi/downloads/roguekiller-portable-windows-64-bit/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="zh-cn"
                 href="https://filenux.com/zh-cn/downloads/roguekiller-portable-windows-64-bit/"
                 />
   </url><url>
     <loc>https://filenux.com/zh-cn/downloads/roguekiller-portable-windows-32-bit/</loc>
-    <lastmod>2023-03-20T15:43:05-03:00</lastmod>
+    <lastmod>2023-05-04T19:56:31-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -2701,12 +3451,27 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="tr"
+                href="https://filenux.com/tr/downloads/roguekiller-portable-windows-32-bit/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="id"
+                href="https://filenux.com/id/downloads/roguekiller-portable-windows-32-bit/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi"
+                href="https://filenux.com/vi/downloads/roguekiller-portable-windows-32-bit/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="zh-cn"
                 href="https://filenux.com/zh-cn/downloads/roguekiller-portable-windows-32-bit/"
                 />
   </url><url>
     <loc>https://filenux.com/zh-cn/downloads/roguekiller-windows/</loc>
-    <lastmod>2023-03-20T15:43:27-03:00</lastmod>
+    <lastmod>2023-05-04T19:57:12-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -2751,6 +3516,21 @@
                 rel="alternate"
                 hreflang="it"
                 href="https://filenux.com/it/downloads/roguekiller-windows/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="tr"
+                href="https://filenux.com/tr/downloads/roguekiller-windows/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="id"
+                href="https://filenux.com/id/downloads/roguekiller-windows/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi"
+                href="https://filenux.com/vi/downloads/roguekiller-windows/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -2807,12 +3587,27 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="tr"
+                href="https://filenux.com/tr/downloads/reason-core-security-windows/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="id"
+                href="https://filenux.com/id/downloads/reason-core-security-windows/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi"
+                href="https://filenux.com/vi/downloads/reason-core-security-windows/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="zh-cn"
                 href="https://filenux.com/zh-cn/downloads/reason-core-security-windows/"
                 />
   </url><url>
     <loc>https://filenux.com/zh-cn/downloads/ransomware-defender-windows/</loc>
-    <lastmod>2023-01-20T16:36:35-03:00</lastmod>
+    <lastmod>2023-05-04T19:55:42-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -2857,6 +3652,21 @@
                 rel="alternate"
                 hreflang="it"
                 href="https://filenux.com/it/downloads/ransomware-defender-windows/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="tr"
+                href="https://filenux.com/tr/downloads/ransomware-defender-windows/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="id"
+                href="https://filenux.com/id/downloads/ransomware-defender-windows/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi"
+                href="https://filenux.com/vi/downloads/ransomware-defender-windows/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -2913,6 +3723,21 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="tr"
+                href="https://filenux.com/tr/downloads/panda-cloud-cleaner-windows/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="id"
+                href="https://filenux.com/id/downloads/panda-cloud-cleaner-windows/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi"
+                href="https://filenux.com/vi/downloads/panda-cloud-cleaner-windows/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="zh-cn"
                 href="https://filenux.com/zh-cn/downloads/panda-cloud-cleaner-windows/"
                 />
@@ -2963,6 +3788,21 @@
                 rel="alternate"
                 hreflang="it"
                 href="https://filenux.com/it/downloads/norton-power-eraser-windows-64-bit/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="tr"
+                href="https://filenux.com/tr/downloads/norton-power-eraser-windows-64-bit/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="id"
+                href="https://filenux.com/id/downloads/norton-power-eraser-windows-64-bit/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi"
+                href="https://filenux.com/vi/downloads/norton-power-eraser-windows-64-bit/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -3019,6 +3859,21 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="tr"
+                href="https://filenux.com/tr/downloads/norton-power-eraser-windows-32-bit/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="id"
+                href="https://filenux.com/id/downloads/norton-power-eraser-windows-32-bit/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi"
+                href="https://filenux.com/vi/downloads/norton-power-eraser-windows-32-bit/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="zh-cn"
                 href="https://filenux.com/zh-cn/downloads/norton-power-eraser-windows-32-bit/"
                 />
@@ -3027,7 +3882,7 @@
     <lastmod>2023-01-19T20:41:36-03:00</lastmod>
   </url><url>
     <loc>https://filenux.com/zh-cn/downloads/mcafee-stinger-portable-windows/</loc>
-    <lastmod>2023-03-20T15:39:08-03:00</lastmod>
+    <lastmod>2023-05-04T19:46:23-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -3075,12 +3930,27 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="tr"
+                href="https://filenux.com/tr/downloads/mcafee-stinger-portable-windows/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="id"
+                href="https://filenux.com/id/downloads/mcafee-stinger-portable-windows/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi"
+                href="https://filenux.com/vi/downloads/mcafee-stinger-portable-windows/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="zh-cn"
                 href="https://filenux.com/zh-cn/downloads/mcafee-stinger-portable-windows/"
                 />
   </url><url>
     <loc>https://filenux.com/zh-cn/downloads/mcafee-stinger-windows-64-bit/</loc>
-    <lastmod>2023-03-20T15:39:47-03:00</lastmod>
+    <lastmod>2023-05-04T19:47:47-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -3128,12 +3998,27 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="tr"
+                href="https://filenux.com/tr/downloads/mcafee-stinger-windows-64-bit/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="id"
+                href="https://filenux.com/id/downloads/mcafee-stinger-windows-64-bit/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi"
+                href="https://filenux.com/vi/downloads/mcafee-stinger-windows-64-bit/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="zh-cn"
                 href="https://filenux.com/zh-cn/downloads/mcafee-stinger-windows-64-bit/"
                 />
   </url><url>
     <loc>https://filenux.com/zh-cn/downloads/mcafee-stinger-windows-32-bit/</loc>
-    <lastmod>2023-03-20T15:39:34-03:00</lastmod>
+    <lastmod>2023-05-04T19:47:15-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -3178,6 +4063,21 @@
                 rel="alternate"
                 hreflang="it"
                 href="https://filenux.com/it/downloads/mcafee-stinger-windows-32-bit/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="tr"
+                href="https://filenux.com/tr/downloads/mcafee-stinger-windows-32-bit/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="id"
+                href="https://filenux.com/id/downloads/mcafee-stinger-windows-32-bit/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi"
+                href="https://filenux.com/vi/downloads/mcafee-stinger-windows-32-bit/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -3234,6 +4134,21 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="tr"
+                href="https://filenux.com/tr/downloads/malwarefox-antimalware-windows/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="id"
+                href="https://filenux.com/id/downloads/malwarefox-antimalware-windows/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi"
+                href="https://filenux.com/vi/downloads/malwarefox-antimalware-windows/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="zh-cn"
                 href="https://filenux.com/zh-cn/downloads/malwarefox-antimalware-windows/"
                 />
@@ -3284,6 +4199,21 @@
                 rel="alternate"
                 hreflang="it"
                 href="https://filenux.com/it/downloads/malwarebytes-teams-windows/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="tr"
+                href="https://filenux.com/tr/downloads/malwarebytes-teams-windows/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="id"
+                href="https://filenux.com/id/downloads/malwarebytes-teams-windows/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi"
+                href="https://filenux.com/vi/downloads/malwarebytes-teams-windows/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -3340,12 +4270,27 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="tr"
+                href="https://filenux.com/tr/downloads/malwarebytes-anti-exploit-windows/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="id"
+                href="https://filenux.com/id/downloads/malwarebytes-anti-exploit-windows/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi"
+                href="https://filenux.com/vi/downloads/malwarebytes-anti-exploit-windows/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="zh-cn"
                 href="https://filenux.com/zh-cn/downloads/malwarebytes-anti-exploit-windows/"
                 />
   </url><url>
     <loc>https://filenux.com/zh-cn/downloads/malware-hunter-windows/</loc>
-    <lastmod>2023-03-20T15:34:52-03:00</lastmod>
+    <lastmod>2023-05-04T19:40:23-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -3393,12 +4338,27 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="tr"
+                href="https://filenux.com/tr/downloads/malware-hunter-windows/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="id"
+                href="https://filenux.com/id/downloads/malware-hunter-windows/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi"
+                href="https://filenux.com/vi/downloads/malware-hunter-windows/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="zh-cn"
                 href="https://filenux.com/zh-cn/downloads/malware-hunter-windows/"
                 />
   </url><url>
     <loc>https://filenux.com/zh-cn/downloads/loaris-trojan-remover-windows/</loc>
-    <lastmod>2023-03-20T15:34:09-03:00</lastmod>
+    <lastmod>2023-05-04T19:39:41-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -3443,6 +4403,21 @@
                 rel="alternate"
                 hreflang="it"
                 href="https://filenux.com/it/downloads/loaris-trojan-remover-windows/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="tr"
+                href="https://filenux.com/tr/downloads/loaris-trojan-remover-windows/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="id"
+                href="https://filenux.com/id/downloads/loaris-trojan-remover-windows/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi"
+                href="https://filenux.com/vi/downloads/loaris-trojan-remover-windows/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -3499,6 +4474,21 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="tr"
+                href="https://filenux.com/tr/downloads/keyscrambler-professional-windows/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="id"
+                href="https://filenux.com/id/downloads/keyscrambler-professional-windows/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi"
+                href="https://filenux.com/vi/downloads/keyscrambler-professional-windows/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="zh-cn"
                 href="https://filenux.com/zh-cn/downloads/keyscrambler-professional-windows/"
                 />
@@ -3549,6 +4539,21 @@
                 rel="alternate"
                 hreflang="it"
                 href="https://filenux.com/it/downloads/kaspersky-virus-removal-tool-windows/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="tr"
+                href="https://filenux.com/tr/downloads/kaspersky-virus-removal-tool-windows/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="id"
+                href="https://filenux.com/id/downloads/kaspersky-virus-removal-tool-windows/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi"
+                href="https://filenux.com/vi/downloads/kaspersky-virus-removal-tool-windows/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -3605,12 +4610,27 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="tr"
+                href="https://filenux.com/tr/downloads/kaspersky-tdsskiller-windows/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="id"
+                href="https://filenux.com/id/downloads/kaspersky-tdsskiller-windows/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi"
+                href="https://filenux.com/vi/downloads/kaspersky-tdsskiller-windows/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="zh-cn"
                 href="https://filenux.com/zh-cn/downloads/kaspersky-tdsskiller-windows/"
                 />
   </url><url>
     <loc>https://filenux.com/zh-cn/downloads/malware-fighter-free-windows/</loc>
-    <lastmod>2023-03-20T15:34:32-03:00</lastmod>
+    <lastmod>2023-05-04T19:40:06-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -3655,6 +4675,21 @@
                 rel="alternate"
                 hreflang="it"
                 href="https://filenux.com/it/downloads/malware-fighter-free-windows/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="tr"
+                href="https://filenux.com/tr/downloads/malware-fighter-free-windows/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="id"
+                href="https://filenux.com/id/downloads/malware-fighter-free-windows/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi"
+                href="https://filenux.com/vi/downloads/malware-fighter-free-windows/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -3711,6 +4746,21 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="tr"
+                href="https://filenux.com/tr/downloads/f-secure-online-scanner-windows/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="id"
+                href="https://filenux.com/id/downloads/f-secure-online-scanner-windows/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi"
+                href="https://filenux.com/vi/downloads/f-secure-online-scanner-windows/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="zh-cn"
                 href="https://filenux.com/zh-cn/downloads/f-secure-online-scanner-windows/"
                 />
@@ -3761,6 +4811,21 @@
                 rel="alternate"
                 hreflang="it"
                 href="https://filenux.com/it/downloads/comodo-cloud-scanner-windows/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="tr"
+                href="https://filenux.com/tr/downloads/comodo-cloud-scanner-windows/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="id"
+                href="https://filenux.com/id/downloads/comodo-cloud-scanner-windows/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi"
+                href="https://filenux.com/vi/downloads/comodo-cloud-scanner-windows/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -3817,6 +4882,21 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="tr"
+                href="https://filenux.com/tr/downloads/comodo-cleaning-essentials-windows-64-bit/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="id"
+                href="https://filenux.com/id/downloads/comodo-cleaning-essentials-windows-64-bit/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi"
+                href="https://filenux.com/vi/downloads/comodo-cleaning-essentials-windows-64-bit/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="zh-cn"
                 href="https://filenux.com/zh-cn/downloads/comodo-cleaning-essentials-windows-64-bit/"
                 />
@@ -3870,12 +4950,27 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="tr"
+                href="https://filenux.com/tr/downloads/comodo-cleaning-essentials-windows-32-bit/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="id"
+                href="https://filenux.com/id/downloads/comodo-cleaning-essentials-windows-32-bit/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi"
+                href="https://filenux.com/vi/downloads/comodo-cleaning-essentials-windows-32-bit/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="zh-cn"
                 href="https://filenux.com/zh-cn/downloads/comodo-cleaning-essentials-windows-32-bit/"
                 />
   </url><url>
     <loc>https://filenux.com/zh-cn/downloads/yandex-browser-windows-64-bit/</loc>
-    <lastmod>2023-03-20T15:54:19-03:00</lastmod>
+    <lastmod>2023-05-04T20:17:20-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -3923,12 +5018,27 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="tr"
+                href="https://filenux.com/tr/downloads/yandex-browser-windows-64-bit/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="id"
+                href="https://filenux.com/id/downloads/yandex-browser-windows-64-bit/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi"
+                href="https://filenux.com/vi/downloads/yandex-browser-windows-64-bit/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="zh-cn"
                 href="https://filenux.com/zh-cn/downloads/yandex-browser-windows-64-bit/"
                 />
   </url><url>
     <loc>https://filenux.com/zh-cn/categories/windows-browsers-and-plugins/</loc>
-    <lastmod>2023-03-20T15:54:19-03:00</lastmod>
+    <lastmod>2023-05-04T20:17:20-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -3976,12 +5086,27 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="tr"
+                href="https://filenux.com/tr/categories/windows-browsers-and-plugins/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="id"
+                href="https://filenux.com/id/categories/windows-browsers-and-plugins/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi"
+                href="https://filenux.com/vi/categories/windows-browsers-and-plugins/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="zh-cn"
                 href="https://filenux.com/zh-cn/categories/windows-browsers-and-plugins/"
                 />
   </url><url>
     <loc>https://filenux.com/zh-cn/downloads/yandex-browser-windows-32-bit/</loc>
-    <lastmod>2023-03-20T15:54:08-03:00</lastmod>
+    <lastmod>2023-05-04T20:17:08-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -4029,12 +5154,27 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="tr"
+                href="https://filenux.com/tr/downloads/yandex-browser-windows-32-bit/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="id"
+                href="https://filenux.com/id/downloads/yandex-browser-windows-32-bit/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi"
+                href="https://filenux.com/vi/downloads/yandex-browser-windows-32-bit/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="zh-cn"
                 href="https://filenux.com/zh-cn/downloads/yandex-browser-windows-32-bit/"
                 />
   </url><url>
     <loc>https://filenux.com/zh-cn/downloads/whale-browser-windows/</loc>
-    <lastmod>2023-03-20T15:53:56-03:00</lastmod>
+    <lastmod>2023-05-04T20:16:52-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -4079,6 +5219,21 @@
                 rel="alternate"
                 hreflang="it"
                 href="https://filenux.com/it/downloads/whale-browser-windows/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="tr"
+                href="https://filenux.com/tr/downloads/whale-browser-windows/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="id"
+                href="https://filenux.com/id/downloads/whale-browser-windows/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi"
+                href="https://filenux.com/vi/downloads/whale-browser-windows/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -4135,12 +5290,27 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="tr"
+                href="https://filenux.com/tr/downloads/waterfox-classic-windows/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="id"
+                href="https://filenux.com/id/downloads/waterfox-classic-windows/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi"
+                href="https://filenux.com/vi/downloads/waterfox-classic-windows/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="zh-cn"
                 href="https://filenux.com/zh-cn/downloads/waterfox-classic-windows/"
                 />
   </url><url>
     <loc>https://filenux.com/zh-cn/downloads/waterfox-windows/</loc>
-    <lastmod>2023-03-20T15:53:44-03:00</lastmod>
+    <lastmod>2023-05-04T20:16:35-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -4188,12 +5358,27 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="tr"
+                href="https://filenux.com/tr/downloads/waterfox-windows/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="id"
+                href="https://filenux.com/id/downloads/waterfox-windows/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi"
+                href="https://filenux.com/vi/downloads/waterfox-windows/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="zh-cn"
                 href="https://filenux.com/zh-cn/downloads/waterfox-windows/"
                 />
   </url><url>
     <loc>https://filenux.com/zh-cn/downloads/vivaldi-windows-64-bit/</loc>
-    <lastmod>2023-03-20T15:53:18-03:00</lastmod>
+    <lastmod>2023-05-04T20:16:09-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -4241,12 +5426,27 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="tr"
+                href="https://filenux.com/tr/downloads/vivaldi-windows-64-bit/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="id"
+                href="https://filenux.com/id/downloads/vivaldi-windows-64-bit/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi"
+                href="https://filenux.com/vi/downloads/vivaldi-windows-64-bit/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="zh-cn"
                 href="https://filenux.com/zh-cn/downloads/vivaldi-windows-64-bit/"
                 />
   </url><url>
     <loc>https://filenux.com/zh-cn/downloads/vivaldi-windows-32-bit/</loc>
-    <lastmod>2023-03-20T15:53:10-03:00</lastmod>
+    <lastmod>2023-05-04T20:15:46-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -4291,6 +5491,21 @@
                 rel="alternate"
                 hreflang="it"
                 href="https://filenux.com/it/downloads/vivaldi-windows-32-bit/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="tr"
+                href="https://filenux.com/tr/downloads/vivaldi-windows-32-bit/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="id"
+                href="https://filenux.com/id/downloads/vivaldi-windows-32-bit/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi"
+                href="https://filenux.com/vi/downloads/vivaldi-windows-32-bit/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -4347,6 +5562,21 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="tr"
+                href="https://filenux.com/tr/downloads/viasat-browser-windows-64-bit/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="id"
+                href="https://filenux.com/id/downloads/viasat-browser-windows-64-bit/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi"
+                href="https://filenux.com/vi/downloads/viasat-browser-windows-64-bit/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="zh-cn"
                 href="https://filenux.com/zh-cn/downloads/viasat-browser-windows-64-bit/"
                 />
@@ -4400,12 +5630,27 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="tr"
+                href="https://filenux.com/tr/downloads/viasat-browser-windows-32-bit/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="id"
+                href="https://filenux.com/id/downloads/viasat-browser-windows-32-bit/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi"
+                href="https://filenux.com/vi/downloads/viasat-browser-windows-32-bit/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="zh-cn"
                 href="https://filenux.com/zh-cn/downloads/viasat-browser-windows-32-bit/"
                 />
   </url><url>
     <loc>https://filenux.com/zh-cn/downloads/srware-iron-portable-windows-64-bit/</loc>
-    <lastmod>2023-03-20T15:50:23-03:00</lastmod>
+    <lastmod>2023-05-04T20:10:49-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -4453,12 +5698,27 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="tr"
+                href="https://filenux.com/tr/downloads/srware-iron-portable-windows-64-bit/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="id"
+                href="https://filenux.com/id/downloads/srware-iron-portable-windows-64-bit/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi"
+                href="https://filenux.com/vi/downloads/srware-iron-portable-windows-64-bit/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="zh-cn"
                 href="https://filenux.com/zh-cn/downloads/srware-iron-portable-windows-64-bit/"
                 />
   </url><url>
     <loc>https://filenux.com/zh-cn/downloads/srware-iron-portable-windows-32-bit/</loc>
-    <lastmod>2023-03-20T15:50:09-03:00</lastmod>
+    <lastmod>2023-05-04T20:10:20-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -4506,12 +5766,27 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="tr"
+                href="https://filenux.com/tr/downloads/srware-iron-portable-windows-32-bit/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="id"
+                href="https://filenux.com/id/downloads/srware-iron-portable-windows-32-bit/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi"
+                href="https://filenux.com/vi/downloads/srware-iron-portable-windows-32-bit/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="zh-cn"
                 href="https://filenux.com/zh-cn/downloads/srware-iron-portable-windows-32-bit/"
                 />
   </url><url>
     <loc>https://filenux.com/zh-cn/downloads/srware-iron-windows-64-bit/</loc>
-    <lastmod>2023-03-20T15:50:50-03:00</lastmod>
+    <lastmod>2023-05-04T20:11:32-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -4559,12 +5834,27 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="tr"
+                href="https://filenux.com/tr/downloads/srware-iron-windows-64-bit/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="id"
+                href="https://filenux.com/id/downloads/srware-iron-windows-64-bit/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi"
+                href="https://filenux.com/vi/downloads/srware-iron-windows-64-bit/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="zh-cn"
                 href="https://filenux.com/zh-cn/downloads/srware-iron-windows-64-bit/"
                 />
   </url><url>
     <loc>https://filenux.com/zh-cn/downloads/srware-iron-windows-32-bit/</loc>
-    <lastmod>2023-03-20T15:50:37-03:00</lastmod>
+    <lastmod>2023-05-04T20:11:21-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -4609,6 +5899,21 @@
                 rel="alternate"
                 hreflang="it"
                 href="https://filenux.com/it/downloads/srware-iron-windows-32-bit/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="tr"
+                href="https://filenux.com/tr/downloads/srware-iron-windows-32-bit/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="id"
+                href="https://filenux.com/id/downloads/srware-iron-windows-32-bit/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi"
+                href="https://filenux.com/vi/downloads/srware-iron-windows-32-bit/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -4665,12 +5970,27 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="tr"
+                href="https://filenux.com/tr/downloads/slimjet-portable-windows-64-bit/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="id"
+                href="https://filenux.com/id/downloads/slimjet-portable-windows-64-bit/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi"
+                href="https://filenux.com/vi/downloads/slimjet-portable-windows-64-bit/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="zh-cn"
                 href="https://filenux.com/zh-cn/downloads/slimjet-portable-windows-64-bit/"
                 />
   </url><url>
     <loc>https://filenux.com/zh-cn/downloads/slimjet-windows-64-bit/</loc>
-    <lastmod>2023-03-20T15:45:40-03:00</lastmod>
+    <lastmod>2023-05-04T20:05:47-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -4715,6 +6035,21 @@
                 rel="alternate"
                 hreflang="it"
                 href="https://filenux.com/it/downloads/slimjet-windows-64-bit/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="tr"
+                href="https://filenux.com/tr/downloads/slimjet-windows-64-bit/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="id"
+                href="https://filenux.com/id/downloads/slimjet-windows-64-bit/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi"
+                href="https://filenux.com/vi/downloads/slimjet-windows-64-bit/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -4771,12 +6106,27 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="tr"
+                href="https://filenux.com/tr/downloads/slimjet-portable-windows-32-bit/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="id"
+                href="https://filenux.com/id/downloads/slimjet-portable-windows-32-bit/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi"
+                href="https://filenux.com/vi/downloads/slimjet-portable-windows-32-bit/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="zh-cn"
                 href="https://filenux.com/zh-cn/downloads/slimjet-portable-windows-32-bit/"
                 />
   </url><url>
     <loc>https://filenux.com/zh-cn/downloads/slimjet-windows-32-bit/</loc>
-    <lastmod>2023-03-20T15:45:31-03:00</lastmod>
+    <lastmod>2023-05-04T20:05:36-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -4824,12 +6174,27 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="tr"
+                href="https://filenux.com/tr/downloads/slimjet-windows-32-bit/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="id"
+                href="https://filenux.com/id/downloads/slimjet-windows-32-bit/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi"
+                href="https://filenux.com/vi/downloads/slimjet-windows-32-bit/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="zh-cn"
                 href="https://filenux.com/zh-cn/downloads/slimjet-windows-32-bit/"
                 />
   </url><url>
     <loc>https://filenux.com/zh-cn/downloads/tor-browser-windows-64-bit/</loc>
-    <lastmod>2023-03-20T15:52:31-03:00</lastmod>
+    <lastmod>2023-05-04T20:14:23-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -4874,6 +6239,21 @@
                 rel="alternate"
                 hreflang="it"
                 href="https://filenux.com/it/downloads/tor-browser-windows-64-bit/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="tr"
+                href="https://filenux.com/tr/downloads/tor-browser-windows-64-bit/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="id"
+                href="https://filenux.com/id/downloads/tor-browser-windows-64-bit/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi"
+                href="https://filenux.com/vi/downloads/tor-browser-windows-64-bit/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -4930,6 +6310,21 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="tr"
+                href="https://filenux.com/tr/downloads/slimbrowser-portable-windows-64-bit/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="id"
+                href="https://filenux.com/id/downloads/slimbrowser-portable-windows-64-bit/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi"
+                href="https://filenux.com/vi/downloads/slimbrowser-portable-windows-64-bit/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="zh-cn"
                 href="https://filenux.com/zh-cn/downloads/slimbrowser-portable-windows-64-bit/"
                 />
@@ -4983,12 +6378,27 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="tr"
+                href="https://filenux.com/tr/downloads/slimbrowser-portable-windows-32-bit/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="id"
+                href="https://filenux.com/id/downloads/slimbrowser-portable-windows-32-bit/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi"
+                href="https://filenux.com/vi/downloads/slimbrowser-portable-windows-32-bit/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="zh-cn"
                 href="https://filenux.com/zh-cn/downloads/slimbrowser-portable-windows-32-bit/"
                 />
   </url><url>
     <loc>https://filenux.com/zh-cn/downloads/tor-browser-windows-32-bit/</loc>
-    <lastmod>2023-03-20T15:52:06-03:00</lastmod>
+    <lastmod>2023-05-04T20:13:39-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -5033,6 +6443,21 @@
                 rel="alternate"
                 hreflang="it"
                 href="https://filenux.com/it/downloads/tor-browser-windows-32-bit/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="tr"
+                href="https://filenux.com/tr/downloads/tor-browser-windows-32-bit/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="id"
+                href="https://filenux.com/id/downloads/tor-browser-windows-32-bit/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi"
+                href="https://filenux.com/vi/downloads/tor-browser-windows-32-bit/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -5089,6 +6514,21 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="tr"
+                href="https://filenux.com/tr/downloads/slimbrowser-windows-64-bit/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="id"
+                href="https://filenux.com/id/downloads/slimbrowser-windows-64-bit/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi"
+                href="https://filenux.com/vi/downloads/slimbrowser-windows-64-bit/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="zh-cn"
                 href="https://filenux.com/zh-cn/downloads/slimbrowser-windows-64-bit/"
                 />
@@ -5142,12 +6582,27 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="tr"
+                href="https://filenux.com/tr/downloads/slimbrowser-windows-32-bit/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="id"
+                href="https://filenux.com/id/downloads/slimbrowser-windows-32-bit/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi"
+                href="https://filenux.com/vi/downloads/slimbrowser-windows-32-bit/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="zh-cn"
                 href="https://filenux.com/zh-cn/downloads/slimbrowser-windows-32-bit/"
                 />
   </url><url>
     <loc>https://filenux.com/zh-cn/downloads/sleipnir-browser-windows/</loc>
-    <lastmod>2023-03-20T15:45:11-03:00</lastmod>
+    <lastmod>2023-05-04T20:05:20-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -5195,12 +6650,27 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="tr"
+                href="https://filenux.com/tr/downloads/sleipnir-browser-windows/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="id"
+                href="https://filenux.com/id/downloads/sleipnir-browser-windows/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi"
+                href="https://filenux.com/vi/downloads/sleipnir-browser-windows/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="zh-cn"
                 href="https://filenux.com/zh-cn/downloads/sleipnir-browser-windows/"
                 />
   </url><url>
     <loc>https://filenux.com/zh-cn/downloads/sidekick-windows/</loc>
-    <lastmod>2023-03-20T15:43:44-03:00</lastmod>
+    <lastmod>2023-05-04T20:01:53-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -5248,12 +6718,27 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="tr"
+                href="https://filenux.com/tr/downloads/sidekick-windows/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="id"
+                href="https://filenux.com/id/downloads/sidekick-windows/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi"
+                href="https://filenux.com/vi/downloads/sidekick-windows/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="zh-cn"
                 href="https://filenux.com/zh-cn/downloads/sidekick-windows/"
                 />
   </url><url>
     <loc>https://filenux.com/zh-cn/downloads/seamonkey-windows-64-bit/</loc>
-    <lastmod>2023-01-20T18:17:06-03:00</lastmod>
+    <lastmod>2023-05-04T20:01:36-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -5301,12 +6786,27 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="tr"
+                href="https://filenux.com/tr/downloads/seamonkey-windows-64-bit/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="id"
+                href="https://filenux.com/id/downloads/seamonkey-windows-64-bit/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi"
+                href="https://filenux.com/vi/downloads/seamonkey-windows-64-bit/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="zh-cn"
                 href="https://filenux.com/zh-cn/downloads/seamonkey-windows-64-bit/"
                 />
   </url><url>
     <loc>https://filenux.com/zh-cn/downloads/seamonkey-windows-32-bit/</loc>
-    <lastmod>2023-01-20T18:16:35-03:00</lastmod>
+    <lastmod>2023-05-04T20:01:02-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -5351,6 +6851,21 @@
                 rel="alternate"
                 hreflang="it"
                 href="https://filenux.com/it/downloads/seamonkey-windows-32-bit/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="tr"
+                href="https://filenux.com/tr/downloads/seamonkey-windows-32-bit/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="id"
+                href="https://filenux.com/id/downloads/seamonkey-windows-32-bit/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi"
+                href="https://filenux.com/vi/downloads/seamonkey-windows-32-bit/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -5407,12 +6922,27 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="tr"
+                href="https://filenux.com/tr/downloads/respondus-lockdown-browser-windows/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="id"
+                href="https://filenux.com/id/downloads/respondus-lockdown-browser-windows/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi"
+                href="https://filenux.com/vi/downloads/respondus-lockdown-browser-windows/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="zh-cn"
                 href="https://filenux.com/zh-cn/downloads/respondus-lockdown-browser-windows/"
                 />
   </url><url>
     <loc>https://filenux.com/zh-cn/downloads/puffin-browser-windows/</loc>
-    <lastmod>2023-03-20T15:42:49-03:00</lastmod>
+    <lastmod>2023-05-04T19:55:26-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -5457,6 +6987,21 @@
                 rel="alternate"
                 hreflang="it"
                 href="https://filenux.com/it/downloads/puffin-browser-windows/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="tr"
+                href="https://filenux.com/tr/downloads/puffin-browser-windows/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="id"
+                href="https://filenux.com/id/downloads/puffin-browser-windows/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi"
+                href="https://filenux.com/vi/downloads/puffin-browser-windows/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -5513,6 +7058,21 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="tr"
+                href="https://filenux.com/tr/downloads/pale-moon-portable-windows-64-bit/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="id"
+                href="https://filenux.com/id/downloads/pale-moon-portable-windows-64-bit/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi"
+                href="https://filenux.com/vi/downloads/pale-moon-portable-windows-64-bit/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="zh-cn"
                 href="https://filenux.com/zh-cn/downloads/pale-moon-portable-windows-64-bit/"
                 />
@@ -5566,12 +7126,27 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="tr"
+                href="https://filenux.com/tr/downloads/pale-moon-portable-windows-32-bit/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="id"
+                href="https://filenux.com/id/downloads/pale-moon-portable-windows-32-bit/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi"
+                href="https://filenux.com/vi/downloads/pale-moon-portable-windows-32-bit/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="zh-cn"
                 href="https://filenux.com/zh-cn/downloads/pale-moon-portable-windows-32-bit/"
                 />
   </url><url>
     <loc>https://filenux.com/zh-cn/downloads/pale-moon-windows-64-bit/</loc>
-    <lastmod>2023-03-20T15:42:25-03:00</lastmod>
+    <lastmod>2023-05-04T19:55:11-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -5619,12 +7194,27 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="tr"
+                href="https://filenux.com/tr/downloads/pale-moon-windows-64-bit/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="id"
+                href="https://filenux.com/id/downloads/pale-moon-windows-64-bit/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi"
+                href="https://filenux.com/vi/downloads/pale-moon-windows-64-bit/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="zh-cn"
                 href="https://filenux.com/zh-cn/downloads/pale-moon-windows-64-bit/"
                 />
   </url><url>
     <loc>https://filenux.com/zh-cn/downloads/pale-moon-windows-32-bit/</loc>
-    <lastmod>2023-03-20T15:42:14-03:00</lastmod>
+    <lastmod>2023-05-04T19:54:55-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -5672,12 +7262,27 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="tr"
+                href="https://filenux.com/tr/downloads/pale-moon-windows-32-bit/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="id"
+                href="https://filenux.com/id/downloads/pale-moon-windows-32-bit/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi"
+                href="https://filenux.com/vi/downloads/pale-moon-windows-32-bit/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="zh-cn"
                 href="https://filenux.com/zh-cn/downloads/pale-moon-windows-32-bit/"
                 />
   </url><url>
     <loc>https://filenux.com/zh-cn/downloads/opera-portable-windows/</loc>
-    <lastmod>2023-03-20T15:41:29-03:00</lastmod>
+    <lastmod>2023-05-04T19:53:56-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -5722,6 +7327,21 @@
                 rel="alternate"
                 hreflang="it"
                 href="https://filenux.com/it/downloads/opera-portable-windows/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="tr"
+                href="https://filenux.com/tr/downloads/opera-portable-windows/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="id"
+                href="https://filenux.com/id/downloads/opera-portable-windows/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi"
+                href="https://filenux.com/vi/downloads/opera-portable-windows/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -5778,12 +7398,27 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="tr"
+                href="https://filenux.com/tr/downloads/opera-neon-windows/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="id"
+                href="https://filenux.com/id/downloads/opera-neon-windows/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi"
+                href="https://filenux.com/vi/downloads/opera-neon-windows/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="zh-cn"
                 href="https://filenux.com/zh-cn/downloads/opera-neon-windows/"
                 />
   </url><url>
     <loc>https://filenux.com/zh-cn/downloads/opera-gx-windows-64-bit/</loc>
-    <lastmod>2023-03-20T15:41:07-03:00</lastmod>
+    <lastmod>2023-05-04T19:49:25-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -5831,12 +7466,27 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="tr"
+                href="https://filenux.com/tr/downloads/opera-gx-windows-64-bit/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="id"
+                href="https://filenux.com/id/downloads/opera-gx-windows-64-bit/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi"
+                href="https://filenux.com/vi/downloads/opera-gx-windows-64-bit/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="zh-cn"
                 href="https://filenux.com/zh-cn/downloads/opera-gx-windows-64-bit/"
                 />
   </url><url>
     <loc>https://filenux.com/zh-cn/downloads/opera-gx-windows-32-bit/</loc>
-    <lastmod>2023-03-20T15:40:57-03:00</lastmod>
+    <lastmod>2023-05-04T19:49:10-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -5884,12 +7534,27 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="tr"
+                href="https://filenux.com/tr/downloads/opera-gx-windows-32-bit/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="id"
+                href="https://filenux.com/id/downloads/opera-gx-windows-32-bit/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi"
+                href="https://filenux.com/vi/downloads/opera-gx-windows-32-bit/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="zh-cn"
                 href="https://filenux.com/zh-cn/downloads/opera-gx-windows-32-bit/"
                 />
   </url><url>
     <loc>https://filenux.com/zh-cn/downloads/opera-crypto-browser-windows/</loc>
-    <lastmod>2023-03-20T15:40:43-03:00</lastmod>
+    <lastmod>2023-05-04T19:48:53-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -5937,12 +7602,27 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="tr"
+                href="https://filenux.com/tr/downloads/opera-crypto-browser-windows/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="id"
+                href="https://filenux.com/id/downloads/opera-crypto-browser-windows/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi"
+                href="https://filenux.com/vi/downloads/opera-crypto-browser-windows/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="zh-cn"
                 href="https://filenux.com/zh-cn/downloads/opera-crypto-browser-windows/"
                 />
   </url><url>
     <loc>https://filenux.com/zh-cn/downloads/opera-windows-64-bit/</loc>
-    <lastmod>2023-03-20T15:41:59-03:00</lastmod>
+    <lastmod>2023-05-04T19:54:36-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -5990,12 +7670,27 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="tr"
+                href="https://filenux.com/tr/downloads/opera-windows-64-bit/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="id"
+                href="https://filenux.com/id/downloads/opera-windows-64-bit/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi"
+                href="https://filenux.com/vi/downloads/opera-windows-64-bit/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="zh-cn"
                 href="https://filenux.com/zh-cn/downloads/opera-windows-64-bit/"
                 />
   </url><url>
     <loc>https://filenux.com/zh-cn/downloads/opera-windows-32-bit/</loc>
-    <lastmod>2023-03-20T15:41:46-03:00</lastmod>
+    <lastmod>2023-05-04T19:54:15-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -6043,12 +7738,27 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="tr"
+                href="https://filenux.com/tr/downloads/opera-windows-32-bit/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="id"
+                href="https://filenux.com/id/downloads/opera-windows-32-bit/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi"
+                href="https://filenux.com/vi/downloads/opera-windows-32-bit/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="zh-cn"
                 href="https://filenux.com/zh-cn/downloads/opera-windows-32-bit/"
                 />
   </url><url>
     <loc>https://filenux.com/zh-cn/downloads/octo-browser-windows/</loc>
-    <lastmod>2023-03-20T15:40:26-03:00</lastmod>
+    <lastmod>2023-05-04T19:48:32-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -6096,12 +7806,27 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="tr"
+                href="https://filenux.com/tr/downloads/octo-browser-windows/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="id"
+                href="https://filenux.com/id/downloads/octo-browser-windows/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi"
+                href="https://filenux.com/vi/downloads/octo-browser-windows/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="zh-cn"
                 href="https://filenux.com/zh-cn/downloads/octo-browser-windows/"
                 />
   </url><url>
     <loc>https://filenux.com/zh-cn/downloads/microsoft-edge-windows/</loc>
-    <lastmod>2023-03-20T15:40:04-03:00</lastmod>
+    <lastmod>2023-05-04T19:48:04-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -6146,6 +7871,21 @@
                 rel="alternate"
                 hreflang="it"
                 href="https://filenux.com/it/downloads/microsoft-edge-windows/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="tr"
+                href="https://filenux.com/tr/downloads/microsoft-edge-windows/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="id"
+                href="https://filenux.com/id/downloads/microsoft-edge-windows/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi"
+                href="https://filenux.com/vi/downloads/microsoft-edge-windows/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -6202,6 +7942,21 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="tr"
+                href="https://filenux.com/tr/downloads/maxthon-portable-windows-32-bit/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="id"
+                href="https://filenux.com/id/downloads/maxthon-portable-windows-32-bit/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi"
+                href="https://filenux.com/vi/downloads/maxthon-portable-windows-32-bit/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="zh-cn"
                 href="https://filenux.com/zh-cn/downloads/maxthon-portable-windows-32-bit/"
                 />
@@ -6252,6 +8007,21 @@
                 rel="alternate"
                 hreflang="it"
                 href="https://filenux.com/it/downloads/maxthon-portable-windows-64-bit/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="tr"
+                href="https://filenux.com/tr/downloads/maxthon-portable-windows-64-bit/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="id"
+                href="https://filenux.com/id/downloads/maxthon-portable-windows-64-bit/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi"
+                href="https://filenux.com/vi/downloads/maxthon-portable-windows-64-bit/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -6308,6 +8078,21 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="tr"
+                href="https://filenux.com/tr/downloads/maxthon-windows-32-bit/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="id"
+                href="https://filenux.com/id/downloads/maxthon-windows-32-bit/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi"
+                href="https://filenux.com/vi/downloads/maxthon-windows-32-bit/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="zh-cn"
                 href="https://filenux.com/zh-cn/downloads/maxthon-windows-32-bit/"
                 />
@@ -6358,6 +8143,21 @@
                 rel="alternate"
                 hreflang="it"
                 href="https://filenux.com/it/downloads/maxthon-windows-64-bit/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="tr"
+                href="https://filenux.com/tr/downloads/maxthon-windows-64-bit/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="id"
+                href="https://filenux.com/id/downloads/maxthon-windows-64-bit/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi"
+                href="https://filenux.com/vi/downloads/maxthon-windows-64-bit/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -6414,6 +8214,21 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="tr"
+                href="https://filenux.com/tr/downloads/lunascape-browser-windows/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="id"
+                href="https://filenux.com/id/downloads/lunascape-browser-windows/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi"
+                href="https://filenux.com/vi/downloads/lunascape-browser-windows/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="zh-cn"
                 href="https://filenux.com/zh-cn/downloads/lunascape-browser-windows/"
                 />
@@ -6464,6 +8279,21 @@
                 rel="alternate"
                 hreflang="it"
                 href="https://filenux.com/it/downloads/k-meleon-browser-windows/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="tr"
+                href="https://filenux.com/tr/downloads/k-meleon-browser-windows/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="id"
+                href="https://filenux.com/id/downloads/k-meleon-browser-windows/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi"
+                href="https://filenux.com/vi/downloads/k-meleon-browser-windows/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -6520,12 +8350,27 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="tr"
+                href="https://filenux.com/tr/downloads/itop-private-browser-windows/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="id"
+                href="https://filenux.com/id/downloads/itop-private-browser-windows/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi"
+                href="https://filenux.com/vi/downloads/itop-private-browser-windows/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="zh-cn"
                 href="https://filenux.com/zh-cn/downloads/itop-private-browser-windows/"
                 />
   </url><url>
     <loc>https://filenux.com/zh-cn/downloads/iridium-windows-64-bit/</loc>
-    <lastmod>2023-01-06T19:42:57-03:00</lastmod>
+    <lastmod>2023-05-04T19:39:04-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -6570,6 +8415,21 @@
                 rel="alternate"
                 hreflang="it"
                 href="https://filenux.com/it/downloads/iridium-windows-64-bit/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="tr"
+                href="https://filenux.com/tr/downloads/iridium-windows-64-bit/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="id"
+                href="https://filenux.com/id/downloads/iridium-windows-64-bit/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi"
+                href="https://filenux.com/vi/downloads/iridium-windows-64-bit/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -6626,6 +8486,21 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="tr"
+                href="https://filenux.com/tr/downloads/iridium-windows-32-bit/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="id"
+                href="https://filenux.com/id/downloads/iridium-windows-32-bit/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi"
+                href="https://filenux.com/vi/downloads/iridium-windows-32-bit/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="zh-cn"
                 href="https://filenux.com/zh-cn/downloads/iridium-windows-32-bit/"
                 />
@@ -6679,12 +8554,27 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="tr"
+                href="https://filenux.com/tr/downloads/google-chrome-canary-windows/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="id"
+                href="https://filenux.com/id/downloads/google-chrome-canary-windows/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi"
+                href="https://filenux.com/vi/downloads/google-chrome-canary-windows/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="zh-cn"
                 href="https://filenux.com/zh-cn/downloads/google-chrome-canary-windows/"
                 />
   </url><url>
     <loc>https://filenux.com/zh-cn/downloads/google-chrome-portable-windows-64-bit/</loc>
-    <lastmod>2023-03-20T15:30:29-03:00</lastmod>
+    <lastmod>2023-05-04T19:37:28-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -6732,12 +8622,27 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="tr"
+                href="https://filenux.com/tr/downloads/google-chrome-portable-windows-64-bit/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="id"
+                href="https://filenux.com/id/downloads/google-chrome-portable-windows-64-bit/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi"
+                href="https://filenux.com/vi/downloads/google-chrome-portable-windows-64-bit/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="zh-cn"
                 href="https://filenux.com/zh-cn/downloads/google-chrome-portable-windows-64-bit/"
                 />
   </url><url>
     <loc>https://filenux.com/zh-cn/downloads/google-chrome-portable-windows-32-bit/</loc>
-    <lastmod>2023-03-20T15:30:21-03:00</lastmod>
+    <lastmod>2023-05-04T19:37:12-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -6785,12 +8690,27 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="tr"
+                href="https://filenux.com/tr/downloads/google-chrome-portable-windows-32-bit/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="id"
+                href="https://filenux.com/id/downloads/google-chrome-portable-windows-32-bit/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi"
+                href="https://filenux.com/vi/downloads/google-chrome-portable-windows-32-bit/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="zh-cn"
                 href="https://filenux.com/zh-cn/downloads/google-chrome-portable-windows-32-bit/"
                 />
   </url><url>
     <loc>https://filenux.com/zh-cn/downloads/google-chrome-windows-64-bit/</loc>
-    <lastmod>2023-03-20T15:30:48-03:00</lastmod>
+    <lastmod>2023-05-04T19:37:59-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -6838,12 +8758,27 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="tr"
+                href="https://filenux.com/tr/downloads/google-chrome-windows-64-bit/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="id"
+                href="https://filenux.com/id/downloads/google-chrome-windows-64-bit/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi"
+                href="https://filenux.com/vi/downloads/google-chrome-windows-64-bit/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="zh-cn"
                 href="https://filenux.com/zh-cn/downloads/google-chrome-windows-64-bit/"
                 />
   </url><url>
     <loc>https://filenux.com/zh-cn/downloads/google-chrome-windows-32-bit/</loc>
-    <lastmod>2023-03-20T15:30:40-03:00</lastmod>
+    <lastmod>2023-05-04T19:37:49-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -6891,12 +8826,27 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="tr"
+                href="https://filenux.com/tr/downloads/google-chrome-windows-32-bit/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="id"
+                href="https://filenux.com/id/downloads/google-chrome-windows-32-bit/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi"
+                href="https://filenux.com/vi/downloads/google-chrome-windows-32-bit/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="zh-cn"
                 href="https://filenux.com/zh-cn/downloads/google-chrome-windows-32-bit/"
                 />
   </url><url>
     <loc>https://filenux.com/zh-cn/downloads/firefox-developer-edition-windows-64-bit/</loc>
-    <lastmod>2023-03-20T15:29:09-03:00</lastmod>
+    <lastmod>2023-05-04T19:35:58-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -6944,12 +8894,27 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="tr"
+                href="https://filenux.com/tr/downloads/firefox-developer-edition-windows-64-bit/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="id"
+                href="https://filenux.com/id/downloads/firefox-developer-edition-windows-64-bit/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi"
+                href="https://filenux.com/vi/downloads/firefox-developer-edition-windows-64-bit/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="zh-cn"
                 href="https://filenux.com/zh-cn/downloads/firefox-developer-edition-windows-64-bit/"
                 />
   </url><url>
     <loc>https://filenux.com/zh-cn/downloads/firefox-developer-edition-windows-32-bit/</loc>
-    <lastmod>2023-03-20T15:28:47-03:00</lastmod>
+    <lastmod>2023-05-04T19:35:37-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -6997,12 +8962,27 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="tr"
+                href="https://filenux.com/tr/downloads/firefox-developer-edition-windows-32-bit/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="id"
+                href="https://filenux.com/id/downloads/firefox-developer-edition-windows-32-bit/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi"
+                href="https://filenux.com/vi/downloads/firefox-developer-edition-windows-32-bit/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="zh-cn"
                 href="https://filenux.com/zh-cn/downloads/firefox-developer-edition-windows-32-bit/"
                 />
   </url><url>
     <loc>https://filenux.com/zh-cn/downloads/firefox-windows-64-bit/</loc>
-    <lastmod>2023-03-20T15:30:00-03:00</lastmod>
+    <lastmod>2023-05-04T19:36:24-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -7050,12 +9030,27 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="tr"
+                href="https://filenux.com/tr/downloads/firefox-windows-64-bit/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="id"
+                href="https://filenux.com/id/downloads/firefox-windows-64-bit/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi"
+                href="https://filenux.com/vi/downloads/firefox-windows-64-bit/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="zh-cn"
                 href="https://filenux.com/zh-cn/downloads/firefox-windows-64-bit/"
                 />
   </url><url>
     <loc>https://filenux.com/zh-cn/downloads/firefox-windows-32-bit/</loc>
-    <lastmod>2023-03-20T15:29:37-03:00</lastmod>
+    <lastmod>2023-05-04T19:36:11-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -7100,6 +9095,21 @@
                 rel="alternate"
                 hreflang="it"
                 href="https://filenux.com/it/downloads/firefox-windows-32-bit/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="tr"
+                href="https://filenux.com/tr/downloads/firefox-windows-32-bit/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="id"
+                href="https://filenux.com/id/downloads/firefox-windows-32-bit/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi"
+                href="https://filenux.com/vi/downloads/firefox-windows-32-bit/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -7156,6 +9166,21 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="tr"
+                href="https://filenux.com/tr/downloads/falkon-browser-windows-64-bit/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="id"
+                href="https://filenux.com/id/downloads/falkon-browser-windows-64-bit/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi"
+                href="https://filenux.com/vi/downloads/falkon-browser-windows-64-bit/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="zh-cn"
                 href="https://filenux.com/zh-cn/downloads/falkon-browser-windows-64-bit/"
                 />
@@ -7206,6 +9231,21 @@
                 rel="alternate"
                 hreflang="it"
                 href="https://filenux.com/it/downloads/falkon-browser-windows-32-bit/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="tr"
+                href="https://filenux.com/tr/downloads/falkon-browser-windows-32-bit/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="id"
+                href="https://filenux.com/id/downloads/falkon-browser-windows-32-bit/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi"
+                href="https://filenux.com/vi/downloads/falkon-browser-windows-32-bit/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -7262,6 +9302,21 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="tr"
+                href="https://filenux.com/tr/downloads/epic-privacy-browser-windows/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="id"
+                href="https://filenux.com/id/downloads/epic-privacy-browser-windows/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi"
+                href="https://filenux.com/vi/downloads/epic-privacy-browser-windows/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="zh-cn"
                 href="https://filenux.com/zh-cn/downloads/epic-privacy-browser-windows/"
                 />
@@ -7315,12 +9370,27 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="tr"
+                href="https://filenux.com/tr/downloads/comodo-icedragon-windows/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="id"
+                href="https://filenux.com/id/downloads/comodo-icedragon-windows/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi"
+                href="https://filenux.com/vi/downloads/comodo-icedragon-windows/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="zh-cn"
                 href="https://filenux.com/zh-cn/downloads/comodo-icedragon-windows/"
                 />
   </url><url>
     <loc>https://filenux.com/zh-cn/downloads/comodo-dragon-windows-64-bit/</loc>
-    <lastmod>2023-02-01T22:37:07-03:00</lastmod>
+    <lastmod>2023-05-04T19:34:46-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -7368,12 +9438,27 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="tr"
+                href="https://filenux.com/tr/downloads/comodo-dragon-windows-64-bit/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="id"
+                href="https://filenux.com/id/downloads/comodo-dragon-windows-64-bit/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi"
+                href="https://filenux.com/vi/downloads/comodo-dragon-windows-64-bit/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="zh-cn"
                 href="https://filenux.com/zh-cn/downloads/comodo-dragon-windows-64-bit/"
                 />
   </url><url>
     <loc>https://filenux.com/zh-cn/downloads/comodo-dragon-windows-32-bit/</loc>
-    <lastmod>2023-02-01T22:36:56-03:00</lastmod>
+    <lastmod>2023-05-04T19:34:30-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -7418,6 +9503,21 @@
                 rel="alternate"
                 hreflang="it"
                 href="https://filenux.com/it/downloads/comodo-dragon-windows-32-bit/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="tr"
+                href="https://filenux.com/tr/downloads/comodo-dragon-windows-32-bit/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="id"
+                href="https://filenux.com/id/downloads/comodo-dragon-windows-32-bit/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi"
+                href="https://filenux.com/vi/downloads/comodo-dragon-windows-32-bit/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -7474,6 +9574,21 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="tr"
+                href="https://filenux.com/tr/downloads/colibri-browser-windows-64-bit/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="id"
+                href="https://filenux.com/id/downloads/colibri-browser-windows-64-bit/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi"
+                href="https://filenux.com/vi/downloads/colibri-browser-windows-64-bit/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="zh-cn"
                 href="https://filenux.com/zh-cn/downloads/colibri-browser-windows-64-bit/"
                 />
@@ -7524,6 +9639,21 @@
                 rel="alternate"
                 hreflang="it"
                 href="https://filenux.com/it/downloads/colibri-browser-windows-32-bit/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="tr"
+                href="https://filenux.com/tr/downloads/colibri-browser-windows-32-bit/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="id"
+                href="https://filenux.com/id/downloads/colibri-browser-windows-32-bit/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi"
+                href="https://filenux.com/vi/downloads/colibri-browser-windows-32-bit/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -7580,6 +9710,21 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="tr"
+                href="https://filenux.com/tr/downloads/hitmanpro-windows-64-bit/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="id"
+                href="https://filenux.com/id/downloads/hitmanpro-windows-64-bit/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi"
+                href="https://filenux.com/vi/downloads/hitmanpro-windows-64-bit/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="zh-cn"
                 href="https://filenux.com/zh-cn/downloads/hitmanpro-windows-64-bit/"
                 />
@@ -7630,6 +9775,21 @@
                 rel="alternate"
                 hreflang="it"
                 href="https://filenux.com/it/downloads/hitmanpro-windows-32-bit/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="tr"
+                href="https://filenux.com/tr/downloads/hitmanpro-windows-32-bit/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="id"
+                href="https://filenux.com/id/downloads/hitmanpro-windows-32-bit/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi"
+                href="https://filenux.com/vi/downloads/hitmanpro-windows-32-bit/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -7686,6 +9846,21 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="tr"
+                href="https://filenux.com/tr/downloads/hijackthis-windows/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="id"
+                href="https://filenux.com/id/downloads/hijackthis-windows/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi"
+                href="https://filenux.com/vi/downloads/hijackthis-windows/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="zh-cn"
                 href="https://filenux.com/zh-cn/downloads/hijackthis-windows/"
                 />
@@ -7739,12 +9914,27 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="tr"
+                href="https://filenux.com/tr/downloads/heimdal-pro-thor-free-windows/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="id"
+                href="https://filenux.com/id/downloads/heimdal-pro-thor-free-windows/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi"
+                href="https://filenux.com/vi/downloads/heimdal-pro-thor-free-windows/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="zh-cn"
                 href="https://filenux.com/zh-cn/downloads/heimdal-pro-thor-free-windows/"
                 />
   </url><url>
     <loc>https://filenux.com/zh-cn/downloads/gridinsoft-anti-malware-windows/</loc>
-    <lastmod>2023-03-20T15:33:16-03:00</lastmod>
+    <lastmod>2023-05-04T19:38:27-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -7789,6 +9979,21 @@
                 rel="alternate"
                 hreflang="it"
                 href="https://filenux.com/it/downloads/gridinsoft-anti-malware-windows/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="tr"
+                href="https://filenux.com/tr/downloads/gridinsoft-anti-malware-windows/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="id"
+                href="https://filenux.com/id/downloads/gridinsoft-anti-malware-windows/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi"
+                href="https://filenux.com/vi/downloads/gridinsoft-anti-malware-windows/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -7845,6 +10050,21 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="tr"
+                href="https://filenux.com/tr/downloads/g-data-clean-up-windows/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="id"
+                href="https://filenux.com/id/downloads/g-data-clean-up-windows/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi"
+                href="https://filenux.com/vi/downloads/g-data-clean-up-windows/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="zh-cn"
                 href="https://filenux.com/zh-cn/downloads/g-data-clean-up-windows/"
                 />
@@ -7895,6 +10115,21 @@
                 rel="alternate"
                 hreflang="it"
                 href="https://filenux.com/it/downloads/ghost-browser-windows/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="tr"
+                href="https://filenux.com/tr/downloads/ghost-browser-windows/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="id"
+                href="https://filenux.com/id/downloads/ghost-browser-windows/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi"
+                href="https://filenux.com/vi/downloads/ghost-browser-windows/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -7951,6 +10186,21 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="tr"
+                href="https://filenux.com/tr/downloads/coc-coc-windows/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="id"
+                href="https://filenux.com/id/downloads/coc-coc-windows/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi"
+                href="https://filenux.com/vi/downloads/coc-coc-windows/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="zh-cn"
                 href="https://filenux.com/zh-cn/downloads/coc-coc-windows/"
                 />
@@ -8001,6 +10251,21 @@
                 rel="alternate"
                 hreflang="it"
                 href="https://filenux.com/it/downloads/cliqz-windows-64-bit/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="tr"
+                href="https://filenux.com/tr/downloads/cliqz-windows-64-bit/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="id"
+                href="https://filenux.com/id/downloads/cliqz-windows-64-bit/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi"
+                href="https://filenux.com/vi/downloads/cliqz-windows-64-bit/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -8057,6 +10322,21 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="tr"
+                href="https://filenux.com/tr/downloads/cliqz-windows-32-bit/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="id"
+                href="https://filenux.com/id/downloads/cliqz-windows-32-bit/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi"
+                href="https://filenux.com/vi/downloads/cliqz-windows-32-bit/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="zh-cn"
                 href="https://filenux.com/zh-cn/downloads/cliqz-windows-32-bit/"
                 />
@@ -8110,12 +10390,27 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="tr"
+                href="https://filenux.com/tr/downloads/chromodo-windows/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="id"
+                href="https://filenux.com/id/downloads/chromodo-windows/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi"
+                href="https://filenux.com/vi/downloads/chromodo-windows/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="zh-cn"
                 href="https://filenux.com/zh-cn/downloads/chromodo-windows/"
                 />
   </url><url>
     <loc>https://filenux.com/zh-cn/downloads/chromium-windows-64-bit/</loc>
-    <lastmod>2023-02-01T22:36:27-03:00</lastmod>
+    <lastmod>2023-05-04T19:34:08-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -8160,6 +10455,21 @@
                 rel="alternate"
                 hreflang="it"
                 href="https://filenux.com/it/downloads/chromium-windows-64-bit/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="tr"
+                href="https://filenux.com/tr/downloads/chromium-windows-64-bit/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="id"
+                href="https://filenux.com/id/downloads/chromium-windows-64-bit/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi"
+                href="https://filenux.com/vi/downloads/chromium-windows-64-bit/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -8216,6 +10526,21 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="tr"
+                href="https://filenux.com/tr/downloads/chromium-windows-32-bit/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="id"
+                href="https://filenux.com/id/downloads/chromium-windows-32-bit/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi"
+                href="https://filenux.com/vi/downloads/chromium-windows-32-bit/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="zh-cn"
                 href="https://filenux.com/zh-cn/downloads/chromium-windows-32-bit/"
                 />
@@ -8266,6 +10591,21 @@
                 rel="alternate"
                 hreflang="it"
                 href="https://filenux.com/it/downloads/chedot-browser-windows/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="tr"
+                href="https://filenux.com/tr/downloads/chedot-browser-windows/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="id"
+                href="https://filenux.com/id/downloads/chedot-browser-windows/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi"
+                href="https://filenux.com/vi/downloads/chedot-browser-windows/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -8322,6 +10662,21 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="tr"
+                href="https://filenux.com/tr/downloads/cent-browser-windows-64-bit/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="id"
+                href="https://filenux.com/id/downloads/cent-browser-windows-64-bit/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi"
+                href="https://filenux.com/vi/downloads/cent-browser-windows-64-bit/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="zh-cn"
                 href="https://filenux.com/zh-cn/downloads/cent-browser-windows-64-bit/"
                 />
@@ -8372,6 +10727,21 @@
                 rel="alternate"
                 hreflang="it"
                 href="https://filenux.com/it/downloads/cent-browser-windows-32-bit/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="tr"
+                href="https://filenux.com/tr/downloads/cent-browser-windows-32-bit/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="id"
+                href="https://filenux.com/id/downloads/cent-browser-windows-32-bit/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi"
+                href="https://filenux.com/vi/downloads/cent-browser-windows-32-bit/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -8428,6 +10798,21 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="tr"
+                href="https://filenux.com/tr/downloads/ccleaner-browser-windows/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="id"
+                href="https://filenux.com/id/downloads/ccleaner-browser-windows/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi"
+                href="https://filenux.com/vi/downloads/ccleaner-browser-windows/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="zh-cn"
                 href="https://filenux.com/zh-cn/downloads/ccleaner-browser-windows/"
                 />
@@ -8481,12 +10866,27 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="tr"
+                href="https://filenux.com/tr/downloads/beaker-browser-windows/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="id"
+                href="https://filenux.com/id/downloads/beaker-browser-windows/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi"
+                href="https://filenux.com/vi/downloads/beaker-browser-windows/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="zh-cn"
                 href="https://filenux.com/zh-cn/downloads/beaker-browser-windows/"
                 />
   </url><url>
     <loc>https://filenux.com/zh-cn/downloads/basilisk-browser-windows-64-bit/</loc>
-    <lastmod>2023-03-20T15:25:37-03:00</lastmod>
+    <lastmod>2023-05-04T19:32:13-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -8534,12 +10934,27 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="tr"
+                href="https://filenux.com/tr/downloads/basilisk-browser-windows-64-bit/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="id"
+                href="https://filenux.com/id/downloads/basilisk-browser-windows-64-bit/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi"
+                href="https://filenux.com/vi/downloads/basilisk-browser-windows-64-bit/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="zh-cn"
                 href="https://filenux.com/zh-cn/downloads/basilisk-browser-windows-64-bit/"
                 />
   </url><url>
     <loc>https://filenux.com/zh-cn/downloads/basilisk-browser-windows-32-bit/</loc>
-    <lastmod>2023-03-20T15:25:06-03:00</lastmod>
+    <lastmod>2023-05-04T19:31:54-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -8584,6 +10999,21 @@
                 rel="alternate"
                 hreflang="it"
                 href="https://filenux.com/it/downloads/basilisk-browser-windows-32-bit/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="tr"
+                href="https://filenux.com/tr/downloads/basilisk-browser-windows-32-bit/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="id"
+                href="https://filenux.com/id/downloads/basilisk-browser-windows-32-bit/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi"
+                href="https://filenux.com/vi/downloads/basilisk-browser-windows-32-bit/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -8640,6 +11070,21 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="tr"
+                href="https://filenux.com/tr/downloads/avg-secure-browser-windows/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="id"
+                href="https://filenux.com/id/downloads/avg-secure-browser-windows/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi"
+                href="https://filenux.com/vi/downloads/avg-secure-browser-windows/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="zh-cn"
                 href="https://filenux.com/zh-cn/downloads/avg-secure-browser-windows/"
                 />
@@ -8693,12 +11138,27 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="tr"
+                href="https://filenux.com/tr/downloads/avast-secure-browser-windows/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="id"
+                href="https://filenux.com/id/downloads/avast-secure-browser-windows/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi"
+                href="https://filenux.com/vi/downloads/avast-secure-browser-windows/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="zh-cn"
                 href="https://filenux.com/zh-cn/downloads/avast-secure-browser-windows/"
                 />
   </url><url>
     <loc>https://filenux.com/zh-cn/downloads/brave-browser-windows-64-bit/</loc>
-    <lastmod>2023-03-20T15:26:49-03:00</lastmod>
+    <lastmod>2023-05-04T19:33:48-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -8743,6 +11203,21 @@
                 rel="alternate"
                 hreflang="it"
                 href="https://filenux.com/it/downloads/brave-browser-windows-64-bit/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="tr"
+                href="https://filenux.com/tr/downloads/brave-browser-windows-64-bit/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="id"
+                href="https://filenux.com/id/downloads/brave-browser-windows-64-bit/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi"
+                href="https://filenux.com/vi/downloads/brave-browser-windows-64-bit/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -8799,6 +11274,21 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="tr"
+                href="https://filenux.com/tr/downloads/bitdefender-anti-ransomware-windows/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="id"
+                href="https://filenux.com/id/downloads/bitdefender-anti-ransomware-windows/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi"
+                href="https://filenux.com/vi/downloads/bitdefender-anti-ransomware-windows/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="zh-cn"
                 href="https://filenux.com/zh-cn/downloads/bitdefender-anti-ransomware-windows/"
                 />
@@ -8852,12 +11342,27 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="tr"
+                href="https://filenux.com/tr/downloads/adwcleaner-windows/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="id"
+                href="https://filenux.com/id/downloads/adwcleaner-windows/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi"
+                href="https://filenux.com/vi/downloads/adwcleaner-windows/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="zh-cn"
                 href="https://filenux.com/zh-cn/downloads/adwcleaner-windows/"
                 />
   </url><url>
     <loc>https://filenux.com/zh-cn/downloads/adlice-diag-windows/</loc>
-    <lastmod>2023-03-20T15:24:49-03:00</lastmod>
+    <lastmod>2023-05-04T19:31:32-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -8902,6 +11407,21 @@
                 rel="alternate"
                 hreflang="it"
                 href="https://filenux.com/it/downloads/adlice-diag-windows/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="tr"
+                href="https://filenux.com/tr/downloads/adlice-diag-windows/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="id"
+                href="https://filenux.com/id/downloads/adlice-diag-windows/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi"
+                href="https://filenux.com/vi/downloads/adlice-diag-windows/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -8958,6 +11478,21 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="tr"
+                href="https://filenux.com/tr/downloads/malwarebytes-windows/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="id"
+                href="https://filenux.com/id/downloads/malwarebytes-windows/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi"
+                href="https://filenux.com/vi/downloads/malwarebytes-windows/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="zh-cn"
                 href="https://filenux.com/zh-cn/downloads/malwarebytes-windows/"
                 />
@@ -9010,6 +11545,21 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="tr"
+                href="https://filenux.com/tr/search/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="id"
+                href="https://filenux.com/id/search/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi"
+                href="https://filenux.com/vi/search/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="zh-cn"
                 href="https://filenux.com/zh-cn/search/"
                 />
@@ -9059,6 +11609,21 @@
                 rel="alternate"
                 hreflang="it"
                 href="https://filenux.com/it/download/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="tr"
+                href="https://filenux.com/tr/download/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="id"
+                href="https://filenux.com/id/download/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi"
+                href="https://filenux.com/vi/download/"
                 />
     <xhtml:link
                 rel="alternate"

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Danh sách tất cả các tác giả FileNUX on FileNUX</title>
+    <link>https://filenux.com/vi/authors/</link>
+    <description>Recent content in Danh sách tất cả các tác giả FileNUX on FileNUX</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 30 Mar 2023 20:00:37 -0300</lastBuildDate><atom:link href="https://filenux.com/vi/authors/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Tất cả các bài đánh giá phần mềm của Marc Alfano trên FileNUX</title>
+      <link>https://filenux.com/vi/authors/marc-alfano/</link>
+      <pubDate>Thu, 30 Mar 2023 20:00:37 -0300</pubDate>
+      
+      <guid>https://filenux.com/vi/authors/marc-alfano/</guid>
+      <description>Nhà văn kỹ thuật</description>
+    </item>
+    
+    <item>
+      <title>Tất cả các bài đánh giá phần mềm của Richard Scott trên FileNUX</title>
+      <link>https://filenux.com/vi/authors/richard-scott/</link>
+      <pubDate>Thu, 30 Mar 2023 19:46:32 -0300</pubDate>
+      
+      <guid>https://filenux.com/vi/authors/richard-scott/</guid>
+      <description>Nhà văn kỹ thuật</description>
+    </item>
+    
+    <item>
+      <title>Tất cả các bài đánh giá phần mềm của Bruno Souza trên FileNUX</title>
+      <link>https://filenux.com/vi/authors/bruno-souza/</link>
+      <pubDate>Thu, 30 Mar 2023 19:38:52 -0300</pubDate>
+      
+      <guid>https://filenux.com/vi/authors/bruno-souza/</guid>
+      <description>Nhà văn kỹ thuật và biên tập viên</description>
+    </item>
+    
+    <item>
+      <title>Tất cả các bài đánh giá phần mềm của Akira Osawa trên FileNUX</title>
+      <link>https://filenux.com/vi/authors/akira-osawa/</link>
+      <pubDate>Thu, 23 Mar 2023 10:47:22 -0300</pubDate>
+      
+      <guid>https://filenux.com/vi/authors/akira-osawa/</guid>
+      <description>Nhà văn kỹ thuật và biên tập viên</description>
+    </item>
+    
+    <item>
+      <title>Tất cả các bài đánh giá phần mềm của Ernest Costa trên FileNUX</title>
+      <link>https://filenux.com/vi/authors/ernest-costa/</link>
+      <pubDate>Thu, 23 Mar 2023 10:32:08 -0300</pubDate>
+      
+      <guid>https://filenux.com/vi/authors/ernest-costa/</guid>
+      <description>Nhà văn kỹ thuật</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tüm FileNUX yazarlarının listesi on FileNUX</title>
+    <link>https://filenux.com/tr/authors/</link>
+    <description>Recent content in Tüm FileNUX yazarlarının listesi on FileNUX</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 30 Mar 2023 20:00:37 -0300</lastBuildDate><atom:link href="https://filenux.com/tr/authors/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>FileNUX&#39;te Marc Alfano tarafından yazılan Tüm Yazılım İncelemeleri</title>
+      <link>https://filenux.com/tr/authors/marc-alfano/</link>
+      <pubDate>Thu, 30 Mar 2023 20:00:37 -0300</pubDate>
+      
+      <guid>https://filenux.com/tr/authors/marc-alfano/</guid>
+      <description>Teknik Yazar</description>
+    </item>
+    
+    <item>
+      <title>FileNUX&#39;te Richard Scott&#39;tan Tüm Yazılım İncelemeleri</title>
+      <link>https://filenux.com/tr/authors/richard-scott/</link>
+      <pubDate>Thu, 30 Mar 2023 19:46:32 -0300</pubDate>
+      
+      <guid>https://filenux.com/tr/authors/richard-scott/</guid>
+      <description>Teknik Yazar</description>
+    </item>
+    
+    <item>
+      <title>FileNUX&#39;te Bruno Souza&#39;dan Tüm Yazılım İncelemeleri</title>
+      <link>https://filenux.com/tr/authors/bruno-souza/</link>
+      <pubDate>Thu, 30 Mar 2023 19:38:52 -0300</pubDate>
+      
+      <guid>https://filenux.com/tr/authors/bruno-souza/</guid>
+      <description>Teknik Yazar ve Editör</description>
+    </item>
+    
+    <item>
+      <title>FileNUX&#39;te Akira Osawa&#39;nın Tüm Yazılım İncelemeleri</title>
+      <link>https://filenux.com/tr/authors/akira-osawa/</link>
+      <pubDate>Thu, 23 Mar 2023 10:47:22 -0300</pubDate>
+      
+      <guid>https://filenux.com/tr/authors/akira-osawa/</guid>
+      <description>Teknik Yazar ve Editör</description>
+    </item>
+    
+    <item>
+      <title>FileNUX&#39;te Ernest Costa&#39;dan Tüm Yazılım İncelemeleri</title>
+      <link>https://filenux.com/tr/authors/ernest-costa/</link>
+      <pubDate>Thu, 23 Mar 2023 10:32:08 -0300</pubDate>
+      
+      <guid>https://filenux.com/tr/authors/ernest-costa/</guid>
+      <description>Teknik Yazar</description>
+    </item>
+    
+  </channel>
+</rss>
