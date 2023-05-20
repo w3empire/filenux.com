@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>En İyi Yazılım Makaleleri: Ayrıntılı Kılavuzlar, Öğreticiler ve İncelemeler on FileNUX</title>
+    <link>https://filenux.com/tr/articles/</link>
+    <description>Recent content in En İyi Yazılım Makaleleri: Ayrıntılı Kılavuzlar, Öğreticiler ve İncelemeler on FileNUX</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 16 May 2023 12:06:40 -0300</lastBuildDate><atom:link href="https://filenux.com/tr/articles/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Neden Firefox? Bu Web Tarayıcısını Seçmenin Avantajları</title>
+      <link>https://filenux.com/tr/articles/why-firefox-advantages-of-choosing-this-web-browser/</link>
+      <pubDate>Tue, 16 May 2023 12:06:40 -0300</pubDate>
+      
+      <guid>https://filenux.com/tr/articles/why-firefox-advantages-of-choosing-this-web-browser/</guid>
+      <description>İdeal web tarayıcısını seçmeye gelince, birçok kişi mevcut tüm seçenekleri göz önünde bulundurmadan Google Chrome veya Safari&amp;rsquo;nin popüler seçimlerini varsayılan olarak kullanır.</description>
+    </item>
+    
+    <item>
+      <title>Firefox&#39;ta Ustalaşmak: Kullanıcılar İçin Temel İpuçları ve Püf Noktaları</title>
+      <link>https://filenux.com/tr/articles/mastering-firefox-essential-tips-and-tricks-for-users/</link>
+      <pubDate>Sun, 14 May 2023 14:29:55 -0300</pubDate>
+      
+      <guid>https://filenux.com/tr/articles/mastering-firefox-essential-tips-and-tricks-for-users/</guid>
+      <description>Mozilla Firefox, hızı, güvenliği ve özelleştirilebilir özellikleriyle tanınan, günümüzde kullanılan en popüler web tarayıcılarından biridir.</description>
+    </item>
+    
+    <item>
+      <title>Geekbench 6: 2023&#39;te Teknolojinin Geleceğini Kıyaslama</title>
+      <link>https://filenux.com/tr/articles/geekbench-6-benchmarking-the-future-of-tech-in-2023/</link>
+      <pubDate>Sun, 14 May 2023 08:14:45 -0300</pubDate>
+      
+      <guid>https://filenux.com/tr/articles/geekbench-6-benchmarking-the-future-of-tech-in-2023/</guid>
+      <description>Primate Labs, bilgi işlemin gelişen doğasına ayak uydurmak için dinamik bir hareketle, endüstri lideri kıyaslama aracının en son sürümü olan Geekbench 6&amp;rsquo;yı tanıttı.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -6,14 +6,41 @@
     <description>Recent content in 所有 FileNUX 作者的列表 on FileNUX</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 30 Mar 2023 20:00:37 -0300</lastBuildDate><atom:link href="https://filenux.com/zh-cn/authors/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 17 May 2023 11:00:26 -0300</lastBuildDate><atom:link href="https://filenux.com/zh-cn/authors/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Marc Alfano 在 FileNUX 上的所有软件评论</title>
       <link>https://filenux.com/zh-cn/authors/marc-alfano/</link>
-      <pubDate>Thu, 30 Mar 2023 20:00:37 -0300</pubDate>
+      <pubDate>Wed, 17 May 2023 11:00:26 -0300</pubDate>
       
       <guid>https://filenux.com/zh-cn/authors/marc-alfano/</guid>
       <description>技术文件撰稿人</description>
+    </item>
+    
+    <item>
+      <title>Bruno Souza 在 FileNUX 上的所有软件评论</title>
+      <link>https://filenux.com/zh-cn/authors/bruno-souza/</link>
+      <pubDate>Tue, 16 May 2023 12:06:40 -0300</pubDate>
+      
+      <guid>https://filenux.com/zh-cn/authors/bruno-souza/</guid>
+      <description>技术作家和编辑</description>
+    </item>
+    
+    <item>
+      <title>Ernest Costa 在 FileNUX 上的所有软件评论</title>
+      <link>https://filenux.com/zh-cn/authors/ernest-costa/</link>
+      <pubDate>Tue, 16 May 2023 10:41:07 -0300</pubDate>
+      
+      <guid>https://filenux.com/zh-cn/authors/ernest-costa/</guid>
+      <description>技术文件撰稿人</description>
+    </item>
+    
+    <item>
+      <title>Akira Osawa 在 FileNUX 上的所有软件评论</title>
+      <link>https://filenux.com/zh-cn/authors/akira-osawa/</link>
+      <pubDate>Sun, 14 May 2023 08:14:45 -0300</pubDate>
+      
+      <guid>https://filenux.com/zh-cn/authors/akira-osawa/</guid>
+      <description>技术作家和编辑</description>
     </item>
     
     <item>
@@ -22,33 +49,6 @@
       <pubDate>Thu, 30 Mar 2023 19:46:32 -0300</pubDate>
       
       <guid>https://filenux.com/zh-cn/authors/richard-scott/</guid>
-      <description>技术文件撰稿人</description>
-    </item>
-    
-    <item>
-      <title>Bruno Souza 在 FileNUX 上的所有软件评论</title>
-      <link>https://filenux.com/zh-cn/authors/bruno-souza/</link>
-      <pubDate>Thu, 30 Mar 2023 19:38:52 -0300</pubDate>
-      
-      <guid>https://filenux.com/zh-cn/authors/bruno-souza/</guid>
-      <description>技术作家和编辑</description>
-    </item>
-    
-    <item>
-      <title>Akira Osawa 在 FileNUX 上的所有软件评论</title>
-      <link>https://filenux.com/zh-cn/authors/akira-osawa/</link>
-      <pubDate>Thu, 23 Mar 2023 10:47:22 -0300</pubDate>
-      
-      <guid>https://filenux.com/zh-cn/authors/akira-osawa/</guid>
-      <description>技术作家和编辑</description>
-    </item>
-    
-    <item>
-      <title>Ernest Costa 在 FileNUX 上的所有软件评论</title>
-      <link>https://filenux.com/zh-cn/authors/ernest-costa/</link>
-      <pubDate>Thu, 23 Mar 2023 10:32:08 -0300</pubDate>
-      
-      <guid>https://filenux.com/zh-cn/authors/ernest-costa/</guid>
       <description>技术文件撰稿人</description>
     </item>
     

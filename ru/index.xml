@@ -1,12 +1,120 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>FileNUX — загрузка программного обеспечения для Windows, macOS и Android on FileNUX</title>
+    <title>FileNUX — Загрузка Программного Обеспечения для Windows, macOS и Android on FileNUX</title>
     <link>https://filenux.com/ru/</link>
-    <description>Recent content in FileNUX — загрузка программного обеспечения для Windows, macOS и Android on FileNUX</description>
+    <description>Recent content in FileNUX — Загрузка Программного Обеспечения для Windows, macOS и Android on FileNUX</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 30 Mar 2023 20:00:37 -0300</lastBuildDate><atom:link href="https://filenux.com/ru/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 17 May 2023 11:00:26 -0300</lastBuildDate><atom:link href="https://filenux.com/ru/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Большое обновление для ChatGPT Plus: будущее ИИ теперь на связи</title>
+      <link>https://filenux.com/ru/news/big-update-for-chatgpt-plus-the-future-of-ai-is-now-connected/</link>
+      <pubDate>Wed, 17 May 2023 11:00:26 -0300</pubDate>
+      
+      <guid>https://filenux.com/ru/news/big-update-for-chatgpt-plus-the-future-of-ai-is-now-connected/</guid>
+      <description>OpenAI объявила о значительном обновлении своей службы подписки ChatGPT Plus, которая будет запущена на этой неделе.</description>
+    </item>
+    
+    <item>
+      <title>Почему Firefox? Преимущества выбора этого веб-браузера</title>
+      <link>https://filenux.com/ru/articles/why-firefox-advantages-of-choosing-this-web-browser/</link>
+      <pubDate>Tue, 16 May 2023 12:06:40 -0300</pubDate>
+      
+      <guid>https://filenux.com/ru/articles/why-firefox-advantages-of-choosing-this-web-browser/</guid>
+      <description>Когда дело доходит до выбора идеального веб-браузера, многие люди по умолчанию выбирают популярные варианты Google Chrome или Safari, не рассматривая весь спектр доступных вариантов.</description>
+    </item>
+    
+    <item>
+      <title>ChatGPT-4: следующий уровень диалогового интеллекта на базе искусственного интеллекта</title>
+      <link>https://filenux.com/ru/news/chatgpt-4-the-next-level-of-ai-powered-conversational-intelligence/</link>
+      <pubDate>Tue, 16 May 2023 10:41:07 -0300</pubDate>
+      
+      <guid>https://filenux.com/ru/news/chatgpt-4-the-next-level-of-ai-powered-conversational-intelligence/</guid>
+      <description>Мир искусственного интеллекта (ИИ) продолжает развиваться беспрецедентными темпами. С каждым годом разрабатываются более совершенные, сложные и функциональные модели.</description>
+    </item>
+    
+    <item>
+      <title>Освоение Firefox: основные советы и рекомендации для пользователей</title>
+      <link>https://filenux.com/ru/articles/mastering-firefox-essential-tips-and-tricks-for-users/</link>
+      <pubDate>Sun, 14 May 2023 14:29:55 -0300</pubDate>
+      
+      <guid>https://filenux.com/ru/articles/mastering-firefox-essential-tips-and-tricks-for-users/</guid>
+      <description>Mozilla Firefox — один из самых популярных современных веб-браузеров, известный своей скоростью, безопасностью и настраиваемыми функциями.</description>
+    </item>
+    
+    <item>
+      <title>Geekbench</title>
+      <link>https://filenux.com/ru/downloads/geekbench-windows/</link>
+      <pubDate>Sun, 14 May 2023 12:14:18 -0300</pubDate>
+      
+      <guid>https://filenux.com/ru/downloads/geekbench-windows/</guid>
+      <description>Geekbench — это программа, которая помогает измерить производительность процессора и памяти вашего компьютера.</description>
+    </item>
+    
+    <item>
+      <title>Geekbench 6: оценка будущего технологий в 2023 году</title>
+      <link>https://filenux.com/ru/articles/geekbench-6-benchmarking-the-future-of-tech-in-2023/</link>
+      <pubDate>Sun, 14 May 2023 08:14:45 -0300</pubDate>
+      
+      <guid>https://filenux.com/ru/articles/geekbench-6-benchmarking-the-future-of-tech-in-2023/</guid>
+      <description>Стремясь идти в ногу с меняющейся природой вычислений, Primate Labs представила Geekbench 6, последнюю версию своего ведущего в отрасли инструмента для сравнительного анализа.</description>
+    </item>
+    
+    <item>
+      <title>Vivaldi 6.0 представляет рабочие области и пользовательские значки тем для пользователей</title>
+      <link>https://filenux.com/ru/news/vivaldi-6-0-unveils-workspaces-custom-theme-icons-for-users/</link>
+      <pubDate>Sat, 13 May 2023 07:33:17 -0300</pubDate>
+      
+      <guid>https://filenux.com/ru/news/vivaldi-6-0-unveils-workspaces-custom-theme-icons-for-users/</guid>
+      <description>Vivaldi, инновационный веб-браузер, разработанный для опытных пользователей, выпустил свою последнюю версию — Vivaldi 6.</description>
+    </item>
+    
+    <item>
+      <title>Обновление Firefox 113: новый поиск, улучшения PiP и повышенная безопасность</title>
+      <link>https://filenux.com/ru/news/discover-whats-new-in-firefox-113/</link>
+      <pubDate>Sat, 13 May 2023 07:33:17 -0300</pubDate>
+      
+      <guid>https://filenux.com/ru/news/discover-whats-new-in-firefox-113/</guid>
+      <description>Mozilla выпустила последнюю версию своего популярного веб-браузера Firefox 113 со значительными обновлениями в области безопасности, функций поиска и режима «картинка в картинке».</description>
+    </item>
+    
+    <item>
+      <title>BatteryCare Portable</title>
+      <link>https://filenux.com/ru/downloads/batterycare-portable-windows/</link>
+      <pubDate>Wed, 10 May 2023 12:03:41 -0300</pubDate>
+      
+      <guid>https://filenux.com/ru/downloads/batterycare-portable-windows/</guid>
+      <description>BatteryCare — это бесплатное программное приложение, разработанное для операционной системы Windows, которое позволяет пользователям отслеживать и оптимизировать работу батареи своего ноутбука.</description>
+    </item>
+    
+    <item>
+      <title>BatteryCare</title>
+      <link>https://filenux.com/ru/downloads/batterycare-windows/</link>
+      <pubDate>Wed, 10 May 2023 08:36:54 -0300</pubDate>
+      
+      <guid>https://filenux.com/ru/downloads/batterycare-windows/</guid>
+      <description>BatteryCare — это бесплатная программа, разработанная для того, чтобы помочь пользователям Windows продлить срок службы аккумуляторов своих ноутбуков.</description>
+    </item>
+    
+    <item>
+      <title>BurnInTest Professional</title>
+      <link>https://filenux.com/ru/downloads/burnintest-professional-windows/</link>
+      <pubDate>Wed, 10 May 2023 08:01:40 -0300</pubDate>
+      
+      <guid>https://filenux.com/ru/downloads/burnintest-professional-windows/</guid>
+      <description>BurnInTest Professional — это программная утилита, разработанная компанией PassMark Software и предназначенная для проверки производительности и стабильности аппаратных компонентов компьютера.</description>
+    </item>
+    
+    <item>
+      <title>AMD Ryzen Master</title>
+      <link>https://filenux.com/ru/downloads/amd-ryzen-master-windows/</link>
+      <pubDate>Wed, 10 May 2023 07:28:22 -0300</pubDate>
+      
+      <guid>https://filenux.com/ru/downloads/amd-ryzen-master-windows/</guid>
+      <description>AMD Ryzen Master — это служебное программное обеспечение, разработанное AMD, которое позволяет пользователям разгонять и настраивать параметры своих процессоров AMD Ryzen в среде операционной системы Windows.</description>
+    </item>
+    
     <item>
       <title>ZoneAlarm Free Antivirus</title>
       <link>https://filenux.com/ru/downloads/zonealarm-free-antivirus-windows/</link>

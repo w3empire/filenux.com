@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Principales Artículos De Software: Guías Detalladas, Tutoriales y Reseñas on FileNUX</title>
+    <link>https://filenux.com/es/articles/</link>
+    <description>Recent content in Principales Artículos De Software: Guías Detalladas, Tutoriales y Reseñas on FileNUX</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 16 May 2023 12:06:40 -0300</lastBuildDate><atom:link href="https://filenux.com/es/articles/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>¿Por qué Firefox? Ventajas de elegir este navegador web</title>
+      <link>https://filenux.com/es/articles/why-firefox-advantages-of-choosing-this-web-browser/</link>
+      <pubDate>Tue, 16 May 2023 12:06:40 -0300</pubDate>
+      
+      <guid>https://filenux.com/es/articles/why-firefox-advantages-of-choosing-this-web-browser/</guid>
+      <description>Cuando se trata de seleccionar el navegador web ideal, muchas personas utilizan por defecto las opciones populares de Google Chrome o Safari sin considerar la gama completa de opciones disponibles.</description>
+    </item>
+    
+    <item>
+      <title>Dominar Firefox: trucos y consejos esenciales para los usuarios</title>
+      <link>https://filenux.com/es/articles/mastering-firefox-essential-tips-and-tricks-for-users/</link>
+      <pubDate>Sun, 14 May 2023 14:29:55 -0300</pubDate>
+      
+      <guid>https://filenux.com/es/articles/mastering-firefox-essential-tips-and-tricks-for-users/</guid>
+      <description>Mozilla Firefox es uno de los navegadores web más populares en uso hoy en día, conocido por su velocidad, seguridad y funciones personalizables.</description>
+    </item>
+    
+    <item>
+      <title>Geekbench 6: Evaluación comparativa del futuro de la tecnología en 2023</title>
+      <link>https://filenux.com/es/articles/geekbench-6-benchmarking-the-future-of-tech-in-2023/</link>
+      <pubDate>Sun, 14 May 2023 08:14:45 -0300</pubDate>
+      
+      <guid>https://filenux.com/es/articles/geekbench-6-benchmarking-the-future-of-tech-in-2023/</guid>
+      <description>En un movimiento dinámico para seguir el ritmo de la naturaleza evolutiva de la informática, Primate Labs ha presentado Geekbench 6, la última versión de su herramienta de evaluación comparativa líder en la industria.</description>
+    </item>
+    
+  </channel>
+</rss>

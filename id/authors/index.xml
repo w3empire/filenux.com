@@ -6,14 +6,41 @@
     <description>Recent content in Daftar semua penulis FileNUX on FileNUX</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 30 Mar 2023 20:00:37 -0300</lastBuildDate><atom:link href="https://filenux.com/id/authors/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 17 May 2023 11:00:26 -0300</lastBuildDate><atom:link href="https://filenux.com/id/authors/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Semua Ulasan Perangkat Lunak oleh Marc Alfano di FileNUX</title>
       <link>https://filenux.com/id/authors/marc-alfano/</link>
-      <pubDate>Thu, 30 Mar 2023 20:00:37 -0300</pubDate>
+      <pubDate>Wed, 17 May 2023 11:00:26 -0300</pubDate>
       
       <guid>https://filenux.com/id/authors/marc-alfano/</guid>
       <description>Penulis Teknis</description>
+    </item>
+    
+    <item>
+      <title>Semua Ulasan Perangkat Lunak oleh Bruno Souza di FileNUX</title>
+      <link>https://filenux.com/id/authors/bruno-souza/</link>
+      <pubDate>Tue, 16 May 2023 12:06:40 -0300</pubDate>
+      
+      <guid>https://filenux.com/id/authors/bruno-souza/</guid>
+      <description>Penulis Teknis dan Editor</description>
+    </item>
+    
+    <item>
+      <title>Semua Ulasan Perangkat Lunak oleh Ernest Costa di FileNUX</title>
+      <link>https://filenux.com/id/authors/ernest-costa/</link>
+      <pubDate>Tue, 16 May 2023 10:41:07 -0300</pubDate>
+      
+      <guid>https://filenux.com/id/authors/ernest-costa/</guid>
+      <description>Penulis Teknis</description>
+    </item>
+    
+    <item>
+      <title>Semua Ulasan Perangkat Lunak oleh Akira Osawa di FileNUX</title>
+      <link>https://filenux.com/id/authors/akira-osawa/</link>
+      <pubDate>Sun, 14 May 2023 08:14:45 -0300</pubDate>
+      
+      <guid>https://filenux.com/id/authors/akira-osawa/</guid>
+      <description>Penulis Teknis dan Editor</description>
     </item>
     
     <item>
@@ -22,33 +49,6 @@
       <pubDate>Thu, 30 Mar 2023 19:46:32 -0300</pubDate>
       
       <guid>https://filenux.com/id/authors/richard-scott/</guid>
-      <description>Penulis Teknis</description>
-    </item>
-    
-    <item>
-      <title>Semua Ulasan Perangkat Lunak oleh Bruno Souza di FileNUX</title>
-      <link>https://filenux.com/id/authors/bruno-souza/</link>
-      <pubDate>Thu, 30 Mar 2023 19:38:52 -0300</pubDate>
-      
-      <guid>https://filenux.com/id/authors/bruno-souza/</guid>
-      <description>Penulis Teknis dan Editor</description>
-    </item>
-    
-    <item>
-      <title>Semua Ulasan Perangkat Lunak oleh Akira Osawa di FileNUX</title>
-      <link>https://filenux.com/id/authors/akira-osawa/</link>
-      <pubDate>Thu, 23 Mar 2023 10:47:22 -0300</pubDate>
-      
-      <guid>https://filenux.com/id/authors/akira-osawa/</guid>
-      <description>Penulis Teknis dan Editor</description>
-    </item>
-    
-    <item>
-      <title>Semua Ulasan Perangkat Lunak oleh Ernest Costa di FileNUX</title>
-      <link>https://filenux.com/id/authors/ernest-costa/</link>
-      <pubDate>Thu, 23 Mar 2023 10:32:08 -0300</pubDate>
-      
-      <guid>https://filenux.com/id/authors/ernest-costa/</guid>
       <description>Penulis Teknis</description>
     </item>
     

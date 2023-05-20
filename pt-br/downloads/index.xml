@@ -6,7 +6,52 @@
     <description>Recent content in Baixe os Principais Softwares para Windows, Mac &amp; Android (Gratuito &amp; Seguro) on FileNUX</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 30 Mar 2023 20:00:37 -0300</lastBuildDate><atom:link href="https://filenux.com/pt-br/downloads/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 14 May 2023 12:14:18 -0300</lastBuildDate><atom:link href="https://filenux.com/pt-br/downloads/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Geekbench</title>
+      <link>https://filenux.com/pt-br/downloads/geekbench-windows/</link>
+      <pubDate>Sun, 14 May 2023 12:14:18 -0300</pubDate>
+      
+      <guid>https://filenux.com/pt-br/downloads/geekbench-windows/</guid>
+      <description>Geekbench é um programa de software que ajuda a medir o desempenho do processador e da memória do seu computador.</description>
+    </item>
+    
+    <item>
+      <title>BatteryCare Portable</title>
+      <link>https://filenux.com/pt-br/downloads/batterycare-portable-windows/</link>
+      <pubDate>Wed, 10 May 2023 12:03:41 -0300</pubDate>
+      
+      <guid>https://filenux.com/pt-br/downloads/batterycare-portable-windows/</guid>
+      <description>BatteryCare é um aplicativo de software gratuito projetado para o sistema operacional Windows que permite aos usuários monitorar e otimizar o desempenho da bateria do laptop.</description>
+    </item>
+    
+    <item>
+      <title>BatteryCare</title>
+      <link>https://filenux.com/pt-br/downloads/batterycare-windows/</link>
+      <pubDate>Wed, 10 May 2023 08:36:54 -0300</pubDate>
+      
+      <guid>https://filenux.com/pt-br/downloads/batterycare-windows/</guid>
+      <description>BatteryCare é um programa de software gratuito projetado para ajudar os usuários do Windows a prolongar a vida útil das baterias de seus laptops.</description>
+    </item>
+    
+    <item>
+      <title>BurnInTest Professional</title>
+      <link>https://filenux.com/pt-br/downloads/burnintest-professional-windows/</link>
+      <pubDate>Wed, 10 May 2023 08:01:40 -0300</pubDate>
+      
+      <guid>https://filenux.com/pt-br/downloads/burnintest-professional-windows/</guid>
+      <description>BurnInTest Professional é um utilitário de software desenvolvido pela PassMark Software, projetado para testar o desempenho e a estabilidade dos componentes de hardware do computador.</description>
+    </item>
+    
+    <item>
+      <title>AMD Ryzen Master</title>
+      <link>https://filenux.com/pt-br/downloads/amd-ryzen-master-windows/</link>
+      <pubDate>Wed, 10 May 2023 07:28:22 -0300</pubDate>
+      
+      <guid>https://filenux.com/pt-br/downloads/amd-ryzen-master-windows/</guid>
+      <description>AMD Ryzen Master é um software utilitário desenvolvido pela AMD que permite aos usuários fazer overclock e ajustar as configurações de seus processadores AMD Ryzen no ambiente do sistema operacional Windows.</description>
+    </item>
+    
     <item>
       <title>ZoneAlarm Free Antivirus</title>
       <link>https://filenux.com/pt-br/downloads/zonealarm-free-antivirus-windows/</link>
