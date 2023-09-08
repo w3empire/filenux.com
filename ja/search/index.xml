@@ -5,6 +5,6 @@
     <link>https://filenux.com/ja/search/</link>
     <description>Recent content in 検索中... on FileNUX</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="https://filenux.com/ja/search/index.xml" rel="self" type="application/rss+xml" />
+    <language>ja</language><atom:link href="https://filenux.com/ja/search/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

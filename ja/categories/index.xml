@@ -5,7 +5,7 @@
     <link>https://filenux.com/ja/categories/</link>
     <description>Recent content in Windows、Mac、Android 向けの最適なソフトウェア カテゴリを調べる on FileNUX</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
+    <language>ja</language>
     <lastBuildDate>Sun, 14 May 2023 12:14:18 -0300</lastBuildDate><atom:link href="https://filenux.com/ja/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Windows用の最高のベンチマークソフトウェアをダウンロードする</title>
@@ -41,6 +41,15 @@
       
       <guid>https://filenux.com/ja/categories/windows-browsers-and-plugins/</guid>
       <description>Google Chrome、Microsoft Edge、Mozilla Firefox、Operaなど、Windows用の最新かつ最高のブラウザをダウンロードしてください。</description>
+    </item>
+    
+    <item>
+      <title>Android用の最高の子育てアプリをダウンロード（APKファイル）</title>
+      <link>https://filenux.com/ja/categories/android-parenting-apps/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://filenux.com/ja/categories/android-parenting-apps/</guid>
+      <description>FileNUX で人気の Android 向け子育てアプリをご覧ください。 Android モバイル システム用の APK ファイルをダウンロードします。 無料の Android アプリをダウンロードします。</description>
     </item>
     
   </channel>
