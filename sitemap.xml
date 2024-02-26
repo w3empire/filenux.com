@@ -1,95 +1,38 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  
-  <sitemap>
-    <loc>https://filenux.com/en/sitemap.xml</loc>
-    
-      <lastmod>2023-08-28T20:33:16-03:00</lastmod>
-    
-  </sitemap>
-  
-  <sitemap>
-    <loc>https://filenux.com/pt-br/sitemap.xml</loc>
-    
-      <lastmod>2023-08-27T16:05:08-03:00</lastmod>
-    
-  </sitemap>
-  
-  <sitemap>
-    <loc>https://filenux.com/es/sitemap.xml</loc>
-    
-      <lastmod>2023-06-26T18:42:15-03:00</lastmod>
-    
-  </sitemap>
-  
-  <sitemap>
-    <loc>https://filenux.com/zh-cn/sitemap.xml</loc>
-    
-      <lastmod>2023-06-26T18:42:15-03:00</lastmod>
-    
-  </sitemap>
-  
-  <sitemap>
-    <loc>https://filenux.com/ru/sitemap.xml</loc>
-    
-      <lastmod>2023-06-26T18:42:15-03:00</lastmod>
-    
-  </sitemap>
-  
-  <sitemap>
-    <loc>https://filenux.com/ja/sitemap.xml</loc>
-    
-      <lastmod>2023-06-26T18:42:15-03:00</lastmod>
-    
-  </sitemap>
-  
-  <sitemap>
-    <loc>https://filenux.com/de/sitemap.xml</loc>
-    
-      <lastmod>2023-06-26T18:42:15-03:00</lastmod>
-    
-  </sitemap>
-  
-  <sitemap>
-    <loc>https://filenux.com/ko/sitemap.xml</loc>
-    
-      <lastmod>2023-06-26T18:42:15-03:00</lastmod>
-    
-  </sitemap>
-  
-  <sitemap>
-    <loc>https://filenux.com/fr/sitemap.xml</loc>
-    
-      <lastmod>2023-06-26T18:42:15-03:00</lastmod>
-    
-  </sitemap>
-  
-  <sitemap>
-    <loc>https://filenux.com/it/sitemap.xml</loc>
-    
-      <lastmod>2023-06-26T18:42:15-03:00</lastmod>
-    
-  </sitemap>
-  
-  <sitemap>
-    <loc>https://filenux.com/tr/sitemap.xml</loc>
-    
-      <lastmod>2023-06-26T18:42:15-03:00</lastmod>
-    
-  </sitemap>
-  
-  <sitemap>
-    <loc>https://filenux.com/id/sitemap.xml</loc>
-    
-      <lastmod>2023-06-26T18:42:15-03:00</lastmod>
-    
-  </sitemap>
-  
-  <sitemap>
-    <loc>https://filenux.com/vi/sitemap.xml</loc>
-    
-      <lastmod>2023-06-26T18:42:15-03:00</lastmod>
-    
-  </sitemap>
-  
-</sitemapindex>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://filenux.com/</loc>
+    <lastmod>2024-02-21T20:21:33-03:00</lastmod>
+  </url><url>
+    <loc>https://filenux.com/articles/</loc>
+    <lastmod>2024-02-21T20:21:33-03:00</lastmod>
+  </url><url>
+    <loc>https://filenux.com/articles/best-chatgpt-alternatives-for-you-to-try-right-now/</loc>
+    <lastmod>2024-02-21T20:21:33-03:00</lastmod>
+  </url><url>
+    <loc>https://filenux.com/articles/best-free-sublime-text-alternatives-for-developers/</loc>
+    <lastmod>2024-02-20T12:41:35-03:00</lastmod>
+  </url><url>
+    <loc>https://filenux.com/articles/top-must-have-ebook-readers-for-android/</loc>
+    <lastmod>2024-02-19T21:17:46-03:00</lastmod>
+  </url><url>
+    <loc>https://filenux.com/institutional/affiliate-disclosure/</loc>
+  </url><url>
+    <loc>https://filenux.com/institutional/cookie-policy/</loc>
+  </url><url>
+    <loc>https://filenux.com/fandoms/</loc>
+  </url><url>
+    <loc>https://filenux.com/institutional/about/</loc>
+  </url><url>
+    <loc>https://filenux.com/institutional/</loc>
+  </url><url>
+    <loc>https://filenux.com/institutional/privacy-policy/</loc>
+  </url><url>
+    <loc>https://filenux.com/search/</loc>
+  </url><url>
+    <loc>https://filenux.com/institutional/terms/</loc>
+  </url><url>
+    <loc>https://filenux.com/fandoms/video-games/</loc>
+  </url>
+</urlset>
