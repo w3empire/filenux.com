@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>google-news on FileNUX</title>
+    <link>https://filenux.com/topics/google-news/</link>
+    <description>Recent content in google-news on FileNUX</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 23 Oct 2024 10:23:42 -0300</lastBuildDate><atom:link href="https://filenux.com/topics/google-news/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Chrome’s AI Assistant Can Now Fetch Answers from PDFs</title>
+      <link>https://filenux.com/news/chromes-ai-assistant-can-now-fetch-answers-from-pdfs/</link>
+      <pubDate>Wed, 23 Oct 2024 10:23:42 -0300</pubDate>
+      
+      <guid>https://filenux.com/news/chromes-ai-assistant-can-now-fetch-answers-from-pdfs/</guid>
+      <description>Chrome&amp;rsquo;s AI assistant can pull information from PDFs by simply answering questions.</description>
+    </item>
+    
+    <item>
+      <title>New Gmail Feature Simplifies Package and Event Tracking</title>
+      <link>https://filenux.com/news/new-gmail-feature-simplifies-package-and-event-tracking/</link>
+      <pubDate>Wed, 23 Oct 2024 10:15:31 -0300</pubDate>
+      
+      <guid>https://filenux.com/news/new-gmail-feature-simplifies-package-and-event-tracking/</guid>
+      <description>Gmail has upgraded summary cards to help users track purchases, events, and bills more easily.</description>
+    </item>
+    
+    <item>
+      <title>AI-Powered Search Tools: Google Lens Now Supports Video and Voice</title>
+      <link>https://filenux.com/news/ai-powered-search-tools-google-lens-now-supports-video-and-voice/</link>
+      <pubDate>Sun, 20 Oct 2024 20:06:46 -0300</pubDate>
+      
+      <guid>https://filenux.com/news/ai-powered-search-tools-google-lens-now-supports-video-and-voice/</guid>
+      <description>Google Lens now lets you search using voice commands and videos.</description>
+    </item>
+    
+    <item>
+      <title>Google Pixel 9 AI Photo Tool Blurs the Line Between Real and Fake</title>
+      <link>https://filenux.com/news/google-pixel-9-ai-photo-tool-blurs-the-line-between-real-and-fake/</link>
+      <pubDate>Tue, 27 Aug 2024 10:36:00 -0300</pubDate>
+      
+      <guid>https://filenux.com/news/google-pixel-9-ai-photo-tool-blurs-the-line-between-real-and-fake/</guid>
+      <description>Google&amp;rsquo;s new AI photo-editing tool makes it easy to create convincing fake images that look real.</description>
+    </item>
+    
+  </channel>
+</rss>

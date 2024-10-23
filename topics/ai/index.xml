@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ai on FileNUX</title>
+    <link>https://filenux.com/topics/ai/</link>
+    <description>Recent content in ai on FileNUX</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 20 Oct 2024 20:06:46 -0300</lastBuildDate><atom:link href="https://filenux.com/topics/ai/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AI-Powered Search Tools: Google Lens Now Supports Video and Voice</title>
+      <link>https://filenux.com/news/ai-powered-search-tools-google-lens-now-supports-video-and-voice/</link>
+      <pubDate>Sun, 20 Oct 2024 20:06:46 -0300</pubDate>
+      
+      <guid>https://filenux.com/news/ai-powered-search-tools-google-lens-now-supports-video-and-voice/</guid>
+      <description>Google Lens now lets you search using voice commands and videos.</description>
+    </item>
+    
+    <item>
+      <title>Google Pixel 9 AI Photo Tool Blurs the Line Between Real and Fake</title>
+      <link>https://filenux.com/news/google-pixel-9-ai-photo-tool-blurs-the-line-between-real-and-fake/</link>
+      <pubDate>Tue, 27 Aug 2024 10:36:00 -0300</pubDate>
+      
+      <guid>https://filenux.com/news/google-pixel-9-ai-photo-tool-blurs-the-line-between-real-and-fake/</guid>
+      <description>Google&amp;rsquo;s new AI photo-editing tool makes it easy to create convincing fake images that look real.</description>
+    </item>
+    
+  </channel>
+</rss>

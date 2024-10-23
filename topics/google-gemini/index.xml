@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>google-gemini on FileNUX</title>
+    <link>https://filenux.com/topics/google-gemini/</link>
+    <description>Recent content in google-gemini on FileNUX</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 23 Oct 2024 10:23:42 -0300</lastBuildDate><atom:link href="https://filenux.com/topics/google-gemini/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Chrome’s AI Assistant Can Now Fetch Answers from PDFs</title>
+      <link>https://filenux.com/news/chromes-ai-assistant-can-now-fetch-answers-from-pdfs/</link>
+      <pubDate>Wed, 23 Oct 2024 10:23:42 -0300</pubDate>
+      
+      <guid>https://filenux.com/news/chromes-ai-assistant-can-now-fetch-answers-from-pdfs/</guid>
+      <description>Chrome&amp;rsquo;s AI assistant can pull information from PDFs by simply answering questions.</description>
+    </item>
+    
+  </channel>
+</rss>

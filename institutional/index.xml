@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Learn more about the FileNUX website (Our Mission and Values) on FileNUX</title>
+    <link>https://filenux.com/institutional/</link>
+    <description>Recent content in Learn more about the FileNUX website (Our Mission and Values) on FileNUX</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 19 Oct 2024 22:45:41 -0300</lastBuildDate><atom:link href="https://filenux.com/institutional/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>FileNUX – Straightforward Tech News, Reviews, and How-Tos</title>
+      <link>https://filenux.com/institutional/about/</link>
+      <pubDate>Sat, 19 Oct 2024 22:45:41 -0300</pubDate>
+      
+      <guid>https://filenux.com/institutional/about/</guid>
+      <description>Welcome to FileNUX—where tech talk gets real, fast. No fluff, no jargon overload.</description>
+    </item>
+    
+  </channel>
+</rss>
